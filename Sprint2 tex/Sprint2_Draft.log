@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.3)  12 FEB 2022 15:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  12 FEB 2022 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **"c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex"
 (c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/apa7\apa7.cls
+L3 programming layer <2022-02-05> (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/apa7\apa7.cls
 Document Class: apa7 2022/01/03 v2.15 APA formatting (7th edition)
 (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -76,7 +76,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count194
 \Gm@cntv=\count195
@@ -530,9 +530,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks31
 \@floatcapt=\box64
 )) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
+Package: expl3 2022-02-05 L3 programming layer (loader) 
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count313
 \l__pdf_internal_box=\box65
 ))
@@ -591,7 +591,7 @@ LaTeX Info: Redefining \textulc on input line 49.
 LaTeX Info: Redefining \textsu on input line 541.
 LaTeX Info: Redefining \oldstylenums on input line 631.
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/12/30 3.69 The Babel package
+Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count322
 \U@D=\dimen285
 \l@unhyphenated=\language79
@@ -691,7 +691,7 @@ Package hyperref Warning: Option `pdftex' has already been used,
 Package zref Info: New property list: pdfcomment on input line 2735.
 Package zref Info: New property: PCPDFOBJID on input line 2736.
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count338
@@ -732,12 +732,12 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@tempcnta=\count370
 \blx@tempcntb=\count371
 \blx@tempcntc=\count372
-\blx@maxsection=\count373
-\blx@maxsegment@0=\count374
+\c@blx@maxsection=\count373
+\c@blx@maxsegment@0=\count374
 \blx@notetype=\count375
 \blx@parenlevel@text=\count376
 \blx@parenlevel@foot=\count377
-\blx@sectionciteorder@0=\count378
+\c@blx@sectionciteorder@0=\count378
 \blx@entrysetcounter=\count379
 \blx@biblioinstance=\count380
 \labelnumberwidth=\skip92
@@ -757,7 +757,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
@@ -861,12 +861,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 \c@textcitecount=\count462
 \c@textcitetotal=\count463
 \c@textcitemaxnames=\count464
@@ -888,7 +888,7 @@ File: apa.bbx 2021/12/24 v9.15 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
-File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count471
 \c@bbx:relatedtotal=\count472
 )
@@ -901,8 +901,8 @@ Package biblatex Warning: The starred command '\DeclareDelimAlias*' is
 (biblatex)                Use the unstarred version '\DeclareDelimAlias'
 (biblatex)                instead.
 
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'blx@printdelim@bib@' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'blx@printdelim@biblist@' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
@@ -930,6 +930,17 @@ Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-05 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 )) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
@@ -965,87 +976,41 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \sift@deathcycles=\count474
 \@vwid@loff=\dimen299
 \@vwid@roff=\dimen300
-)) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/changes\changes.sty
-Package: changes 2021/07/15 v4.2.1 changes package
-
-*** changes package 2021/07/15 v4.2.1 ***
-ulem-option 'normalem,normalbf', passed to package ulem
-truncate-option 'breakall,fit', passed to package truncate
-changes-option 'highlightmarkup=background'
-changes-option 'defaultcolor=yellow'
-(C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
-\UL@box=\box70
-\UL@hyphenbox=\box71
-\UL@skip=\skip114
-\UL@hook=\toks35
-\UL@height=\dimen301
-\UL@pe=\count475
-\UL@pixel=\dimen302
-\ULC@box=\box72
-Package: ulem 2019/11/18
-\ULdepth=\dimen303
-) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
-Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
-Package: todonotes 2021/06/04
- (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-\c@@todonotes@numberoftodonotes=\count476
-)
-\c@Changes@AuthorCount=\count477
-\c@Changes@Author=\count478
-\c@Changes@addedCount=\count479
-\c@Changes@deletedCount=\count480
-\c@Changes@replacedCount=\count481
-\c@Changes@highlightCount=\count482
-\c@Changes@commentCount=\count483
-\c@authorcommentcount=\count484
- (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/truncate\truncate.sty
-Package: truncate 2001/08/20  ver 3.6
-\@Trunc@RestHyph=\toks36
-)
-\Changestruncatewidth=\skip115
-\Changes@summary@width=\skip116
-)
-\c@NumberOfAuthors=\count485
-\c@NumberOfSuperscripts=\count486
-\c@NumberOfAffiliations=\count487
-LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 70.
+))
+\c@NumberOfAuthors=\count475
+\c@NumberOfSuperscripts=\count476
+\c@NumberOfAffiliations=\count477
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 70.
+(Font)              scaled to size 12.0pt on input line 75.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
-
-
-LaTeX Warning: Unused global option(s):
-    [right].
-
-(Sprint2_Draft.aux)
+ (Sprint2_Draft.aux)
 \openout1 = `Sprint2_Draft.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1083,40 +1048,35 @@ LaTeX Font Info:    ... okay on input line 70.
 
 (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count488
-\scratchdimen=\dimen304
-\scratchbox=\box73
-\nofMPsegments=\count489
-\nofMParguments=\count490
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count491
-\MPscratchDim=\dimen305
-\MPnumerator=\count492
-\makeMPintoPDFobject=\count493
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count478
+\scratchdimen=\dimen301
+\scratchbox=\box70
+\nofMPsegments=\count479
+\nofMParguments=\count480
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count481
+\MPscratchDim=\dimen302
+\MPnumerator=\count482
+\makeMPintoPDFobject=\count483
+\everyMPtoPDFconversion=\toks36
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count494
+\c@section@level=\count484
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
+ (Sprint2_Draft.out) (Sprint2_Draft.out)
 \@outlinefile=\write8
 \openout8 = `Sprint2_Draft.out'.
 
@@ -1126,22 +1086,22 @@ File: APA7american.txt 2020/12/02 v1.02 apa7 configuration for American English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@mv@tabular=\count495
-\c@mv@boldtabular=\count496
-Package soulpos Info: Loading soulutf8 on input line 70.
+\c@mv@tabular=\count485
+\c@mv@boldtabular=\count486
+Package soulpos Info: Loading soulutf8 on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/soulutf8\soulutf8.sty
 Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks39
-\SOUL@lasttoken=\toks40
-\SOUL@cmds=\toks41
-\SOUL@buffer=\toks42
-\SOUL@token=\toks43
-\SOUL@spaceskip=\skip117
-\SOUL@ttwidth=\dimen306
-\SOUL@uldp=\dimen307
-\SOUL@ulht=\dimen308
+\SOUL@word=\toks37
+\SOUL@lasttoken=\toks38
+\SOUL@cmds=\toks39
+\SOUL@buffer=\toks40
+\SOUL@token=\toks41
+\SOUL@spaceskip=\skip114
+\SOUL@ttwidth=\dimen303
+\SOUL@uldp=\dimen304
+\SOUL@ulht=\dimen305
 ))
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
@@ -1150,7 +1110,7 @@ File: american-apa.lbx 2021/12/24 v9.15 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
-File: american.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: american.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-apa.lbx
@@ -1158,12 +1118,12 @@ File: english-apa.lbx 2021/12/24 v9.15 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
-File: american.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: american.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-apa.lbx
@@ -1171,94 +1131,52 @@ File: english-apa.lbx 2021/12/24 v9.15 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
-File: american.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: american.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 )))))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2022-01-21 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
- (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
-)
-Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
-)
 \openout7 = `Sprint2_Draft.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Sprint2_Draft.bbl' not found.
-
-No file Sprint2_Draft.bbl.
-Package biblatex Info: Reference section=0 on input line 70.
-Package biblatex Info: Reference segment=0 on input line 70.
-
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 70.
-
+Package biblatex Info: ... file 'Sprint2_Draft.bbl' found.
+ (Sprint2_Draft.bbl)
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 74.
-AED endfloat: Processing end Figures and Tables
-c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex:89: Undefined control sequence.
-<argument> \@shorttitle 
-                        
-l.89 \end{document}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+(Font)              scaled to size 12.0pt on input line 77.
+<./images//UNC_logo.png, id=26, 501.875pt x 501.875pt>
+File: ./images//UNC_logo.png Graphic file (type png)
+<use ./images//UNC_logo.png>
+Package pdftex.def Info: ./images//UNC_logo.png  used on input line 77.
+(pdftex.def)             Requested size: 256.0748pt x 256.08304pt.
+ [1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 \openout6 = `Sprint2_Draft.upa'.
 
-]
-\Changes@OutFile=\write9
-\openout9 = `Sprint2_Draft.soc'.
-
-\tf@loc=\write10
-\openout10 = `Sprint2_Draft.loc'.
-
- (Sprint2_Draft.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `Sprint2_Draft.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Sprint2_Draft.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  59846B2E18C18D2935447CD389CDDCEE;780.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Sprint2_Draft
-(biblatex)                and rerun LaTeX afterwards.
-
+ <./images//UNC_logo.png>] (sections/overview.tex) (sections/Hypotheses.tex) (sections/data.tex) [2] (sections/analysis.tex) (sections/conclusion.tex) AED endfloat: Processing end Figures and Tables [3] (Sprint2_Draft.aux)
+Package rerunfilecheck Info: File `Sprint2_Draft.out' has not changed.
+(rerunfilecheck)             Checksum: 2C2E1925FF155BBF956F924E5C742547;483.
 Package logreq Info: Writing requests to 'Sprint2_Draft.run.xml'.
 \openout1 = `Sprint2_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38970 strings out of 478593
- 777023 string characters out of 2844605
- 1607874 words of memory out of 3000000
- 56526 multiletter control sequences out of 15000+600000
- 478585 words of font info for 34 fonts, out of 8000000 for 9000
+ 38426 strings out of 478584
+ 763935 string characters out of 2844401
+ 1600893 words of memory out of 3000000
+ 55987 multiletter control sequences out of 15000+600000
+ 478479 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,113p,811b,5142s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,113p,811b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on Sprint2_Draft.pdf (1 page, 67366 bytes).
+Output written on Sprint2_Draft.pdf (3 pages, 87916 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 60 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
