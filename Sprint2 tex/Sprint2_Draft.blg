@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'Sprint2_Draft.blg'
-[143] biber-MSWIN64:340> INFO - === 
-[186] Biber.pm:418> INFO - Reading 'Sprint2_Draft.bcf'
+[124] biber-MSWIN64:340> INFO - === 
+[177] Biber.pm:418> INFO - Reading 'Sprint2_Draft.bcf'
 [339] Biber.pm:972> INFO - Found 14 citekeys in bib section 0
 [359] Biber.pm:4383> INFO - Processing section 0
-[374] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[455] bibtex.pm:1713> INFO - LaTeX decoding ...
-[501] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
-[648] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[648] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[648] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[648] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[676] bbl.pm:654> INFO - Writing 'Sprint2_Draft.bbl' with encoding 'UTF-8'
-[688] bbl.pm:757> INFO - Output to Sprint2_Draft.bbl
-[689] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\ricke\AppData\Local\Temp\biber_tmp_QI5X\f4d088b3f9f145b5c3058da33afd57d4_19440.utf8, line 95, warning: undefined macro "2020-01-27"
-[689] Biber.pm:132> INFO - WARNINGS: 1
+[372] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[447] bibtex.pm:1713> INFO - LaTeX decoding ...
+[490] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[623] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[624] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[624] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[624] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[648] bbl.pm:654> INFO - Writing 'Sprint2_Draft.bbl' with encoding 'UTF-8'
+[658] bbl.pm:757> INFO - Output to Sprint2_Draft.bbl
+[659] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\ricke\AppData\Local\Temp\biber_tmp_KMiE\f4d088b3f9f145b5c3058da33afd57d4_7928.utf8, line 95, warning: undefined macro "2020-01-27"
+[659] Biber.pm:132> INFO - WARNINGS: 1
