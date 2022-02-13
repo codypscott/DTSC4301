@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber Sprint2_Draft"] 1644762671 "Sprint2_Draft.bcf" "Sprint2_Draft.bbl" "Sprint2_Draft" 1644762687
-  "Sprint2_Draft.bcf" 1644762686 125323 f3d1fe27fbe16c6c841f0842597d3956 "pdflatex"
+["biber Sprint2_Draft"] 1644762671 "Sprint2_Draft.bcf" "Sprint2_Draft.bbl" "Sprint2_Draft" 1644767143
+  "Sprint2_Draft.bcf" 1644767143 125323 f3d1fe27fbe16c6c841f0842597d3956 "pdflatex"
   "bibliography.bib" 1644761826 8333 dc76e731d31fbdbcca76c4329f54074a ""
   (generated)
   "Sprint2_Draft.bbl"
   "Sprint2_Draft.blg"
-["pdflatex"] 1644762683 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" "Sprint2_Draft.pdf" "Sprint2_Draft" 1644762687
+["pdflatex"] 1644767140 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" "Sprint2_Draft.pdf" "Sprint2_Draft" 1644767143
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1644697413 155860 cf3fc52233a1318078c93f3adff9b60a ""
   "C:/Users/ricke/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644697484 10245400 9adbb60d73ddd211f073b27b9ff897bd ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1254935040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -227,10 +227,10 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623002090 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1602238298 20688 beaddf14d96104d4bf016523be5395c5 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-savepos.sty" 1602238298 3641 a666775547275e0b0095db17b536180f ""
-  "Sprint2_Draft.aux" 1644762686 7567 474a630c59fc0aa0734b7c1fb0e60316 "pdflatex"
+  "Sprint2_Draft.aux" 1644767143 7567 474a630c59fc0aa0734b7c1fb0e60316 "pdflatex"
   "Sprint2_Draft.bbl" 1644762675 20158 4c81370c1f24c4e51ccc336ef7419b8c "biber Sprint2_Draft"
-  "Sprint2_Draft.out" 1644762686 992 4b8253748405316e8a5c37aa1d63fe98 "pdflatex"
-  "Sprint2_Draft.run.xml" 1644762686 2492 ba80218b654ce6c3d9944dc418b74946 "pdflatex"
+  "Sprint2_Draft.out" 1644767143 992 4b8253748405316e8a5c37aa1d63fe98 "pdflatex"
+  "Sprint2_Draft.run.xml" 1644767143 2492 ba80218b654ce6c3d9944dc418b74946 "pdflatex"
   "Sprint2_Draft.tex" 1644762667 3788 7ca1e3769fb1176c52c6a613f9ad2123 ""
   "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" 1644762667 3788 7ca1e3769fb1176c52c6a613f9ad2123 ""
   "images//AP Participation Rate.png" 1644750319 11422 39d67f24a2eaa443c76a37db1416c8de ""
@@ -240,7 +240,7 @@
   "images//Total Counselors.png" 1644750320 10451 e94d8069ee967366644d1e13fc4b6ac3 ""
   "images//UNC_logo.png" 1644372077 10549 9029b8f9749fb1d19c03da6224ac9d89 ""
   "sections/Hypotheses.tex" 1644761747 929 00304cc857e90fcf2594f711b2517021 ""
-  "sections/analysis.tex" 1644696932 10 bd7b9df22726ef3bc5bd602f3fd773fe ""
+  "sections/analysis.tex" 1644767139 1668 b151afd7fcd393d30cd5250b7a8b53ec ""
   "sections/conclusion.tex" 1644697039 10 bd7b9df22726ef3bc5bd602f3fd773fe ""
   "sections/data.tex" 1644761031 6934 ed575fbf4cfb1273044a70fa82c6c474 ""
   "sections/overview.tex" 1644762667 2460 a6f652e77dc255bb9581777bb3d342f8 ""
