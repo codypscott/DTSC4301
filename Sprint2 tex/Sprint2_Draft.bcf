@@ -2791,8 +2791,47 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">LOO</bcf:citekey>
-    <bcf:citekey order="2">LOO</bcf:citekey>
+    <bcf:citekey order="1">chetty2014</bcf:citekey>
+    <bcf:citekey order="2">chetty2014</bcf:citekey>
+    <bcf:citekey order="3">castleman2014intensive</bcf:citekey>
+    <bcf:citekey order="4">castleman2014intensive</bcf:citekey>
+    <bcf:citekey order="5">lee1993</bcf:citekey>
+    <bcf:citekey order="6">deslonde2018high</bcf:citekey>
+    <bcf:citekey order="6">tang2019high</bcf:citekey>
+    <bcf:citekey order="7">farmer2006</bcf:citekey>
+    <bcf:citekey order="7">deslonde2018high</bcf:citekey>
+    <bcf:citekey order="8">tang2019high</bcf:citekey>
+    <bcf:citekey order="9">NCDPI</bcf:citekey>
+    <bcf:citekey order="10">NCDPI</bcf:citekey>
+    <bcf:citekey order="11">NCDPI</bcf:citekey>
+    <bcf:citekey order="12">NCReportCards</bcf:citekey>
+    <bcf:citekey order="13">NCReportCards</bcf:citekey>
+    <bcf:citekey order="14">NCReportCards</bcf:citekey>
+    <bcf:citekey order="15">NCStats</bcf:citekey>
+    <bcf:citekey order="16">NCStats</bcf:citekey>
+    <bcf:citekey order="17">NCStats</bcf:citekey>
+    <bcf:citekey order="18">NCStats</bcf:citekey>
+    <bcf:citekey order="19">team1a</bcf:citekey>
+    <bcf:citekey order="20">QualityofLife</bcf:citekey>
+    <bcf:citekey order="21">QualityofLife</bcf:citekey>
+    <bcf:citekey order="22">QualityofLife</bcf:citekey>
+    <bcf:citekey order="23">magnuson2000</bcf:citekey>
+    <bcf:citekey order="24">chetty2014</bcf:citekey>
+    <bcf:citekey order="24">LOO</bcf:citekey>
+    <bcf:citekey order="25">NCDPI</bcf:citekey>
+    <bcf:citekey order="26">chetty2014</bcf:citekey>
+    <bcf:citekey order="27">castleman2014intensive</bcf:citekey>
+    <bcf:citekey order="28">lee1993</bcf:citekey>
+    <bcf:citekey order="29">deslonde2018high</bcf:citekey>
+    <bcf:citekey order="30">tang2019high</bcf:citekey>
+    <bcf:citekey order="31">farmer2006</bcf:citekey>
+    <bcf:citekey order="32">NCDPI</bcf:citekey>
+    <bcf:citekey order="33">NCReportCards</bcf:citekey>
+    <bcf:citekey order="34">NCStats</bcf:citekey>
+    <bcf:citekey order="35">team1a</bcf:citekey>
+    <bcf:citekey order="36">QualityofLife</bcf:citekey>
+    <bcf:citekey order="37">magnuson2000</bcf:citekey>
+    <bcf:citekey order="38">LOO</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
