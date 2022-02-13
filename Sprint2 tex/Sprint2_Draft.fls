@@ -1344,6 +1344,10 @@ INPUT .\tables\summary_stats.tex
 INPUT tables\summary_stats.tex
 INPUT .\tables\summary_stats.tex
 INPUT tables\summary_stats.tex
+INPUT .\tables\summary_stats2.tex
+INPUT tables\summary_stats2.tex
+INPUT .\tables\summary_stats2.tex
+INPUT tables\summary_stats2.tex
 INPUT .\images\\AP Participation Rate.png
 INPUT .\images\\AP Participation Rate.png
 INPUT images\\AP Participation Rate.png
