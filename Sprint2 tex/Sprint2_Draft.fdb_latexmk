@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber Sprint2_Draft"] 1644770746 "Sprint2_Draft.bcf" "Sprint2_Draft.bbl" "Sprint2_Draft" 1644770972
-  "Sprint2_Draft.bcf" 1644770971 125612 39b41f7f1c4a8c36660727fd369de71d "pdflatex"
-  "bibliography.bib" 1644769362 8740 c3d92c130300000812a8226520fc78d5 ""
+["biber Sprint2_Draft"] 0 "Sprint2_Draft.bcf" "Sprint2_Draft.bbl" "Sprint2_Draft" 0
+  "Sprint2_Draft.bcf" 0 -1 0 "pdflatex"
   (generated)
   "Sprint2_Draft.bbl"
   "Sprint2_Draft.blg"
-["pdflatex"] 1644770968 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" "Sprint2_Draft.pdf" "Sprint2_Draft" 1644770972
+["pdflatex"] 1644771089 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" "Sprint2_Draft.pdf" "Sprint2_Draft" 1644771089
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1644697413 155860 cf3fc52233a1318078c93f3adff9b60a ""
   "C:/Users/ricke/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644697484 10245400 9adbb60d73ddd211f073b27b9ff897bd ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1254935040 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993058740 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ec-lmbx10.tfm" 1254935040 12076 b54175e02101bea1addf6b2d0197ed12 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ec-lmbx12.tfm" 1254935040 12088 d750ac78274fa7c9f73ba09914c04f8a ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ec-lmr10.tfm" 1254935040 12056 7e13df7fe4cbce21b072ba7c4f4deb6e ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ec-lmr12.tfm" 1254935040 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
@@ -36,6 +36,7 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr12.tfm" 1254935040 11888 6841b91e46b65cf41a49b160e6e74130 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr6.tfm" 1254935040 11836 e3b6ce3e601aec94f64a536e7f4224d5 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr8.tfm" 1254935040 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
+  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb" 1254935040 121021 836464b5fe0c782d94085eb083550ccc ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1254935040 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb" 1254935040 119235 05e5c8d6d60439433e50047898c2c0e0 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb" 1254935040 113634 9384aebdf26f9881e046a4b5574566db ""
@@ -223,12 +224,12 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623002090 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1602238298 20688 beaddf14d96104d4bf016523be5395c5 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-savepos.sty" 1602238298 3641 a666775547275e0b0095db17b536180f ""
-  "Sprint2_Draft.aux" 1644770971 8277 1f0534437edc1c5c1bb9d59dded5f46d "pdflatex"
-  "Sprint2_Draft.bbl" 1644770748 22385 ad3866699a7214db590d13a6ff8ce159 "biber Sprint2_Draft"
-  "Sprint2_Draft.out" 1644770971 992 4b8253748405316e8a5c37aa1d63fe98 "pdflatex"
-  "Sprint2_Draft.run.xml" 1644770971 2492 ba80218b654ce6c3d9944dc418b74946 "pdflatex"
-  "Sprint2_Draft.tex" 1644770963 3805 f737cc699b3c7f7e4eb8b3353043e045 ""
-  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" 1644770963 3805 f737cc699b3c7f7e4eb8b3353043e045 ""
+  "Sprint2_Draft.aux" 1644771089 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Sprint2_Draft.bbl" 0 -1 0 "biber Sprint2_Draft"
+  "Sprint2_Draft.out" 0 -1 0 "pdflatex"
+  "Sprint2_Draft.run.xml" 0 -1 0 "pdflatex"
+  "Sprint2_Draft.tex" 1644771084 3819 5a2dc483b16d936e5de6ea2e5b8a032e ""
+  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex" 1644771084 3819 5a2dc483b16d936e5de6ea2e5b8a032e ""
   "images//AP Participation Rate.png" 1644750319 11422 39d67f24a2eaa443c76a37db1416c8de ""
   "images//AP Pass Rate.png" 1644750319 9188 d262e2bc837a4740500e354f3d1ec156 ""
   "images//CTE Student Enrollment.png" 1644753145 12098 3ef909a81d15f3d0e32dde89a78dc250 ""

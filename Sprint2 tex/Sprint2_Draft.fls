@@ -1174,18 +1174,8 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\ge
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT .\Sprint2_Draft.out
-INPUT Sprint2_Draft.out
-INPUT .\Sprint2_Draft.out
-INPUT Sprint2_Draft.out
-INPUT .\Sprint2_Draft.out
-INPUT Sprint2_Draft.out
-INPUT .\Sprint2_Draft.out
-INPUT Sprint2_Draft.out
-OUTPUT Sprint2_Draft.pdf
-INPUT .\Sprint2_Draft.out
-INPUT .\Sprint2_Draft.out
 OUTPUT Sprint2_Draft.out
+OUTPUT Sprint2_Draft.pdf
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\apa7\config\APA7american.txt
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\apa7\config\APA7american.txt
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\apa7\config\APA7american.txt
@@ -1248,12 +1238,6 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\englis
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\american-apa.lbx
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\american-apa.lbx
 OUTPUT Sprint2_Draft.bcf
-INPUT Sprint2_Draft.bbl
-INPUT .\Sprint2_Draft.bbl
-INPUT Sprint2_Draft.bbl
-INPUT .\Sprint2_Draft.bbl
-INPUT .\Sprint2_Draft.bbl
-INPUT Sprint2_Draft.bbl
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT .\images\\UNC_logo.png
 INPUT .\images\\UNC_logo.png
@@ -1285,6 +1269,10 @@ INPUT .\sections\conclusion.tex
 INPUT sections\conclusion.tex
 INPUT .\sections\conclusion.tex
 INPUT sections\conclusion.tex
+INPUT .\tables\intentions_table.tex
+INPUT tables\intentions_table.tex
+INPUT .\tables\intentions_table.tex
+INPUT tables\intentions_table.tex
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
@@ -1332,6 +1320,7 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tf
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT .\tables\id_variables.tex
 INPUT tables\id_variables.tex
 INPUT .\tables\id_variables.tex
@@ -1340,10 +1329,6 @@ INPUT .\tables\summary_stats.tex
 INPUT tables\summary_stats.tex
 INPUT .\tables\summary_stats.tex
 INPUT tables\summary_stats.tex
-INPUT .\tables\intentions_table.tex
-INPUT tables\intentions_table.tex
-INPUT .\tables\intentions_table.tex
-INPUT tables\intentions_table.tex
 INPUT .\images\\AP Participation Rate.png
 INPUT .\images\\AP Participation Rate.png
 INPUT images\\AP Participation Rate.png
@@ -1385,6 +1370,8 @@ INPUT .\Sprint2_Draft.out
 INPUT Sprint2_Draft.run.xml
 OUTPUT Sprint2_Draft.run.xml
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb

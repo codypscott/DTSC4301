@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  13 FEB 2022 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  13 FEB 2022 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,7 +1024,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 72.
 LaTeX Info: Redefining \pageref on input line 72.
 LaTeX Info: Redefining \nameref on input line 72.
- (Sprint2_Draft.out) (Sprint2_Draft.out)
 \@outlinefile=\write8
 \openout8 = `Sprint2_Draft.out'.
 
@@ -1088,45 +1087,177 @@ Package biblatex Info: Automatic encoding selection.
 \openout7 = `Sprint2_Draft.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Sprint2_Draft.bbl' found.
- (Sprint2_Draft.bbl)
+Package biblatex Info: ... file 'Sprint2_Draft.bbl' not found.
+
+No file Sprint2_Draft.bbl.
 Package biblatex Info: Reference section=0 on input line 72.
 Package biblatex Info: Reference segment=0 on input line 72.
-<./images//UNC_logo.png, id=42, 501.875pt x 501.875pt>
+<./images//UNC_logo.png, id=6, 501.875pt x 501.875pt>
 File: ./images//UNC_logo.png Graphic file (type png)
 <use ./images//UNC_logo.png>
 Package pdftex.def Info: ./images//UNC_logo.png  used on input line 74.
 (pdftex.def)             Requested size: 227.62204pt x 227.62596pt.
- [1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+[1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 \openout6 = `Sprint2_Draft.upa'.
 
- <./images//UNC_logo.png>] (sections/overview.tex) [2] (sections/Hypotheses.tex) [3] (sections/data.tex [4] [5] [6]) (sections/analysis.tex) [7] (sections/conclusion.tex) [8] [9]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 93.
+ <./images//UNC_logo.png>] (sections/overview.tex
+
+LaTeX Warning: Citation 'chetty2014' on page 2 undefined on input line 2.
+
+
+LaTeX Warning: Citation 'chetty2014' on page 2 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'castleman2014intensive' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'castleman2014intensive' on page 2 undefined on input line 11.
+
+) [2] (sections/Hypotheses.tex
+
+LaTeX Warning: Citation 'lee1993' on page 3 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'deslonde2018high' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'tang2019high' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'farmer2006' on page 3 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'deslonde2018high' on page 3 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'tang2019high' on page 3 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'magnuson2000' on page 3 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'magnuson2000' on page 3 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'castellano2017' on page 3 undefined on input line 23.
+
+) [3] (sections/data.tex
+
+LaTeX Warning: Citation 'NCDPI' on page 4 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'NCDPI' on page 4 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'NCDPI' on page 4 undefined on input line 4.
+
+[4]
+
+LaTeX Warning: Citation 'NCReportCards' on page 5 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'NCReportCards' on page 5 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'NCReportCards' on page 5 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'NCStats' on page 5 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'NCStats' on page 5 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'NCStats' on page 5 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'NCStats' on page 5 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'team1a' on page 5 undefined on input line 18.
+
+[5]
+
+LaTeX Warning: Citation 'QualityofLife' on page 6 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'QualityofLife' on page 6 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'QualityofLife' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'magnuson2000' on page 6 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'chetty2014' on page 6 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'LOO' on page 6 undefined on input line 27.
+
+[6]
+
+LaTeX Warning: Citation 'NCDPI' on page 7 undefined on input line 37.
+
+
+LaTeX Warning: Reference `tab:codebook' on page 7 undefined on input line 38.
+
+
+LaTeX Warning: Reference `tab:summarystats1' on page 7 undefined on input line 41.
+
+
+LaTeX Warning: Reference `tab:summarystats2' on page 7 undefined on input line 41.
+
+
+LaTeX Warning: Reference `tab:idvariables' on page 7 undefined on input line 41.
+
+) (sections/analysis.tex) [7] (sections/conclusion.tex
+
+LaTeX Warning: Citation 'castleman2014intensive' on page 8 undefined on input line 2.
+
+) [8]
+
+LaTeX Warning: Empty bibliography on input line 93.
+
+[9] (tables/intentions_table.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 93.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 93.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 93.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 93.
+(Font)              <12> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 93.
+(Font)              <8> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 93.
- [10
+(Font)              <6> on input line 4.
+)
 
-] [11] (tables/codebook_table.tex
+c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex:99: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(tables/codebook_table.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 []|\T1/lmr/m/n/12 Report
  []
@@ -1138,12 +1269,36 @@ Overfull \hbox (5.58627pt too wide) in paragraph at lines 26--26
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 32.
+
+LaTeX Warning: Reference `tab:summarystats1' on page 10 undefined on input line 32.
+
+
+LaTeX Warning: Reference `tab:summarystats2' on page 10 undefined on input line 32.
+
+
+LaTeX Warning: Reference `tab:intentions' on page 10 undefined on input line 33.
+
 )
-Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--98
+Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--101
 [] 
  []
 
-(tables/id_variables.tex
+
+c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex:102: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(tables/id_variables.tex [10
+
+]
 Overfull \hbox (3.14948pt too wide) in paragraph at lines 12--12
 []|\T1/lmr/m/n/12 String| 
  []
@@ -1174,100 +1329,122 @@ Overfull \hbox (7.71405pt too wide) in paragraph at lines 16--16
  []
 
 )
-Overfull \hbox (5.71657pt too wide) in paragraph at lines 2--100
+Overfull \hbox (5.71657pt too wide) in paragraph at lines 2--104
 [] 
  []
 
-(tables/summary_stats.tex
+
+c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex:105: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(tables/summary_stats.tex [11]
 Overfull \hbox (1.38605pt too wide) in paragraph at lines 9--10
 []|\T1/lmr/m/n/12 Missing| 
  []
 
-[12
-
-]
-Overfull \vbox (685.03748pt too high) has occurred while \output is active []
-
- [13]
+[12] [13]
 Overfull \hbox (1.38605pt too wide) in paragraph at lines 36--37
 []|\T1/lmr/m/n/12 Missing| 
  []
 
-) (tables/intentions_table.tex)
-Overfull \vbox (166.72545pt too high) has occurred while \output is active []
-
- [14]
-<./images//AP Participation Rate.png, id=177, 1084.05pt x 361.35pt>
+) [14]
+<./images//AP Participation Rate.png, id=90, 1084.05pt x 361.35pt>
 File: ./images//AP Participation Rate.png Graphic file (type png)
 <use ./images//AP Participation Rate.png>
-Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 108.
+Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 112.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 108--110
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 112--114
 [][]
  []
 
-<./images//AP Pass Rate.png, id=178, 1084.05pt x 361.35pt>
+<./images//AP Pass Rate.png, id=91, 1084.05pt x 361.35pt>
 File: ./images//AP Pass Rate.png Graphic file (type png)
 <use ./images//AP Pass Rate.png>
-Package pdftex.def Info: ./images//AP Pass Rate.png  used on input line 114.
+Package pdftex.def Info: ./images//AP Pass Rate.png  used on input line 118.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 114--116
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 118--120
 [][]
  []
 
-<./images//CTE Student Enrollment.png, id=179, 1084.05pt x 361.35pt>
+<./images//CTE Student Enrollment.png, id=92, 1084.05pt x 361.35pt>
 File: ./images//CTE Student Enrollment.png Graphic file (type png)
 <use ./images//CTE Student Enrollment.png>
-Package pdftex.def Info: ./images//CTE Student Enrollment.png  used on input line 120.
+Package pdftex.def Info: ./images//CTE Student Enrollment.png  used on input line 124.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 120--122
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 124--126
 [][]
  []
 
-<./images//EDS Students College Enrollment.png, id=180, 1084.05pt x 361.35pt>
+<./images//EDS Students College Enrollment.png, id=93, 1084.05pt x 361.35pt>
 File: ./images//EDS Students College Enrollment.png Graphic file (type png)
 <use ./images//EDS Students College Enrollment.png>
-Package pdftex.def Info: ./images//EDS Students College Enrollment.png  used on input line 126.
+Package pdftex.def Info: ./images//EDS Students College Enrollment.png  used on input line 130.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 126--128
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 130--132
 [][]
  []
 
-<./images//Total Counselors.png, id=181, 1084.05pt x 361.35pt>
+<./images//Total Counselors.png, id=94, 1084.05pt x 361.35pt>
 File: ./images//Total Counselors.png Graphic file (type png)
 <use ./images//Total Counselors.png>
-Package pdftex.def Info: ./images//Total Counselors.png  used on input line 132.
+Package pdftex.def Info: ./images//Total Counselors.png  used on input line 136.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 132--134
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 136--138
 [][]
  []
 
 AED endfloat: Processing end Figures and Tables [15
 
  <./images//AP Participation Rate.png> <./images//AP Pass Rate.png>] [16 <./images//CTE Student Enrollment.png> <./images//EDS Students College Enrollment.png>] [17 <./images//Total Counselors.png>] (Sprint2_Draft.aux)
-Package rerunfilecheck Info: File `Sprint2_Draft.out' has not changed.
-(rerunfilecheck)             Checksum: 4B8253748405316E8A5C37AA1D63FE98;992.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Sprint2_Draft.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Sprint2_Draft.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  4B8253748405316E8A5C37AA1D63FE98;992.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Sprint2_Draft
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Sprint2_Draft.run.xml'.
 \openout1 = `Sprint2_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37407 strings out of 478584
- 746572 string characters out of 2844401
- 1610286 words of memory out of 3000000
- 54911 multiletter control sequences out of 15000+600000
- 515148 words of font info for 60 fonts, out of 8000000 for 9000
+ 37209 strings out of 478584
+ 741490 string characters out of 2844401
+ 1596605 words of memory out of 3000000
+ 54747 multiletter control sequences out of 15000+600000
+ 518143 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,113p,811b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint2_Draft.pdf (17 pages, 246055 bytes).
+{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+Output written on Sprint2_Draft.pdf (17 pages, 249710 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
