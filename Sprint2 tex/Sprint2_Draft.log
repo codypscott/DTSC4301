@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  13 FEB 2022 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  13 FEB 2022 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1101,7 +1101,7 @@ Package pdftex.def Info: ./images//UNC_logo.png  used on input line 74.
 
 \openout6 = `Sprint2_Draft.upa'.
 
- <./images//UNC_logo.png>] (sections/overview.tex) [2] (sections/Hypotheses.tex) (sections/data.tex [3] [4] [5]) (sections/analysis.tex) [6] (sections/conclusion.tex) [7]
+ <./images//UNC_logo.png>] (sections/overview.tex) [2] (sections/Hypotheses.tex) [3] (sections/data.tex [4] [5] [6]) (sections/analysis.tex) [7] (sections/conclusion.tex) [8] [9]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 93.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1124,23 +1124,28 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 93.
- [8
+ [10
 
-] [9] (tables/codebook_table.tex
+] [11] (tables/codebook_table.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 []|\T1/lmr/m/n/12 Report
  []
 
+
+Overfull \hbox (5.58627pt too wide) in paragraph at lines 26--26
+[]|\T1/lmr/m/n/12 2019_med_hh_inc| 
+ []
+
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 30.
+(Font)              <10.95> on input line 32.
 )
 Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--99
 [] 
  []
 
-[10
+[12
 
-] (tables/id_variables.tex
+] [13] (tables/id_variables.tex
 Overfull \hbox (3.14948pt too wide) in paragraph at lines 12--12
 []|\T1/lmr/m/n/12 String| 
  []
@@ -1183,65 +1188,68 @@ Overfull \hbox (1.38605pt too wide) in paragraph at lines 9--10
 
 Overfull \vbox (51.51558pt too high) has occurred while \output is active []
 
- [11]
+ [14]
 Overfull \hbox (1.38605pt too wide) in paragraph at lines 36--37
 []|\T1/lmr/m/n/12 Missing| 
  []
 
-) [12]
-<./images//AP Participation Rate.png, id=161, 1084.05pt x 361.35pt>
+) (tables/intentions_table.tex)
+Overfull \vbox (166.72545pt too high) has occurred while \output is active []
+
+ [15]
+<./images//AP Participation Rate.png, id=181, 1084.05pt x 361.35pt>
 File: ./images//AP Participation Rate.png Graphic file (type png)
 <use ./images//AP Participation Rate.png>
-Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 107.
+Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 109.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 107--109
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 109--111
 [][]
  []
 
-<./images//AP Pass Rate.png, id=162, 1084.05pt x 361.35pt>
+<./images//AP Pass Rate.png, id=182, 1084.05pt x 361.35pt>
 File: ./images//AP Pass Rate.png Graphic file (type png)
 <use ./images//AP Pass Rate.png>
-Package pdftex.def Info: ./images//AP Pass Rate.png  used on input line 113.
+Package pdftex.def Info: ./images//AP Pass Rate.png  used on input line 115.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 113--115
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 115--117
 [][]
  []
 
-<./images//CTE Student Enrollment.png, id=163, 1084.05pt x 361.35pt>
+<./images//CTE Student Enrollment.png, id=183, 1084.05pt x 361.35pt>
 File: ./images//CTE Student Enrollment.png Graphic file (type png)
 <use ./images//CTE Student Enrollment.png>
-Package pdftex.def Info: ./images//CTE Student Enrollment.png  used on input line 119.
+Package pdftex.def Info: ./images//CTE Student Enrollment.png  used on input line 121.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 119--121
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 121--123
 [][]
  []
 
-<./images//EDS Students College Enrollment.png, id=164, 1084.05pt x 361.35pt>
+<./images//EDS Students College Enrollment.png, id=184, 1084.05pt x 361.35pt>
 File: ./images//EDS Students College Enrollment.png Graphic file (type png)
 <use ./images//EDS Students College Enrollment.png>
-Package pdftex.def Info: ./images//EDS Students College Enrollment.png  used on input line 125.
+Package pdftex.def Info: ./images//EDS Students College Enrollment.png  used on input line 127.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 125--127
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 127--129
 [][]
  []
 
-<./images//Total Counselors.png, id=165, 1084.05pt x 361.35pt>
+<./images//Total Counselors.png, id=185, 1084.05pt x 361.35pt>
 File: ./images//Total Counselors.png Graphic file (type png)
 <use ./images//Total Counselors.png>
-Package pdftex.def Info: ./images//Total Counselors.png  used on input line 131.
+Package pdftex.def Info: ./images//Total Counselors.png  used on input line 133.
 (pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
 
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 131--133
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 133--135
 [][]
  []
 
-AED endfloat: Processing end Figures and Tables [13
+AED endfloat: Processing end Figures and Tables [16
 
- <./images//AP Participation Rate.png> <./images//AP Pass Rate.png>] [14 <./images//CTE Student Enrollment.png> <./images//EDS Students College Enrollment.png>] [15 <./images//Total Counselors.png>] (Sprint2_Draft.aux)
+ <./images//AP Participation Rate.png> <./images//AP Pass Rate.png>] [17 <./images//CTE Student Enrollment.png> <./images//EDS Students College Enrollment.png>] [18 <./images//Total Counselors.png>] (Sprint2_Draft.aux)
 Package rerunfilecheck Info: File `Sprint2_Draft.out' has not changed.
 (rerunfilecheck)             Checksum: 4B8253748405316E8A5C37AA1D63FE98;992.
 Package logreq Info: Writing requests to 'Sprint2_Draft.run.xml'.
@@ -1249,17 +1257,17 @@ Package logreq Info: Writing requests to 'Sprint2_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37392 strings out of 478584
- 746085 string characters out of 2844401
- 1598141 words of memory out of 3000000
- 54902 multiletter control sequences out of 15000+600000
- 522406 words of font info for 62 fonts, out of 8000000 for 9000
+ 37408 strings out of 478584
+ 746579 string characters out of 2844401
+ 1603286 words of memory out of 3000000
+ 54911 multiletter control sequences out of 15000+600000
+ 515148 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,113p,811b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint2_Draft.pdf (15 pages, 258752 bytes).
+{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+Output written on Sprint2_Draft.pdf (18 pages, 246249 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
  115 words of extra memory for PDF output out of 10000 (max. 10000000)
 

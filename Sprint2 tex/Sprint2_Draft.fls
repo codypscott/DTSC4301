@@ -1326,14 +1326,12 @@ INPUT .\tables\codebook_table.tex
 INPUT tables\codebook_table.tex
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT .\tables\id_variables.tex
 INPUT tables\id_variables.tex
 INPUT .\tables\id_variables.tex
@@ -1342,6 +1340,10 @@ INPUT .\tables\summary_stats.tex
 INPUT tables\summary_stats.tex
 INPUT .\tables\summary_stats.tex
 INPUT tables\summary_stats.tex
+INPUT .\tables\intentions_table.tex
+INPUT tables\intentions_table.tex
+INPUT .\tables\intentions_table.tex
+INPUT tables\intentions_table.tex
 INPUT .\images\\AP Participation Rate.png
 INPUT .\images\\AP Participation Rate.png
 INPUT images\\AP Participation Rate.png
@@ -1383,8 +1385,6 @@ INPUT .\Sprint2_Draft.out
 INPUT Sprint2_Draft.run.xml
 OUTPUT Sprint2_Draft.run.xml
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
@@ -1393,7 +1393,5 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.p
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb

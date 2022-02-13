@@ -19,6 +19,57 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{castellano2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=65664e57c0f05e3752053f9ec620e29e}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={Marisa\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ab63add7d151b9b48c193c0b01e9839}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={George\bibnamedelima B},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ff9008e65112108c89ce40bdcb8e5de}{%
+           family={Sundell},
+           familyi={S\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=255ac3634af1091840d2b51533e5afff}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3cfea96ef79a96362bef624b23732b54}
+      \strng{fullhash}{1e2a6422e4377b97da136010072148a4}
+      \strng{bibnamehash}{1e2a6422e4377b97da136010072148a4}
+      \strng{authorbibnamehash}{1e2a6422e4377b97da136010072148a4}
+      \strng{authornamehash}{3cfea96ef79a96362bef624b23732b54}
+      \strng{authorfullhash}{1e2a6422e4377b97da136010072148a4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vocations and Learning}
+      \field{number}{1}
+      \field{title}{Preparing students for college and career in the United States: The effects of career-themed programs of study on high school performance}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{47\bibrangedash 70}
+      \range{pages}{24}
+    \endentry
     \entry{castleman2014intensive}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a384d9b09ab5b50062d33d31b57dce96}{%
