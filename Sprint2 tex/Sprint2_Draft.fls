@@ -753,17 +753,7 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\endfloat\endfloat.s
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\endfloat\endfloat.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\endfloat\endfloat.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
@@ -1431,6 +1421,71 @@ INPUT .\sections\data.tex
 INPUT sections\data.tex
 INPUT .\sections\data.tex
 INPUT sections\data.tex
+INPUT .\tables\codebook_table.tex
+INPUT tables\codebook_table.tex
+INPUT .\tables\codebook_table.tex
+INPUT tables\codebook_table.tex
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx8.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx6.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib7.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy7.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT .\tables\id_variables.tex
+INPUT tables\id_variables.tex
+INPUT .\tables\id_variables.tex
+INPUT tables\id_variables.tex
+INPUT .\tables\summary_stats.tex
+INPUT tables\summary_stats.tex
+INPUT .\tables\summary_stats.tex
+INPUT tables\summary_stats.tex
+INPUT .\images\\AP Participation Rate.png
+INPUT .\images\\AP Participation Rate.png
+INPUT images\\AP Participation Rate.png
+INPUT .\images\\AP Participation Rate.png
+INPUT .\images\\AP Participation Rate.png
+INPUT .\images\\AP Participation Rate.png
+INPUT .\images\\AP Participation Rate.png
 INPUT .\sections\analysis.tex
 INPUT sections\analysis.tex
 INPUT .\sections\analysis.tex
@@ -1449,3 +1504,5 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb

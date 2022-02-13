@@ -1,0 +1,19 @@
+\begin{threeparttable}
+    \caption{Identifier Variables} %% the caption, required by APA7 and it looks nice :D
+\label{tab:idvariables} %% use this to refer to the table within the paper (I think a link will open up)
+    \begin{tabular}{ p{0.25\linewidth} p{0.06\linewidth} p{0.26\linewidth} p{0.34\linewidth}}     %% 5 columns, all centered. the tabular environment begins the actual table.    
+    \toprule %% A line across the top
+    Identifier                        & \multicolumn{3}{l}{Information} \\ %% The titles of the columns. 
+
+                       \cmidrule(r){2-4} %% a line going across columns 2 - end
+                                    &    Type   &   Use                           &  Description                                    \\ 
+\midrule
+                                    &            &  I.D. Variables                 &                                                 \\ 
+School Name                         &    String  &  Identify school by name        & Full name of the high school                    \\
+School Zip Code                     &    String  &  Assign median household income & Five-digit postal code                          \\
+School Agency Code                  &    String  &  Join separate data             & Six-digit DPI code                              \\
+Year                                &    String  &  Join separate data             & Year of the data                                \\
+Household Median Income             &    Integer &  Identify low-income areas      & Median income of the zip code for the year 2019 \\
+\midrule
+\end{tabular}
+\end{threeparttable}

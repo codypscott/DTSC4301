@@ -1,0 +1,35 @@
+\begin{threeparttable}
+    \caption{Codebook} %% the caption, required by APA7 and it looks nice :D
+\label{tab:codebook} %% use this to refer to the table within the paper (I think a link will open up)
+    \begin{tabular}{ p{0.17\linewidth} p{0.115\linewidth} p{0.13\linewidth} p{0.49\linewidth}}     %% 5 columns, all centered. the tabular environment begins the actual table.    
+    \toprule %% A line across the top
+    Variable                        & \multicolumn{3}{c}{Information} \\ %% The titles of the columns. 
+
+                       \cmidrule(r){2-4} %% a line going across columns 2 - end
+                                    &   Years    &    Type                 &  Description \\ 
+\midrule
+                                    &               &  Report Card        &                                    \\ 
+AP\_part\_pct  & 2014-2020 &  Continuous                   &   Percent of students enrolled in AP classes\\
+AP\_pass\_pct & 2014-2020 &  Continuous                   &   Percent of AP exams with a score of 3 or more     \\
+enroll\_\textbf{subgroup}\tabfnm{a}& 2011-2019   &  Continuous                  &   Percent of students enrolling in college           \\
+ CTE\_enroll\_pct& 2018-2020  &  Continuous                  &  Percentage of students enrolled in a CTE program     \\
+CTE\_cred\_pct  & 2018-2020  &  Continuous                 &  Ratio of CTE credentials earned over students enrolled in programs          \\
+\midrule
+                                    &               &  NC Stats         &                     \\ 
+ total\_counselors & 2015-2020  &  Discrete                  &  Guidance counselors employed district wide  \\
+ int\_\textbf{intention}\tabfnm{c} & 2015-2020 &  Continuous                   &  Percent of students by post-secondary intention           \\
+\midrule
+&               & ISC      & \\ 
+Dual Enroll                     &  ---   &     Continuous         &   Percent of students dual-enrolled\tabfnm{b}            \\
+\midrule
+\end{tabular}
+\begin{tablenotes}[para,flushleft]
+    {\small
+        \textit{Note.} 
+
+        \tabfnt{a}See table \textbf[REFERENCE TABLE OF SUBGROUPS HERE] for all subgroups.\\
+        \tabfnt{b}Low-SES students, if possible.\\
+        \tabfnt{c}See table \textbf[REFERENCE TABLE OF SUBGROUPS HERE] for all graduate intentions.
+     }
+\end{tablenotes}
+\end{threeparttable}

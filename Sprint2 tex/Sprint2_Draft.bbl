@@ -16,5 +16,41 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{LOO}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=378abeb0505613e1d76b2fb4ceff6e22}{%
+           family={Task-Force},
+           familyi={T\bibinithyphendelim F\bibinitperiod},
+           given={Charlotte-Mecklenburg\bibnamedelima Opportunity},
+           giveni={C\bibinithyphendelim M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{fullhash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{bibnamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authorbibnamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authornamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authorfullhash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leading On Opportunity}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://s3.amazonaws.com/static.leadingonopportunity.org/downloads/LeadingOnOpportunity_Report-Compressed.pdf
+      \endverb
+      \verb{url}
+      \verb https://s3.amazonaws.com/static.leadingonopportunity.org/downloads/LeadingOnOpportunity_Report-Compressed.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

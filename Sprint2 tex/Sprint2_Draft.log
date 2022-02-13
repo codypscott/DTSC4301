@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  12 FEB 2022 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.12)  13 FEB 2022 06:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,26 +522,19 @@ Package: endfloat 2019/04/15 v2.7 LaTeX2e package puts figures and tables at end
 \c@postfigure=\count310
 \efloat@postfff=\write5
 \@ef@fffopen=\count311
-) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count312
-\float@exts=\toks30
-\float@box=\box63
-\@float@everytoks=\toks31
-\@floatcapt=\box64
 )) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2022-02-05 L3 programming layer (loader) 
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count313
-\l__pdf_internal_box=\box65
+\l__color_backend_stack_int=\count312
+\l__pdf_internal_box=\box63
 ))
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count314
-\l__lipsum_a_int=\count315
-\l__lipsum_b_int=\count316
+\g__lipsum_par_int=\count313
+\l__lipsum_a_int=\count314
+\l__lipsum_b_int=\count315
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
 Package: newtxtext 2022/01/11 v1.705(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
  `newtxtext' v1.705, 2022/01/11 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
@@ -553,16 +546,16 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks32
-\XKV@tempa@toks=\toks33
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
 )
-\XKV@depth=\count317
+\XKV@depth=\count316
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\integerpart=\count318
-\decimalpart=\count319
+\integerpart=\count317
+\decimalpart=\count318
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -573,8 +566,8 @@ LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 27.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 27.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 27.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
-\ntx@tmpcnta=\count320
-\ntx@cnt=\count321
+\ntx@tmpcnta=\count319
+\ntx@cnt=\count320
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
@@ -592,12 +585,12 @@ LaTeX Info: Redefining \textsu on input line 541.
 LaTeX Info: Redefining \oldstylenums on input line 631.
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/01/26 3.70 The Babel package
-\babel@savecnt=\count322
+\babel@savecnt=\count321
 \U@D=\dimen285
 \l@unhyphenated=\language79
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count323
+\bbl@dirlevel=\count322
 
 *************************************
 * Local config file bblopts.cfg used
@@ -616,13 +609,13 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 ))) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
-\csq@reset=\count324
-\csq@gtype=\count325
-\csq@glevel=\count326
-\csq@qlevel=\count327
-\csq@maxlvl=\count328
-\csq@tshold=\count329
-\csq@ltx@everypar=\toks34
+\csq@reset=\count323
+\csq@gtype=\count324
+\csq@glevel=\count325
+\csq@qlevel=\count326
+\csq@maxlvl=\count327
+\csq@tshold=\count328
+\csq@ltx@everypar=\toks32
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
 )
@@ -632,12 +625,12 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/pdfcomment\pdfcomment.sty
 Package: pdfcomment 2018/11/01 pdfcomment.sty v2.4a - Josef Kleber (C) 2008-2012, 2015-2016, 2018
-\c@pc@count@i=\count330
-\c@pc@count@ii=\count331
-\c@pc@count@iii=\count332
-\c@pc@count@iv=\count333
-\pc@mathannot@box=\box66
-\pc@nullbox=\box67
+\c@pc@count@i=\count329
+\c@pc@count@ii=\count330
+\c@pc@count@iii=\count331
+\c@pc@count@iv=\count332
+\pc@mathannot@box=\box64
+\pc@nullbox=\box65
 \pc@dima=\skip82
 \pc@dimb=\skip83
 \pc@Sposx=\skip84
@@ -668,18 +661,18 @@ Package zref Info: New property list: savepos on input line 80.
 Package zref Info: New property: posx on input line 82.
 Package zref Info: New property: posy on input line 83.
 )
-\c@zref@unique=\count334
+\c@zref@unique=\count333
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.sty
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count335
+\c@mn@abspage=\count334
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/soulpos\soulpos.sty
 Package: soulpos 2021/10/15 v1.2 Fancy underlining
-\ulp@subcnt=\count336
-\ulp@cnt=\count337
+\ulp@subcnt=\count335
+\ulp@cnt=\count336
 \ulp@out=\write6
 \ulp@in=\read4
 \ulwidth=\dimen286
@@ -694,52 +687,52 @@ Package zref Info: New property: PCPDFOBJID on input line 2736.
 Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count338
+\lrq@indent=\count337
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count339
-\c@listtotal=\count340
-\c@listcount=\count341
-\c@liststart=\count342
-\c@liststop=\count343
-\c@citecount=\count344
-\c@citetotal=\count345
-\c@multicitecount=\count346
-\c@multicitetotal=\count347
-\c@instcount=\count348
-\c@maxnames=\count349
-\c@minnames=\count350
-\c@maxitems=\count351
-\c@minitems=\count352
-\c@citecounter=\count353
-\c@maxcitecounter=\count354
-\c@savedcitecounter=\count355
-\c@uniquelist=\count356
-\c@uniquename=\count357
-\c@refsection=\count358
-\c@refsegment=\count359
-\c@maxextratitle=\count360
-\c@maxextratitleyear=\count361
-\c@maxextraname=\count362
-\c@maxextradate=\count363
-\c@maxextraalpha=\count364
-\c@abbrvpenalty=\count365
-\c@highnamepenalty=\count366
-\c@lownamepenalty=\count367
-\c@maxparens=\count368
-\c@parenlevel=\count369
-\blx@tempcnta=\count370
-\blx@tempcntb=\count371
-\blx@tempcntc=\count372
-\c@blx@maxsection=\count373
-\c@blx@maxsegment@0=\count374
-\blx@notetype=\count375
-\blx@parenlevel@text=\count376
-\blx@parenlevel@foot=\count377
-\c@blx@sectionciteorder@0=\count378
-\blx@entrysetcounter=\count379
-\blx@biblioinstance=\count380
+\c@tabx@nest=\count338
+\c@listtotal=\count339
+\c@listcount=\count340
+\c@liststart=\count341
+\c@liststop=\count342
+\c@citecount=\count343
+\c@citetotal=\count344
+\c@multicitecount=\count345
+\c@multicitetotal=\count346
+\c@instcount=\count347
+\c@maxnames=\count348
+\c@minnames=\count349
+\c@maxitems=\count350
+\c@minitems=\count351
+\c@citecounter=\count352
+\c@maxcitecounter=\count353
+\c@savedcitecounter=\count354
+\c@uniquelist=\count355
+\c@uniquename=\count356
+\c@refsection=\count357
+\c@refsegment=\count358
+\c@maxextratitle=\count359
+\c@maxextratitleyear=\count360
+\c@maxextraname=\count361
+\c@maxextradate=\count362
+\c@maxextraalpha=\count363
+\c@abbrvpenalty=\count364
+\c@highnamepenalty=\count365
+\c@lownamepenalty=\count366
+\c@maxparens=\count367
+\c@parenlevel=\count368
+\blx@tempcnta=\count369
+\blx@tempcntb=\count370
+\blx@tempcntc=\count371
+\c@blx@maxsection=\count372
+\c@blx@maxsegment@0=\count373
+\blx@notetype=\count374
+\blx@parenlevel@text=\count375
+\blx@parenlevel@foot=\count376
+\c@blx@sectionciteorder@0=\count377
+\blx@entrysetcounter=\count378
+\blx@biblioinstance=\count379
 \labelnumberwidth=\skip92
 \labelalphawidth=\skip93
 \biblabelsep=\skip94
@@ -751,9 +744,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read5
 \blx@bcfout=\write7
 \blx@langwohyphens=\language80
-\c@mincomprange=\count381
-\c@maxcomprange=\count382
-\c@mincompwidth=\count383
+\c@mincomprange=\count380
+\c@maxcomprange=\count381
+\c@mincompwidth=\count382
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -766,84 +759,84 @@ File: apa.dbx 2021/12/24 v9.15 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count384
-\c@savedafterword=\count385
-\c@annotator=\count386
-\c@savedannotator=\count387
-\c@author=\count388
-\c@savedauthor=\count389
-\c@bookauthor=\count390
-\c@savedbookauthor=\count391
-\c@commentator=\count392
-\c@savedcommentator=\count393
-\c@editor=\count394
-\c@savededitor=\count395
-\c@editora=\count396
-\c@savededitora=\count397
-\c@editorb=\count398
-\c@savededitorb=\count399
-\c@editorc=\count400
-\c@savededitorc=\count401
-\c@foreword=\count402
-\c@savedforeword=\count403
-\c@holder=\count404
-\c@savedholder=\count405
-\c@introduction=\count406
-\c@savedintroduction=\count407
-\c@namea=\count408
-\c@savednamea=\count409
-\c@nameb=\count410
-\c@savednameb=\count411
-\c@namec=\count412
-\c@savednamec=\count413
-\c@translator=\count414
-\c@savedtranslator=\count415
-\c@shortauthor=\count416
-\c@savedshortauthor=\count417
-\c@shorteditor=\count418
-\c@savedshorteditor=\count419
-\c@narrator=\count420
-\c@savednarrator=\count421
-\c@execproducer=\count422
-\c@savedexecproducer=\count423
-\c@execdirector=\count424
-\c@savedexecdirector=\count425
-\c@with=\count426
-\c@savedwith=\count427
-\c@labelname=\count428
-\c@savedlabelname=\count429
-\c@institution=\count430
-\c@savedinstitution=\count431
-\c@lista=\count432
-\c@savedlista=\count433
-\c@listb=\count434
-\c@savedlistb=\count435
-\c@listc=\count436
-\c@savedlistc=\count437
-\c@listd=\count438
-\c@savedlistd=\count439
-\c@liste=\count440
-\c@savedliste=\count441
-\c@listf=\count442
-\c@savedlistf=\count443
-\c@location=\count444
-\c@savedlocation=\count445
-\c@organization=\count446
-\c@savedorganization=\count447
-\c@origlocation=\count448
-\c@savedoriglocation=\count449
-\c@origpublisher=\count450
-\c@savedorigpublisher=\count451
-\c@publisher=\count452
-\c@savedpublisher=\count453
-\c@language=\count454
-\c@savedlanguage=\count455
-\c@origlanguage=\count456
-\c@savedoriglanguage=\count457
-\c@citation=\count458
-\c@savedcitation=\count459
-\c@pageref=\count460
-\c@savedpageref=\count461
+\c@afterword=\count383
+\c@savedafterword=\count384
+\c@annotator=\count385
+\c@savedannotator=\count386
+\c@author=\count387
+\c@savedauthor=\count388
+\c@bookauthor=\count389
+\c@savedbookauthor=\count390
+\c@commentator=\count391
+\c@savedcommentator=\count392
+\c@editor=\count393
+\c@savededitor=\count394
+\c@editora=\count395
+\c@savededitora=\count396
+\c@editorb=\count397
+\c@savededitorb=\count398
+\c@editorc=\count399
+\c@savededitorc=\count400
+\c@foreword=\count401
+\c@savedforeword=\count402
+\c@holder=\count403
+\c@savedholder=\count404
+\c@introduction=\count405
+\c@savedintroduction=\count406
+\c@namea=\count407
+\c@savednamea=\count408
+\c@nameb=\count409
+\c@savednameb=\count410
+\c@namec=\count411
+\c@savednamec=\count412
+\c@translator=\count413
+\c@savedtranslator=\count414
+\c@shortauthor=\count415
+\c@savedshortauthor=\count416
+\c@shorteditor=\count417
+\c@savedshorteditor=\count418
+\c@narrator=\count419
+\c@savednarrator=\count420
+\c@execproducer=\count421
+\c@savedexecproducer=\count422
+\c@execdirector=\count423
+\c@savedexecdirector=\count424
+\c@with=\count425
+\c@savedwith=\count426
+\c@labelname=\count427
+\c@savedlabelname=\count428
+\c@institution=\count429
+\c@savedinstitution=\count430
+\c@lista=\count431
+\c@savedlista=\count432
+\c@listb=\count433
+\c@savedlistb=\count434
+\c@listc=\count435
+\c@savedlistc=\count436
+\c@listd=\count437
+\c@savedlistd=\count438
+\c@liste=\count439
+\c@savedliste=\count440
+\c@listf=\count441
+\c@savedlistf=\count442
+\c@location=\count443
+\c@savedlocation=\count444
+\c@organization=\count445
+\c@savedorganization=\count446
+\c@origlocation=\count447
+\c@savedoriglocation=\count448
+\c@origpublisher=\count449
+\c@savedorigpublisher=\count450
+\c@publisher=\count451
+\c@savedpublisher=\count452
+\c@language=\count453
+\c@savedlanguage=\count454
+\c@origlanguage=\count455
+\c@savedoriglanguage=\count456
+\c@citation=\count457
+\c@savedcitation=\count458
+\c@pageref=\count459
+\c@savedpageref=\count460
 \shorthandwidth=\skip100
 \shortjournalwidth=\skip101
 \shortserieswidth=\skip102
@@ -867,19 +860,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count462
-\c@textcitetotal=\count463
-\c@textcitemaxnames=\count464
-\c@biburlbigbreakpenalty=\count465
-\c@biburlbreakpenalty=\count466
-\c@biburlnumpenalty=\count467
-\c@biburlucpenalty=\count468
-\c@biburllcpenalty=\count469
+\c@textcitecount=\count461
+\c@textcitetotal=\count462
+\c@textcitemaxnames=\count463
+\c@biburlbigbreakpenalty=\count464
+\c@biburlbreakpenalty=\count465
+\c@biburlnumpenalty=\count466
+\c@biburlucpenalty=\count467
+\c@biburllcpenalty=\count468
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count470
+\c@smartand=\count469
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -889,8 +882,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count471
-\c@bbx:relatedtotal=\count472
+\c@bbx:relatedcount=\count470
+\c@bbx:relatedtotal=\count471
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
@@ -949,7 +942,7 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box68
+\collectedbox=\box66
 )
 \tc@llx=\dimen287
 \tc@lly=\dimen288
@@ -969,17 +962,17 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@ptotalheight=\dimen298
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count473
+\c@checkoddpage=\count472
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box69
-\sift@deathcycles=\count474
+\@vwid@box=\box67
+\sift@deathcycles=\count473
 \@vwid@loff=\dimen299
 \@vwid@roff=\dimen300
 ))
-\c@NumberOfAuthors=\count475
-\c@NumberOfSuperscripts=\count476
-\c@NumberOfAffiliations=\count477
+\c@NumberOfAuthors=\count474
+\c@NumberOfSuperscripts=\count475
+\c@NumberOfAffiliations=\count476
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
@@ -1016,16 +1009,16 @@ LaTeX Font Info:    ... okay on input line 75.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-37.0pt
@@ -1048,17 +1041,17 @@ LaTeX Font Info:    ... okay on input line 75.
 
 (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count478
+\scratchcounter=\count477
 \scratchdimen=\dimen301
-\scratchbox=\box70
-\nofMPsegments=\count479
-\nofMParguments=\count480
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count481
+\scratchbox=\box68
+\nofMPsegments=\count478
+\nofMParguments=\count479
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count480
 \MPscratchDim=\dimen302
-\MPnumerator=\count482
-\makeMPintoPDFobject=\count483
-\everyMPtoPDFconversion=\toks36
+\MPnumerator=\count481
+\makeMPintoPDFobject=\count482
+\everyMPtoPDFconversion=\toks34
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1071,7 +1064,7 @@ Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count484
+\c@section@level=\count483
 )
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
@@ -1084,20 +1077,19 @@ LaTeX Info: Redefining \nameref on input line 75.
 File: APA7american.txt 2020/12/02 v1.02 apa7 configuration for American English
 )
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@mv@tabular=\count485
-\c@mv@boldtabular=\count486
+\c@mv@tabular=\count484
+\c@mv@boldtabular=\count485
 Package soulpos Info: Loading soulutf8 on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/soulutf8\soulutf8.sty
 Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks37
-\SOUL@lasttoken=\toks38
-\SOUL@cmds=\toks39
-\SOUL@buffer=\toks40
-\SOUL@token=\toks41
+\SOUL@word=\toks35
+\SOUL@lasttoken=\toks36
+\SOUL@cmds=\toks37
+\SOUL@buffer=\toks38
+\SOUL@token=\toks39
 \SOUL@spaceskip=\skip114
 \SOUL@ttwidth=\dimen303
 \SOUL@uldp=\dimen304
@@ -1149,7 +1141,7 @@ Package biblatex Info: Reference section=0 on input line 75.
 Package biblatex Info: Reference segment=0 on input line 75.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 77.
-<./images//UNC_logo.png, id=26, 501.875pt x 501.875pt>
+<./images//UNC_logo.png, id=42, 501.875pt x 501.875pt>
 File: ./images//UNC_logo.png Graphic file (type png)
 <use ./images//UNC_logo.png>
 Package pdftex.def Info: ./images//UNC_logo.png  used on input line 77.
@@ -1158,25 +1150,121 @@ Package pdftex.def Info: ./images//UNC_logo.png  used on input line 77.
 
 \openout6 = `Sprint2_Draft.upa'.
 
- <./images//UNC_logo.png>] (sections/overview.tex) (sections/Hypotheses.tex) (sections/data.tex) [2] (sections/analysis.tex) (sections/conclusion.tex) AED endfloat: Processing end Figures and Tables [3] (Sprint2_Draft.aux)
+] [2 <./images//UNC_logo.png>] (sections/overview.tex) (sections/Hypotheses.tex) (sections/data.tex (tables/codebook_table.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 14.
+
+Overfull \hbox (2.6425pt too wide) in paragraph at lines 14--14
+[]\T1/ntxtlf/m/n/12 enroll_\T1/ntxtlf/b/n/12 subgroup[]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 27.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.95pt on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 30.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 30.
+)
+Overfull \hbox (3.37982pt too wide) in paragraph at lines 2--10
+[] 
+ []
+
+[3] (tables/id_variables.tex
+Overfull \hbox (1.15585pt too wide) in paragraph at lines 12--12
+[]\T1/ntxtlf/m/n/12 String| 
+ []
+
+
+Overfull \hbox (1.15585pt too wide) in paragraph at lines 13--13
+[]\T1/ntxtlf/m/n/12 String| 
+ []
+
+
+Overfull \hbox (1.15585pt too wide) in paragraph at lines 14--14
+[]\T1/ntxtlf/m/n/12 String| 
+ []
+
+
+Overfull \hbox (1.15585pt too wide) in paragraph at lines 15--15
+[]\T1/ntxtlf/m/n/12 String| 
+ []
+
+
+Overfull \hbox (5.49986pt too wide) in paragraph at lines 16--16
+[]\T1/ntxtlf/m/n/12 Integer| 
+ []
+
+)
+Overfull \hbox (5.71657pt too wide) in paragraph at lines 2--13
+[] 
+ []
+
+(tables/summary_stats.tex
+Overfull \hbox (1.09474pt too wide) in paragraph at lines 9--10
+[]\T1/ntxtlf/m/n/12 Missing| 
+ []
+
+) [4]
+Overfull \vbox (462.48746pt too high) has occurred while \output is active []
+
+ [5]
+<./images//AP Participation Rate.png, id=75, 1084.05pt x 361.35pt>
+File: ./images//AP Participation Rate.png Graphic file (type png)
+<use ./images//AP Participation Rate.png>
+Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 17.
+(pdftex.def)             Requested size: 1084.04736pt x 361.34912pt.
+)
+Overfull \hbox (650.42734pt too wide) in paragraph at lines 17--88
+[][] 
+ []
+
+(sections/analysis.tex) (sections/conclusion.tex) [6 <./images//AP Participation Rate.png>] [7] AED endfloat: Processing end Figures and Tables [8
+
+] (Sprint2_Draft.aux)
 Package rerunfilecheck Info: File `Sprint2_Draft.out' has not changed.
-(rerunfilecheck)             Checksum: 2C2E1925FF155BBF956F924E5C742547;483.
+(rerunfilecheck)             Checksum: 3485DC447099EB893113710C12EA1C90;1026.
 Package logreq Info: Writing requests to 'Sprint2_Draft.run.xml'.
 \openout1 = `Sprint2_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38426 strings out of 478584
- 763935 string characters out of 2844401
- 1600893 words of memory out of 3000000
- 55987 multiletter control sequences out of 15000+600000
- 478479 words of font info for 33 fonts, out of 8000000 for 9000
+ 38751 strings out of 478584
+ 771018 string characters out of 2844401
+ 1634706 words of memory out of 3000000
+ 56258 multiletter control sequences out of 15000+600000
+ 521518 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,113p,811b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on Sprint2_Draft.pdf (3 pages, 87916 bytes).
+ 99i,15n,113p,811b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on Sprint2_Draft.pdf (8 pages, 140689 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
