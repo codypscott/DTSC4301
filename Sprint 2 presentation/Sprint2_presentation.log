@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  16 FEB 2022 08:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  16 FEB 2022 08:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1284,7 +1284,7 @@ LaTeX Warning: Citation 'chetty2014' on page 5 undefined on input line 139.
 [5
 
  <./LOO_Chart.png>]
-<Chetty_Chart.png, id=90, 748.7975pt x 819.06pt>
+<Chetty_Chart.png, id=92, 748.7975pt x 819.06pt>
 File: Chetty_Chart.png Graphic file (type png)
 <use Chetty_Chart.png>
 Package pdftex.def Info: Chetty_Chart.png  used on input line 148.
@@ -1332,7 +1332,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 \openout4 = `Sprint2_presentation.vrb'.
 
  (Sprint2_presentation.vrb
-<Hypothesis_Modelv2.png, id=130, 557.6835pt x 221.02576pt>
+<Hypothesis_Modelv2.png, id=132, 557.6835pt x 221.02576pt>
 File: Hypothesis_Modelv2.png Graphic file (type png)
 <use Hypothesis_Modelv2.png>
 Package pdftex.def Info: Hypothesis_Modelv2.png  used on input line 3.
@@ -1554,7 +1554,7 @@ Overfull \hbox (19.47168pt too wide) in paragraph at lines 438--438
 [28
 
 ]
-<AP Participation Rate.png, id=220, 1084.05pt x 361.35pt>
+<AP Participation Rate.png, id=222, 1084.05pt x 361.35pt>
 File: AP Participation Rate.png Graphic file (type png)
 <use AP Participation Rate.png>
 Package pdftex.def Info: AP Participation Rate.png  used on input line 446.
@@ -1562,7 +1562,7 @@ Package pdftex.def Info: AP Participation Rate.png  used on input line 446.
  [29
 
  <./AP Participation Rate.png>]
-<AP Pass Rate.png, id=228, 1084.05pt x 361.35pt>
+<AP Pass Rate.png, id=230, 1084.05pt x 361.35pt>
 File: AP Pass Rate.png Graphic file (type png)
 <use AP Pass Rate.png>
 Package pdftex.def Info: AP Pass Rate.png  used on input line 454.
@@ -1575,7 +1575,7 @@ Overfull \hbox (5.69043pt too wide) in paragraph at lines 454--454
 [30
 
  <./AP Pass Rate.png>]
-<EDS Students College Enrollment.png, id=236, 1084.05pt x 361.35pt>
+<EDS Students College Enrollment.png, id=238, 1084.05pt x 361.35pt>
 File: EDS Students College Enrollment.png Graphic file (type png)
 <use EDS Students College Enrollment.png>
 Package pdftex.def Info: EDS Students College Enrollment.png  used on input line 462.
@@ -1588,7 +1588,7 @@ Overfull \hbox (5.69043pt too wide) in paragraph at lines 462--462
 [31
 
  <./EDS Students College Enrollment.png>]
-<CTE Student Enrollment.png, id=245, 1084.05pt x 361.35pt>
+<CTE Student Enrollment.png, id=247, 1084.05pt x 361.35pt>
 File: CTE Student Enrollment.png Graphic file (type png)
 <use CTE Student Enrollment.png>
 Package pdftex.def Info: CTE Student Enrollment.png  used on input line 471.
@@ -1601,7 +1601,7 @@ Overfull \hbox (5.69043pt too wide) in paragraph at lines 471--471
 [32
 
  <./CTE Student Enrollment.png>]
-<Total Counselors.png, id=253, 1084.05pt x 361.35pt>
+<Total Counselors.png, id=255, 1084.05pt x 361.35pt>
 File: Total Counselors.png Graphic file (type png)
 <use Total Counselors.png>
 Package pdftex.def Info: Total Counselors.png  used on input line 479.
@@ -1646,17 +1646,20 @@ Package logreq Info: Writing requests to 'Sprint2_presentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36220 strings out of 478584
- 742047 string characters out of 2844401
+ 36221 strings out of 478584
+ 742058 string characters out of 2844401
  1460874 words of memory out of 3000000
  53630 multiletter control sequences out of 15000+600000
  486959 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,122p,1918b,5157s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+pdfTeX warning (dest): name{thesentence} has been referenced but does not exist, replaced by a fixed one
+
  <C:\Users\ricke\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss0900.pk> <C:\Users\ricke\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on Sprint2_presentation.pdf (33 pages, 3833911 bytes).
+Output written on Sprint2_presentation.pdf (33 pages, 3834298 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
  144 words of extra memory for PDF output out of 10000 (max. 10000000)
 

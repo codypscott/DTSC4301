@@ -30,16 +30,16 @@
 \usepackage{xspace}
 \newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
 
+
 \usepackage[style=apa, sortcites=true, sorting=nyt, backend=biber]{biblatex}
 \DeclareLanguageMapping{american}{american-apa}
+
+%% adding bibliography file to list of resources
+\addbibresource{bibliography.bib}
 
 \usepackage[export]{adjustbox}
 \graphicspath{ {./images/} }
 
-
-
-%% adding bibliography file to list of resources
-\addbibresource{bibliography.bib}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -135,7 +135,7 @@
         \includegraphics[width=10cm]{LOO_Chart.png}
         \label{fig6}
     \end{figure}
-    Source: Chetty Report, \citedate{chetty2014}
+    Source: Chetty Report, \hyperlink{thesentence}{any sentence}\citedate{chetty2014}
 \end{frame}
 
 \begin{frame}
@@ -366,7 +366,7 @@
 
 \section{Appendix}
 
-\begin{frame}
+\begin{frame}{References}
     \printbibliography
 \end{frame}
 
