@@ -1,4 +1,4 @@
-\documentclass[11pt]{beamer}
+\documentclass[10pt]{beamer}
 
 %% Based on the original theme by Matthias Vogelgesang
 
@@ -6,10 +6,14 @@
 \usepackage{appendixnumberbeamer}
 
 \usepackage{booktabs}
+\usepackage{multicol}
 \usepackage[scale=2]{ccicons}
+\usepackage{amsmath}
 
 
 \usepackage{graphicx,threeparttable,caption}
+\captionsetup{justification=raggedright,singlelinecheck=false}
+\captionsetup[table]{labelsep=space}
 
 %\usepackage{pgfplots}
 %\usepgfplotslibrary{dateplot}
@@ -30,10 +34,8 @@
 \DeclareLanguageMapping{american}{american-apa}
 
 \usepackage[export]{adjustbox}
-\usepackage{graphicx}
 \graphicspath{ {./images/} }
 
-\usepackage{threeparttable}
 
 
 %% adding bibliography file to list of resources
@@ -105,12 +107,9 @@
 \date{February 9, 2022}
 \author{Khem Khadka \and Cody Scott \and Joshua Hernandez}
 \institute{DTSC 4301 \\ School of Data Science \\ University of North Carolina at Charlotte}
-%\titlegraphic{\vspace{4.5cm}\flushright}%\includegraphics[height=3cm]{UNC_Logo.png}}
-\usepackage[sfmath]{kpfonts}
-
+\titlegraphic{\vspace{4.5cm}\flushright\includegraphics[height=3cm]{UNC_Logo.png}}
 
 \begin{document}
-
 
 \maketitle
 
@@ -122,16 +121,18 @@
 \section[Overview]{Overview}
 
 \begin{frame}[fragile]{Project Overview}
+    \fontsize{11pt}{7.2}
     \begin{itemize}
-        \item chetty
-        \item LOO
-        \item Will fill this out when draft is done
+        \setlength\itemsep{2em}
+        \item Out of 50 largest cities in the United States, Charlotte ranks last in upward economic mobility
+        \item Leading On Opportunity Task Force worked with experts and communities to recommend structural changes to improve mobility
     \end{itemize}
 \end{frame}
 
 \subsection[Research Question]{Research Question}
 
 \begin{frame}{Research Question}
+    \fontsize{12pt}{7.2}
     \large{\textsc{Will the recommendations made from the task force show a positive effect on minority children, and children from low economic statuses in educational performance, college readiness, or career readiness?}}
 
 \end{frame}
@@ -139,14 +140,14 @@
 \section[Hypotheses]{Hypotheses}
 
 \begin{frame}[fragile]{Hypotheses}
-
+    \fontsize{11pt}{7.2}
     \begin{block}{Hypothesis 1}
         As the number and quality of mentors increase, there will be an increase in academic performance and college acceptance rates for low-socioeconomic students.
     \end{block}
 
     \pause
 
-    \vspace{1cm}
+    \vspace{.6cm}
 
     \begin{exampleblock}{Variables}
         \begin{itemize}
@@ -161,7 +162,7 @@
 \end{frame}
 
 \begin{frame}[fragile]{Hypotheses}
-
+    \fontsize{11pt}{7.2}
     \begin{block}{Hypothesis 2}
         As the quality of mentors and counselors increase, there will be an increase in obtained CTE  Credentials by students within Charlotte Mecklenburg County Schools.
     \end{block}
@@ -191,7 +192,7 @@
 \section[Data Sources]{Data Sources}
 
 \begin{frame}{Data Sources}
-
+    \fontsize{11pt}{7.2}
     \begin{exampleblock}{Sources}
         \begin{itemize}
             \setlength\itemsep{3mm}
@@ -218,37 +219,202 @@
 \section[Variable Information]{Variable Information}
 
 
-\begin{frame}{Codebook}
-    table here
+
+
+\begin{frame}
+    \begin{threeparttable}
+        \caption{\\\textit{Codebook}}
+        \begin{tabular}{ p{0.2\linewidth} p{0.15\linewidth} p{0.13\linewidth} p{0.43\linewidth}}
+            \toprule
+            Variable & \multicolumn{3}{c}{Information} \\
+            \cmidrule(r){2-4}
+            &   Years    &    Type                 &  Description \\ 
+            \midrule
+            AP\_pass\_pct & 2014-2020 &  Continuous     &   Percent of AP exams with a score of 3 or more     \\
+            enroll\_\textbf{subgroup}& 2011-2019   &  Continuous     &   Percent of students enrolling in college by demographic           \\
+            CTE\_cred\_pct  & 2018-2020  &  Continuous     &  Ratio of CTE credentials earned over students enrolled in CTE programs          \\
+            total\_counselors & 2015-2020  &  Discrete       &  Guidance counselors employed district wide  \\
+            int\_\textbf{intention} & 2015-2020 &  Continuous                   &  Percent of students by post-secondary intention           \\
+            \midrule
+        \end{tabular}
+        \small \emph{Note.} Rest of codebook available in appendix 
+        \end{threeparttable}
 \end{frame}
 
 
-\begin{frame}{Summary Statistics}
-    table here
+\begin{frame}
+    \begin{threeparttable}
+        \caption{\\\textit{Summary Statistics}}
+        \begin{tabular}{ p{0.27\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth}}
+            \toprule
+            Variable & \multicolumn{6}{c}{Statistics} \\
+            \cmidrule(r){2-7}
+            &    Count   &   Mean & Std & Min & Max & Missing  \\ 
+            \midrule
+            AP\_pass\_pct &  136.0  &  0.43 & 0.23 & 0.05 & 0.84 & 0.04\%  \\ 
+            enroll\_Disadvantaged &  63.0  &  0.36 & 0.19 & 0.07 & 0.85 & 0.56\%   \\
+            enroll\_All &  42.0  &  0.63 & 0.17 & 0.34 & 0.95 & 0.7  \\
+            CTE\_cred\_pct &  19.0  &  16.26 & 14.95 & 0.0 & 54.0 & 0.87\%  \\ 
+            total\_counselors &  142.0  &  440.77 & 46.77 & 361.0 & 508.0 & 0.00\% \\
+            int\_employ &  142.0  &  11.24 & 2.66 & 8.3 & 15.0 & 0.00\%  \\
+            int\_tradesch &  142.0  &  0.9 & 0.15 & 0.7 & 1.1 & 0.0  \\ 
+            int\_commcoll &  142.0  &  33.81 & 1.92 & 31.3 & 36.9 & 0.00\% \\
+            int\_pubsr &  142.0  &  40.58 & 1.48 & 38.4 & 43.4 & 0.0  \\
+            \midrule
+        \end{tabular}
+        \small \emph{Note.} Rest of variables can be found in the appendix.
+        \end{threeparttable}
 \end{frame}
 
-\section[Analysis and Validation]{Analysis and Validation}
+\section{Analysis and Validation}
 
-\begin{frame}{Potential Analysis}
-    info
+\begin{frame}[fragile]{Potential Analysis}
+    \begin{exampleblock}{Regression}
+
+        \begin{itemize}
+            \item[$\triangleright$] Multivariate Regression
+            \item[$\triangleright$] Random Forest Regressor
+        \end{itemize}
+    \end{exampleblock}
+\vspace{1em}
+    \begin{exampleblock}{Evaluation Metrics}
+        \begin{itemize}
+            \item[$\triangleright$] R and $R^{2}$
+            \item[$\triangleright$] Mean Squared Error
+            \item[$\triangleright$] Mean Absolute Error
+        \end{itemize}
+    \end{exampleblock}
+
+    \vspace{1em}
+
+
+    \begin{exampleblock}{Chi-Squared Test}
+        \begin{itemize}
+            \item[$\triangleright$] Requires binning the data
+            \item[$\triangleright$] Determine significance of relationships between variables
+            \item[$\triangleright$] Metric to evaluate model performance
+        \end{itemize}
+    \end{exampleblock}
 \end{frame}
 
 \begin{frame}{Hypothesis Validation}
-    info
+
+    \begin{block}{Limited Career and Technical Education Data}
+        \begin{itemize}
+            \item[$\triangleright$] Requires binning the data
+            \item[$\triangleright$] Determine significance of relationships between variables
+            \item[$\triangleright$] Metric to evaluate model performance
+        \end{itemize}
+    \end{block}
+
+    \vspace{1em}
+
+
+    \begin{block}{Advanced Placement as a Measure of Academic Success}
+        \begin{itemize}
+            \item[$\triangleright$] Conflicting findings in literature 
+            \item[$\triangleright$] Supplement with GPA, Reading, or Math scores
+        \end{itemize}
+    \end{block}
+    
+    \vspace{1em}
+
+    \begin{block}{Guidance Counselor Aggregation Level}
+        \begin{itemize}
+            \item[$\triangleright$] Current aggregated at the district level, not individual school
+        \end{itemize}
+    \end{block}
+
 \end{frame}
 
 \begin{frame}{Next Steps}
-    info
+    \fontsize{12pt}{10}
+    \begin{itemize}
+        \setlength\itemsep{2em}
+        \item[$\triangleright$] Search for more descriptive counselor data
+        \item[$\triangleright$] Incorporate community and school organizations that help increase the social capital of students
+        \item[$\triangleright$] More descriptive demographic information of schools and surrounding zones
+        \item[$\triangleright$] Adjust hypotheses accordingly  
+    \end{itemize}
+    
+
 \end{frame}
 
-
-
-
-{\setbeamercolor{palette primary}{fg=black, bg=yellow}
+{\setbeamercolor{palette primary}{fg=UnccGold, bg=UnccGreen}
 \begin{frame}[standout]
-  Questions?
+  \LARGE QUESTIONS?
 \end{frame}
 }
+
+
+\section{Appendix}
+
+\begin{frame}
+    \raggedleft
+    \begin{threeparttable}
+        \renewcommand\thetable{1}
+        \caption{\\\textit{Codebook}}
+        \begin{tabular}{ p{0.22\linewidth} p{0.15\linewidth} p{0.13\linewidth} p{0.4\linewidth}}
+            \toprule
+            Variable & \multicolumn{3}{c}{Info} \\
+            \cmidrule(r){2-4}
+            &   Years    &    Type                 &  Description \\ 
+            \midrule
+            AP\_part\_pct  & 2014-2020 &  Continuous   &   Percent of students enrolled in AP classes\\
+            CTE\_enroll\_pct& 2018-2020  &  Continuous                  &  Percentage of students enrolled in a CTE program     \\
+            2019\_med\_hh\_inc                     &  2019   &     Discrete         &   2019 Median Household Income by Zip Code           \\
+            \midrule
+        \end{tabular}
+        \end{threeparttable}
+\end{frame}
+
+\begin{frame}
+    \begin{threeparttable}
+        \renewcommand\thetable{2}
+        \caption{\\\textit{Summary Statistics}}
+        \begin{tabular}{ p{0.27\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.09\linewidth}}
+            \toprule
+            Variable & \multicolumn{6}{c}{Statistics} \\
+            \cmidrule(r){2-7}
+            &    Count   &   Mean & Std & Min & Max & Missing  \\ 
+            \midrule
+            AP\_part\_pct &  138.0  &  0.22 & 0.13 & 0.0 & 0.57 & 0.03  \\
+            CTE\_enroll\_pct &  69.0  &  65.91 & 14.8 & 22.12 & 97.99 & 0.51  \\ 
+            enroll\_AmericanIndian &  0.0  &  nan & nan & nan & nan & 1.0  \\ 
+            enroll\_Asian &  31.0  &  0.52 & 0.31 & 0.06 & 0.95 & 0.78  \\ 
+            enroll\_Black &  88.0  &  0.41 & 0.21 & 0.06 & 0.95 & 0.38  \\
+            enroll\_EnglishLearners &  12.0  &  0.3 & 0.16 & 0.05 & 0.55 & 0.92  \\ 
+            enroll\_Female &  91.0  &  0.48 & 0.19 & 0.15 & 0.92 & 0.36  \\ 
+            enroll\_Hispanic &  65.0  &  0.25 & 0.19 & 0.05 & 0.7 & 0.54  \\ 
+            enroll\_Male &  87.0  &  0.4 & 0.18 & 0.11 & 0.84 & 0.39  \\ 
+            enroll\_Twoormore &  13.0  &  0.65 & 0.21 & 0.05 & 0.93 & 0.91  \\ 
+            enroll\_PacificIslander &  0.0  &  nan & nan & nan & nan & 1.0  \\
+            \midrule
+        \end{tabular}
+        \small \emph{Note.} Continued on next slide.
+        \end{threeparttable}
+\end{frame}
+
+\begin{frame}
+    \begin{threeparttable}
+        \renewcommand\thetable{2}
+        \caption{\\\textit{Summary Statistics}}
+        \begin{tabular}{ p{0.3\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.08\linewidth} p{0.09\linewidth}}
+            \toprule
+            Variable & \multicolumn{6}{c}{Statistics} \\
+            \cmidrule(r){2-7}
+            &    Count   &   Mean & Std & Min & Max & Missing  \\ 
+            \midrule
+            enroll\_Disabilities &  16.0  &  0.39 & 0.12 & 0.24 & 0.66 & 0.89  \\ 
+            enroll\_White &  63.0  &  0.52 & 0.25 & 0.05 & 0.91 & 0.56  \\ 
+            int\_military &  142.0  &  2.6 & 0.3 & 2.2 & 3.0 & 0.0  \\ 
+            int\_other &  142.0  &  1.75 & 0.81 & 1.0 & 3.1 & 0.0  \\
+            int\_privjr &  142.0  &  0.33 & 0.11 & 0.2 & 0.5 & 0.0  \\
+            int\_privsr &  142.0  &  8.75 & 0.63 & 7.8 & 9.5 & 0.0  \\ 
+            \midrule
+        \end{tabular}
+        \end{threeparttable}
+\end{frame}
 
 
 \end{document}

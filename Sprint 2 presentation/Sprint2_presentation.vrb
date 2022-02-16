@@ -1,4 +1,27 @@
-\frametitle{Hypotheses Model}
+\frametitle{Potential Analysis}
+\begin{exampleblock}{Regression}
 
-%\includegraphics[width=11.4cm]{Hypothesis Model.png}
+        \begin{itemize}
+            \item[$\triangleright$] Multivariate Regression
+            \item[$\triangleright$] Random Forest Regressor
+        \end{itemize}
+    \end{exampleblock}
+\vspace{1em}
+    \begin{exampleblock}{Evaluation Metrics}
+        \begin{itemize}
+            \item[$\triangleright$] R and $R^{2}$
+            \item[$\triangleright$] Mean Squared Error
+            \item[$\triangleright$] Mean Absolute Error
+        \end{itemize}
+    \end{exampleblock}
 
+    \vspace{1em}
+
+
+    \begin{exampleblock}{Chi-Squared Test}
+        \begin{itemize}
+            \item[$\triangleright$] Requires binning the data
+            \item[$\triangleright$] Determine significance of relationships between variables
+            \item[$\triangleright$] Metric to evaluate model performance
+        \end{itemize}
+    \end{exampleblock}

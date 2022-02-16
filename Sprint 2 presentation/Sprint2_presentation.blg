@@ -1,9 +1,8 @@
-[0] Config.pm:307> INFO - This is Biber 2.17
-[0] Config.pm:310> INFO - Logfile is 'Sprint2_presentation.blg'
-[184] biber-MSWIN64:340> INFO - === 
-[309] Biber.pm:418> INFO - Reading 'Sprint2_presentation.bcf'
-[500] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
-[552] bbl.pm:654> INFO - Writing 'Sprint2_presentation.bbl' with encoding 'UTF-8'
-[552] bbl.pm:757> INFO - Output to Sprint2_presentation.bbl
-[553] Biber.pm:130> WARN - The file 'Sprint2_presentation.bcf' does not contain any citations!
-[553] Biber.pm:132> INFO - WARNINGS: 1
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Sprint2_presentation.blg'
+[119] biber-MSWIN64:340> INFO - === 
+[157] Biber.pm:415> INFO - Reading 'Sprint2_presentation.bcf'
+[291] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.8, expected version 3.7.
+This means that your biber (2.16) and biblatex (3.17) versions are incompatible.
+See compat matrix in biblatex or biber PDF documentation.
+[291] Biber.pm:132> INFO - ERRORS: 1
