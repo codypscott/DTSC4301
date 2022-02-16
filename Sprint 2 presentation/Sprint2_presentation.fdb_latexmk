@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber Sprint2_presentation"] 1644975243 "Sprint2_presentation.bcf" "Sprint2_presentation.bbl" "Sprint2_presentation" 1644975259
-  "Sprint2_presentation.bcf" 1644975259 122790 65e0fb055cbecc867086d7e9121e251c "pdflatex"
+["biber Sprint2_presentation"] 1644975243 "Sprint2_presentation.bcf" "Sprint2_presentation.bbl" "Sprint2_presentation" 1644975385
+  "Sprint2_presentation.bcf" 1644975385 122790 65e0fb055cbecc867086d7e9121e251c "pdflatex"
   (generated)
   "Sprint2_presentation.bbl"
   "Sprint2_presentation.blg"
-["pdflatex"] 1644975253 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" "Sprint2_presentation.pdf" "Sprint2_presentation" 1644975259
+["pdflatex"] 1644975378 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" "Sprint2_presentation.pdf" "Sprint2_presentation" 1644975385
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1644973951 170558 d1e033204d51c81d74c56cf75410825b ""
   "C:/Users/ricke/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644975235 10245400 93801c083d17b943011ce03b41c63dde ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458470287 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
-  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
-  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss12.tfm" 1136765053 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
+  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss10.tfm" 1136765053 1316 b636689f1933f24d1294acdf6041daaa ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/kpfonts/jkpexa.tfm" 1226650048 1296 8c0a1856baf011e106ddf53856934ffe ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/kpfonts/jkpmi.tfm" 1266246632 2392 1ee08a0b7a0370405809b47b71fb21cc ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/tfm/public/kpfonts/jkpssbn7t.tfm" 1237792476 3884 9d64dbb116f678f2ec4067f28750949c ""
@@ -141,7 +141,7 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty" 1638775084 3034 3bfb87122e6fa8758225c0dd3cbaceba ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty" 1638775084 2462 754d6b31b2ab5a09bb72c348ace2ec75 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1638775084 5157 f308c7c04889e16c588e78aa42599fae ""
-  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1638775084 8449 bc7344e882df4d7e51c046514dee83e4 ""
+  "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1638775084 8464 74db94825c407b51399ca17d9bd38a3d ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty" 1638775084 2894 55431114fc0e491ecee275edafd6c881 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamer.cls" 1642750340 12310 2b9d5ca8ca1cc18adf963d2ae2e8b18a ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamerbaseauxtemplates.sty" 1642750340 24160 45a13ef4310e1e6ae8a2702a712b5f37 ""
@@ -279,15 +279,15 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238465940 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623002090 4902 efb3d66683a2da2a232f71e3a571a899 ""
-  "Sprint2_presentation.aux" 1644975259 5233 94de0c012525808be97737d43fbc6c63 "pdflatex"
+  "Sprint2_presentation.aux" 1644975385 5233 94de0c012525808be97737d43fbc6c63 "pdflatex"
   "Sprint2_presentation.bbl" 1644975247 486 ee04f40f768daeed26442158e95aba61 "biber Sprint2_presentation"
-  "Sprint2_presentation.nav" 1644975259 2897 a821cd8fad33e6e00ecd1871d5ed2f05 "pdflatex"
-  "Sprint2_presentation.out" 1644975259 737 904c723c8845f0b0d5e779f0df4a3029 "pdflatex"
-  "Sprint2_presentation.run.xml" 1644975259 2541 5934dd8cf6f2ba73516ae46835d81951 "pdflatex"
-  "Sprint2_presentation.tex" 1644975220 7330 6fc74c34b284a1a524d198f1b9312a09 ""
-  "Sprint2_presentation.toc" 1644975259 315 72645bf8bff791d46e02ce6bf6637e04 "pdflatex"
-  "Sprint2_presentation.vrb" 1644975259 86 f987e2f4a45fc54c6132c9c31cffba44 "pdflatex"
-  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" 1644975220 7330 6fc74c34b284a1a524d198f1b9312a09 ""
+  "Sprint2_presentation.nav" 1644975385 2897 a821cd8fad33e6e00ecd1871d5ed2f05 "pdflatex"
+  "Sprint2_presentation.out" 1644975385 737 904c723c8845f0b0d5e779f0df4a3029 "pdflatex"
+  "Sprint2_presentation.run.xml" 1644975385 2541 5934dd8cf6f2ba73516ae46835d81951 "pdflatex"
+  "Sprint2_presentation.tex" 1644975373 7330 903e8e54e8504954f44592f58808e467 ""
+  "Sprint2_presentation.toc" 1644975385 315 72645bf8bff791d46e02ce6bf6637e04 "pdflatex"
+  "Sprint2_presentation.vrb" 1644975384 86 f987e2f4a45fc54c6132c9c31cffba44 "pdflatex"
+  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" 1644975373 7330 903e8e54e8504954f44592f58808e467 ""
   (generated)
   "Sprint2_presentation.aux"
   "Sprint2_presentation.bcf"

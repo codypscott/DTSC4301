@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  15 FEB 2022 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  15 FEB 2022 20:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -249,8 +249,8 @@ File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+))) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 ) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count292
@@ -1318,12 +1318,12 @@ LaTeX Font Info:    ... okay on input line 112.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1497,7 +1497,7 @@ Package biblatex Info: ... file 'Sprint2_presentation.bbl' found.
 Package biblatex Info: Reference section=0 on input line 112.
 Package biblatex Info: Reference segment=0 on input line 112.
  (Sprint2_presentation.nav)
-Overfull \vbox (16.67491pt too high) detected at line 115
+Overfull \vbox (15.63992pt too high) detected at line 115
  []
 
 [1
@@ -1529,11 +1529,11 @@ LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 1
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Font shape `OT1/jkpss/m/it' in size <12> not available
+LaTeX Font Info:    Font shape `OT1/jkpss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/jkpss/m/sl' tried instead on input line 122.
-LaTeX Font Info:    Font shape `OT1/jkpss/m/it' in size <9> not available
+LaTeX Font Info:    Font shape `OT1/jkpss/m/it' in size <8.3> not available
 (Font)              Font shape `OT1/jkpss/m/sl' tried instead on input line 122.
-LaTeX Font Info:    Font shape `OT1/jkpss/m/it' in size <7> not available
+LaTeX Font Info:    Font shape `OT1/jkpss/m/it' in size <6> not available
 (Font)              Font shape `OT1/jkpss/m/sl' tried instead on input line 122.
  [3
 
@@ -1554,13 +1554,13 @@ File: ts1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for TS1/jkpss.
 \openout4 = `Sprint2_presentation.vrb'.
 
  (Sprint2_presentation.vrb)
-Overfull \vbox (48.89131pt too high) detected at line 161
+Overfull \vbox (17.1207pt too high) detected at line 161
  []
 
 [7
 
 ] (Sprint2_presentation.vrb)
-Overfull \vbox (48.89131pt too high) detected at line 161
+Overfull \vbox (17.1207pt too high) detected at line 161
  []
 
 [8
@@ -1568,17 +1568,9 @@ Overfull \vbox (48.89131pt too high) detected at line 161
 ]
 \openout4 = `Sprint2_presentation.vrb'.
 
- (Sprint2_presentation.vrb)
-Overfull \vbox (14.6955pt too high) detected at line 182
- []
+ (Sprint2_presentation.vrb) [9
 
-[9
-
-] (Sprint2_presentation.vrb)
-Overfull \vbox (14.6955pt too high) detected at line 182
- []
-
-[10
+] (Sprint2_presentation.vrb) [10
 
 ]
 \openout4 = `Sprint2_presentation.vrb'.
@@ -1623,15 +1615,15 @@ Package logreq Info: Writing requests to 'Sprint2_presentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36862 strings out of 478584
- 746657 string characters out of 2844401
- 1440525 words of memory out of 3000000
+ 36861 strings out of 478584
+ 746694 string characters out of 2844401
+ 1440530 words of memory out of 3000000
  54273 multiletter control sequences out of 15000+600000
- 505090 words of font info for 93 fonts, out of 8000000 for 9000
+ 504173 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,122p,1918b,5157s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpssbn8a.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpssbsc8a.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpssmn8a.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpssmsc8a.pfb>
-Output written on Sprint2_presentation.pdf (21 pages, 68903 bytes).
+Output written on Sprint2_presentation.pdf (21 pages, 68918 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)

@@ -274,11 +274,11 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pg
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
@@ -975,7 +975,7 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseth
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
@@ -1778,7 +1778,6 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kpfonts\jkps
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\vf\public\kpfonts\jkpssmn7t.vf
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kpfonts\jkpssmne.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kpfonts\jkpssmn8r.tfm
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\kpfonts\omljkpss.fd
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\kpfonts\omljkpss.fd
