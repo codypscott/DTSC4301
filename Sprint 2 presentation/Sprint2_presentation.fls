@@ -1750,12 +1750,27 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmss.fd
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmss.fd
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmss.fd
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcss1095.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\LOO_Chart.png
+INPUT .\LOO_Chart.png
+INPUT LOO_Chart.png
+INPUT .\LOO_Chart.png
+INPUT .\LOO_Chart.png
+INPUT .\LOO_Chart.png
+INPUT .\LOO_Chart.png
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\Chetty_Chart.png
+INPUT .\Chetty_Chart.png
+INPUT Chetty_Chart.png
+INPUT .\Chetty_Chart.png
+INPUT .\Chetty_Chart.png
+INPUT .\Chetty_Chart.png
+INPUT .\Chetty_Chart.png
 OUTPUT Sprint2_presentation.vrb
 INPUT .\Sprint2_presentation.vrb
 INPUT Sprint2_presentation.vrb
 INPUT .\Sprint2_presentation.vrb
 INPUT Sprint2_presentation.vrb
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
@@ -1799,7 +1814,6 @@ INPUT .\Hypothesis_Modelv2.png
 INPUT .\Hypothesis_Modelv2.png
 INPUT .\Hypothesis_Modelv2.png
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcss0900.tfm
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssi9.tfm
 OUTPUT Sprint2_presentation.vrb
 INPUT .\Sprint2_presentation.vrb
@@ -1824,6 +1838,41 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathacce
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\AP Participation Rate.png
+INPUT .\AP Participation Rate.png
+INPUT AP Participation Rate.png
+INPUT .\AP Participation Rate.png
+INPUT .\AP Participation Rate.png
+INPUT .\AP Participation Rate.png
+INPUT .\AP Participation Rate.png
+INPUT .\AP Pass Rate.png
+INPUT .\AP Pass Rate.png
+INPUT AP Pass Rate.png
+INPUT .\AP Pass Rate.png
+INPUT .\AP Pass Rate.png
+INPUT .\AP Pass Rate.png
+INPUT .\AP Pass Rate.png
+INPUT .\EDS Students College Enrollment.png
+INPUT .\EDS Students College Enrollment.png
+INPUT EDS Students College Enrollment.png
+INPUT .\EDS Students College Enrollment.png
+INPUT .\EDS Students College Enrollment.png
+INPUT .\EDS Students College Enrollment.png
+INPUT .\EDS Students College Enrollment.png
+INPUT .\CTE Student Enrollment.png
+INPUT .\CTE Student Enrollment.png
+INPUT CTE Student Enrollment.png
+INPUT .\CTE Student Enrollment.png
+INPUT .\CTE Student Enrollment.png
+INPUT .\CTE Student Enrollment.png
+INPUT .\CTE Student Enrollment.png
+INPUT .\Total Counselors.png
+INPUT .\Total Counselors.png
+INPUT Total Counselors.png
+INPUT .\Total Counselors.png
+INPUT .\Total Counselors.png
+INPUT .\Total Counselors.png
+INPUT .\Total Counselors.png
 OUTPUT Sprint2_presentation.nav
 OUTPUT Sprint2_presentation.toc
 OUTPUT Sprint2_presentation.snm

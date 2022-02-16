@@ -1,7 +1,7 @@
-\beamer@sectionintoc {1}{Overview}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Research Question}{5}{0}{1}
-\beamer@sectionintoc {2}{Hypotheses}{6}{0}{2}
-\beamer@sectionintoc {3}{Data Sources}{12}{0}{3}
-\beamer@sectionintoc {4}{Variable Information}{14}{0}{4}
-\beamer@sectionintoc {5}{Analysis and Validation}{17}{0}{5}
-\beamer@sectionintoc {6}{Appendix}{22}{0}{6}
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Research Question}{7}{0}{1}
+\beamer@sectionintoc {2}{Hypotheses}{8}{0}{2}
+\beamer@sectionintoc {3}{Data Sources}{14}{0}{3}
+\beamer@sectionintoc {4}{Variable Information}{16}{0}{4}
+\beamer@sectionintoc {5}{Analysis and Validation}{19}{0}{5}
+\beamer@sectionintoc {6}{Appendix}{24}{0}{6}
