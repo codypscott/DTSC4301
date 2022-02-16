@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'Sprint2_presentation.blg'
+[184] biber-MSWIN64:340> INFO - === 
+[309] Biber.pm:418> INFO - Reading 'Sprint2_presentation.bcf'
+[500] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[552] bbl.pm:654> INFO - Writing 'Sprint2_presentation.bbl' with encoding 'UTF-8'
+[552] bbl.pm:757> INFO - Output to Sprint2_presentation.bbl
+[553] Biber.pm:130> WARN - The file 'Sprint2_presentation.bcf' does not contain any citations!
+[553] Biber.pm:132> INFO - WARNINGS: 1
