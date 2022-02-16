@@ -1758,7 +1758,6 @@ INPUT .\LOO_Chart.png
 INPUT .\LOO_Chart.png
 INPUT .\LOO_Chart.png
 INPUT .\LOO_Chart.png
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT .\Chetty_Chart.png
 INPUT .\Chetty_Chart.png
 INPUT Chetty_Chart.png
@@ -1771,6 +1770,7 @@ INPUT .\Sprint2_presentation.vrb
 INPUT Sprint2_presentation.vrb
 INPUT .\Sprint2_presentation.vrb
 INPUT Sprint2_presentation.vrb
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm

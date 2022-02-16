@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  16 FEB 2022 08:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  16 FEB 2022 08:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1277,23 +1277,15 @@ File: LOO_Chart.png Graphic file (type png)
 <use LOO_Chart.png>
 Package pdftex.def Info: LOO_Chart.png  used on input line 139.
 (pdftex.def)             Requested size: 284.52756pt x 134.08508pt.
-
-
-LaTeX Warning: Citation 'chetty2014' on page 5 undefined on input line 139.
-
-[5
+ [5
 
  <./LOO_Chart.png>]
-<Chetty_Chart.png, id=92, 748.7975pt x 819.06pt>
+<Chetty_Chart.png, id=91, 748.7975pt x 819.06pt>
 File: Chetty_Chart.png Graphic file (type png)
 <use Chetty_Chart.png>
 Package pdftex.def Info: Chetty_Chart.png  used on input line 148.
 (pdftex.def)             Requested size: 130.05891pt x 142.26378pt.
-
-
-LaTeX Warning: Citation 'LOO' on page 6 undefined on input line 148.
-
-[6
+ [6
 
  <./Chetty_Chart.png>] [7
 
@@ -1468,150 +1460,144 @@ Overfull \vbox (7.83597pt too high) detected at line 316
 ] [24
 
 ]
-
-LaTeX Warning: Empty bibliography on input line 371.
-
-[25
-
-]
-Overfull \hbox (6.93977pt too wide) in paragraph at lines 390--390
+Overfull \hbox (6.93977pt too wide) in paragraph at lines 386--386
 []\OT1/cmss/m/n/10 Continuous| 
  []
 
 
-Overfull \hbox (6.93977pt too wide) in paragraph at lines 390--390
+Overfull \hbox (6.93977pt too wide) in paragraph at lines 386--386
 []\OT1/cmss/m/n/10 Continuous| 
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 390--390
+Underfull \hbox (badness 1117) in paragraph at lines 386--386
 []\OT1/cmss/m/n/10 Percentage of stu-dents en-
  []
 
 
-Overfull \hbox (3.08485pt too wide) in paragraph at lines 390--390
+Overfull \hbox (3.08485pt too wide) in paragraph at lines 386--386
 []\OT1/cmss/m/n/10 2019[]med[]hh[]inc| 
  []
 
 
-Overfull \hbox (17.2691pt too wide) in paragraph at lines 390--390
+Overfull \hbox (17.2691pt too wide) in paragraph at lines 386--386
  []
+ []
+
+[25
+
+]
+Overfull \hbox (0.74963pt too wide) in paragraph at lines 413--413
+[]\OT1/cmss/m/n/10 Count| 
+ []
+
+
+Overfull \hbox (3.7062pt too wide) in paragraph at lines 413--413
+[]\OT1/cmss/m/n/10 Missing| 
+ []
+
+
+Overfull \hbox (8.18614pt too wide) in paragraph at lines 413--413
+[]\OT1/cmss/m/n/10 enroll[]AmericanIndian| 
+ []
+
+
+Overfull \hbox (8.01944pt too wide) in paragraph at lines 413--413
+[]\OT1/cmss/m/n/10 enroll[]EnglishLearners| 
+ []
+
+
+Overfull \hbox (2.99165pt too wide) in paragraph at lines 413--413
+[]\OT1/cmss/m/n/10 enroll[]PacificIslander| 
+ []
+
+
+Overfull \hbox (10.25336pt too wide) in paragraph at lines 413--413
+[]  
+ []
+
+
+Overfull \vbox (17.58434pt too high) detected at line 413
  []
 
 [26
 
 ]
-Overfull \hbox (0.74963pt too wide) in paragraph at lines 417--417
+Overfull \hbox (0.74963pt too wide) in paragraph at lines 434--434
 []\OT1/cmss/m/n/10 Count| 
  []
 
 
-Overfull \hbox (3.7062pt too wide) in paragraph at lines 417--417
+Overfull \hbox (3.7062pt too wide) in paragraph at lines 434--434
 []\OT1/cmss/m/n/10 Missing| 
  []
 
 
-Overfull \hbox (8.18614pt too wide) in paragraph at lines 417--417
-[]\OT1/cmss/m/n/10 enroll[]AmericanIndian| 
- []
-
-
-Overfull \hbox (8.01944pt too wide) in paragraph at lines 417--417
-[]\OT1/cmss/m/n/10 enroll[]EnglishLearners| 
- []
-
-
-Overfull \hbox (2.99165pt too wide) in paragraph at lines 417--417
-[]\OT1/cmss/m/n/10 enroll[]PacificIslander| 
- []
-
-
-Overfull \hbox (10.25336pt too wide) in paragraph at lines 417--417
+Overfull \hbox (19.47168pt too wide) in paragraph at lines 434--434
 []  
- []
-
-
-Overfull \vbox (17.58434pt too high) detected at line 417
  []
 
 [27
 
 ]
-Overfull \hbox (0.74963pt too wide) in paragraph at lines 438--438
-[]\OT1/cmss/m/n/10 Count| 
- []
-
-
-Overfull \hbox (3.7062pt too wide) in paragraph at lines 438--438
-[]\OT1/cmss/m/n/10 Missing| 
- []
-
-
-Overfull \hbox (19.47168pt too wide) in paragraph at lines 438--438
-[]  
- []
-
-[28
-
-]
-<AP Participation Rate.png, id=222, 1084.05pt x 361.35pt>
+<AP Participation Rate.png, id=217, 1084.05pt x 361.35pt>
 File: AP Participation Rate.png Graphic file (type png)
 <use AP Participation Rate.png>
-Package pdftex.def Info: AP Participation Rate.png  used on input line 446.
+Package pdftex.def Info: AP Participation Rate.png  used on input line 442.
 (pdftex.def)             Requested size: 284.52756pt x 94.84201pt.
- [29
+ [28
 
  <./AP Participation Rate.png>]
-<AP Pass Rate.png, id=230, 1084.05pt x 361.35pt>
+<AP Pass Rate.png, id=225, 1084.05pt x 361.35pt>
 File: AP Pass Rate.png Graphic file (type png)
 <use AP Pass Rate.png>
-Package pdftex.def Info: AP Pass Rate.png  used on input line 454.
+Package pdftex.def Info: AP Pass Rate.png  used on input line 450.
 (pdftex.def)             Requested size: 312.9803pt x 104.32565pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 454--454
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 450--450
+ [] 
+ []
+
+[29
+
+ <./AP Pass Rate.png>]
+<EDS Students College Enrollment.png, id=233, 1084.05pt x 361.35pt>
+File: EDS Students College Enrollment.png Graphic file (type png)
+<use EDS Students College Enrollment.png>
+Package pdftex.def Info: EDS Students College Enrollment.png  used on input line 458.
+(pdftex.def)             Requested size: 312.9803pt x 104.32565pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 458--458
  [] 
  []
 
 [30
 
- <./AP Pass Rate.png>]
-<EDS Students College Enrollment.png, id=238, 1084.05pt x 361.35pt>
-File: EDS Students College Enrollment.png Graphic file (type png)
-<use EDS Students College Enrollment.png>
-Package pdftex.def Info: EDS Students College Enrollment.png  used on input line 462.
+ <./EDS Students College Enrollment.png>]
+<CTE Student Enrollment.png, id=241, 1084.05pt x 361.35pt>
+File: CTE Student Enrollment.png Graphic file (type png)
+<use CTE Student Enrollment.png>
+Package pdftex.def Info: CTE Student Enrollment.png  used on input line 467.
 (pdftex.def)             Requested size: 312.9803pt x 104.32565pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 462--462
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 467--467
  [] 
  []
 
 [31
 
- <./EDS Students College Enrollment.png>]
-<CTE Student Enrollment.png, id=247, 1084.05pt x 361.35pt>
-File: CTE Student Enrollment.png Graphic file (type png)
-<use CTE Student Enrollment.png>
-Package pdftex.def Info: CTE Student Enrollment.png  used on input line 471.
+ <./CTE Student Enrollment.png>]
+<Total Counselors.png, id=250, 1084.05pt x 361.35pt>
+File: Total Counselors.png Graphic file (type png)
+<use Total Counselors.png>
+Package pdftex.def Info: Total Counselors.png  used on input line 475.
 (pdftex.def)             Requested size: 312.9803pt x 104.32565pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 471--471
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 475--475
  [] 
  []
 
 [32
-
- <./CTE Student Enrollment.png>]
-<Total Counselors.png, id=255, 1084.05pt x 361.35pt>
-File: Total Counselors.png Graphic file (type png)
-<use Total Counselors.png>
-Package pdftex.def Info: Total Counselors.png  used on input line 479.
-(pdftex.def)             Requested size: 312.9803pt x 104.32565pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 479--479
- [] 
- []
-
-[33
 
  <./Total Counselors.png>]
 \tf@nav=\write7
@@ -1631,35 +1617,24 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Sprint2_presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 3608C7C6E373AE8470F8A2BC5070A238;830.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Sprint2_presentation
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Sprint2_presentation.run.xml'.
 \openout1 = `Sprint2_presentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36221 strings out of 478584
- 742058 string characters out of 2844401
- 1460874 words of memory out of 3000000
- 53630 multiletter control sequences out of 15000+600000
+ 36028 strings out of 478584
+ 738290 string characters out of 2844401
+ 1460840 words of memory out of 3000000
+ 53440 multiletter control sequences out of 15000+600000
  486959 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,122p,1918b,5157s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-pdfTeX warning (dest): name{thesentence} has been referenced but does not exist, replaced by a fixed one
-
  <C:\Users\ricke\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss0900.pk> <C:\Users\ricke\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on Sprint2_presentation.pdf (33 pages, 3834298 bytes).
+Output written on Sprint2_presentation.pdf (32 pages, 3833321 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
  144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
