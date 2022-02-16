@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber Sprint2_presentation"] 1644989783 "Sprint2_presentation.bcf" "Sprint2_presentation.bbl" "Sprint2_presentation" 1644990251
-  "Sprint2_presentation.bcf" 1644990250 122790 65e0fb055cbecc867086d7e9121e251c "pdflatex"
+["biber Sprint2_presentation"] 1644989783 "Sprint2_presentation.bcf" "Sprint2_presentation.bbl" "Sprint2_presentation" 1644991883
+  "Sprint2_presentation.bcf" 1644991883 122790 65e0fb055cbecc867086d7e9121e251c "pdflatex"
   (generated)
   "Sprint2_presentation.bbl"
   "Sprint2_presentation.blg"
-["pdflatex"] 1644990247 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" "Sprint2_presentation.pdf" "Sprint2_presentation" 1644990251
+["pdflatex"] 1644991879 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" "Sprint2_presentation.pdf" "Sprint2_presentation" 1644991883
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1644973951 170558 d1e033204d51c81d74c56cf75410825b ""
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcss0900.pk" 1644373441 9548 2c56a9ed2b2eefe20ef1876cf3284741 ""
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1095.pk" 1644986841 11640 5de7863e11fef0840c67e1e8108c9dca ""
@@ -268,16 +268,17 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238465940 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623002090 4902 efb3d66683a2da2a232f71e3a571a899 ""
-  "Sprint2_presentation.aux" 1644990250 6015 83b0daa82c58250749386d5da7f807c8 "pdflatex"
+  "Hypothesis_Modelv2.png" 1644991770 67844 69bd35351fb76d15f171188e23126885 ""
+  "Sprint2_presentation.aux" 1644991883 6015 83b0daa82c58250749386d5da7f807c8 "pdflatex"
   "Sprint2_presentation.bbl" 1644989785 0 d41d8cd98f00b204e9800998ecf8427e "biber Sprint2_presentation"
-  "Sprint2_presentation.nav" 1644990250 3418 3a29c7b505bd1ff6d5774984cbd3360d "pdflatex"
-  "Sprint2_presentation.out" 1644990250 820 908e94b2a68e386573a119d4cd75f0e3 "pdflatex"
-  "Sprint2_presentation.run.xml" 1644990250 2541 5934dd8cf6f2ba73516ae46835d81951 "pdflatex"
-  "Sprint2_presentation.tex" 1644990246 15828 b0cef863f790eee0b7939010b645c32a ""
-  "Sprint2_presentation.toc" 1644990250 360 1ab03d4471a53f912e4b8a572e8182a8 "pdflatex"
-  "Sprint2_presentation.vrb" 1644990250 904 73c160ca9037fcb12a17c6368c23f24d "pdflatex"
+  "Sprint2_presentation.nav" 1644991883 3418 3a29c7b505bd1ff6d5774984cbd3360d "pdflatex"
+  "Sprint2_presentation.out" 1644991883 820 908e94b2a68e386573a119d4cd75f0e3 "pdflatex"
+  "Sprint2_presentation.run.xml" 1644991883 2541 5934dd8cf6f2ba73516ae46835d81951 "pdflatex"
+  "Sprint2_presentation.tex" 1644991878 15833 8652f2c1c4adb8bdddb8081544a1b476 ""
+  "Sprint2_presentation.toc" 1644991883 360 1ab03d4471a53f912e4b8a572e8182a8 "pdflatex"
+  "Sprint2_presentation.vrb" 1644991882 904 73c160ca9037fcb12a17c6368c23f24d "pdflatex"
   "UNC_Logo.png" 1644372077 10549 9029b8f9749fb1d19c03da6224ac9d89 ""
-  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" 1644990246 15828 b0cef863f790eee0b7939010b645c32a ""
+  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 2 presentation/Sprint2_presentation.tex" 1644991878 15833 8652f2c1c4adb8bdddb8081544a1b476 ""
   (generated)
   "Sprint2_presentation.aux"
   "Sprint2_presentation.bcf"
