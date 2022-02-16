@@ -1,8 +1,8 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Sprint2_presentation.blg'
-[264] biber-MSWIN64:340> INFO - === 
-[338] Biber.pm:415> INFO - Reading 'Sprint2_presentation.bcf'
-[584] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.8, expected version 3.7.
+[1] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'Sprint2_presentation.blg'
+[133] biber-MSWIN64:340> INFO - === 
+[176] Biber.pm:415> INFO - Reading 'Sprint2_presentation.bcf'
+[358] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.8, expected version 3.7.
 This means that your biber (2.16) and biblatex (3.17) versions are incompatible.
 See compat matrix in biblatex or biber PDF documentation.
-[584] Biber.pm:132> INFO - ERRORS: 1
+[358] Biber.pm:132> INFO - ERRORS: 1
