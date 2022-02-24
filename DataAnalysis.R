@@ -19,8 +19,12 @@ names(full_data)
 H1_data <- full_data[c('int_commcoll', 'int_pubsr', 'AP_part_pct', 'AP_pass_pct', 'enroll_Disadvantaged')]
 
 ## hypothesis 2 data
-H2_data <-full_dat[c('CTE_enroll_pct', 'CTE_cred_pct', 'int_trdbusnrs' )]
+H2_data <-full_data[c('CTE_enroll_pct', 'CTE_cred_pct', 'int_trdbusnrs' )]
 
 
 
 cor(na.omit(H1_data))
+
+
+cor(na.omit(H2_data))
+
