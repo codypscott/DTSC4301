@@ -1,0 +1,160 @@
+%% using apa7 package for formatting 
+%%
+%% options
+%%  stu  | student paper apa format
+%%  12pt | font size 
+%%
+%% draftall if want draft water mark
+\documentclass[stu, 12pt, longtable]{apa7}
+
+%%  
+%% package inserts filler text
+%%
+\usepackage{lipsum} 
+
+%%
+%% package formats for american english
+%%
+\usepackage[american]{babel}
+
+%%
+%% package that helps format in-line quotations
+%%
+\usepackage{csquotes}
+
+\usepackage[author={Team 1}]{pdfcomment}
+
+
+%%
+%% apa style bibliography
+%% sort citations by name, year, title
+%% backend database is biber, default biblatex
+%%
+\usepackage[style=apa, sortcites=true, sorting=nyt, backend=biber]{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+
+%% adding bibliography file to list of resources
+\addbibresource{bibliography.bib}
+
+
+%\usepackage{caption}
+%captionsetup[figure]{justification = centering, font=normal,labelfont=normal, labelformat = empty, textfont=bf}
+
+%% all for images
+% \usepackage[export]{adjustbox}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+% \captionsetup[figure]{justification = centering, font=normal,labelfont=normal, labelformat = empty, textfont=bf}
+
+
+
+
+%% changes color of highlight 
+%\usepackage[highlightmarkup=background, defaultcolor=yellow]{changes}
+
+%% for the comments
+%\usepackage{todonotes}
+
+
+\title{College and Career Readiness in Charlotte, NC: An Analysis on Academic Performance, Career Readiness, and Upward Mobility.}
+%% author
+\authorsnames{Khem Khadka, Cody Scott, Joshua Hernandez}
+%% institution
+
+\authorsaffiliations{School of Data Science, University of North Carolina at Charlotte}
+\course{DTSC 4301}
+\professor{Dr.\ Tianca Crocker and Dr.\ Mary Lou Maher}
+\duedate{Feburary 27, 2022 \\  \vspace{1cm} \includegraphics[width=8cm]{UNC_logo.png}}
+
+
+
+%% begins the document body
+\begin{document}
+
+\maketitle
+
+\section{Overview}
+\input{tables/codebook_table.tex}
+\input{sections/overview.tex}
+
+\section{Hypotheses}
+\input{sections/Hypotheses.tex}
+
+\section{Data Description}
+\input{sections/data.tex}
+
+\section{Analysis}
+\input{sections/analysis.tex}
+
+\section{Conclusion}
+\input{sections/conclusion.tex}
+
+% makes the references page
+
+\printbibliography
+
+\appendix
+\section{}
+\input{tables/intentions_table.tex}
+\\
+\input{tables/codebook_table.tex}
+\\
+\input{tables/id_variables.tex}
+\\
+\input{tables/summary_stats.tex}
+\\
+\input{tables/summary_stats2.tex}
+
+
+\section{}
+\begin{figure}
+    \caption{AP Participation Percent over Time}
+    \includegraphics[width=17cm]{AP Participation Rate.png}
+    \label{fig1}
+\end{figure}
+
+\begin{figure}
+    \caption{AP Pass Rate over Time}
+    \includegraphics[width=17cm]{AP Pass Rate.png}
+    \label{fig2}
+\end{figure}
+
+\begin{figure}
+    \caption{CTE Student Enrollment over Time}
+    \includegraphics[width=17cm]{CTE Student Enrollment.png}
+    \label{fig3}
+\end{figure}
+
+\begin{figure}
+    \caption{Economically Disadvantaged Students College Enrollment over Time}
+    \includegraphics[width=17cm]{EDS Students College Enrollment.png}
+    \label{fig4}
+\end{figure}
+
+\begin{figure}
+    \caption{Number of Counselors at District Level}
+    \includegraphics[width=17cm]{Total Counselors.png}
+    \label{fig5}
+\end{figure}
+
+
+
+%% ends the document body
+\end{document}
+
+%% 
+%% Copyright (C) 2019 by Daniel A. Weiss <daniel.weiss.led at gmail.com>
+%% 
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License (LPPL), either
+%% version 1.3c of this license or (at your option) any later
+%% version.  The latest version of this license is in the file:
+%% 
+%% http://www.latex-project.org/lppl.txt
+%% 
+%% Users may freely modify these files without permission, as long as the
+%% copyright line and this statement are maintained intact.
+%% 
+
+
+
