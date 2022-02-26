@@ -1303,6 +1303,7 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib7.tf
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy7.tfm
+INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
@@ -1311,7 +1312,10 @@ INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tf
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
 INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
-INPUT C:\Users\ricke\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
+INPUT .\tables\summary_stats.tex
+INPUT tables\summary_stats.tex
+INPUT .\tables\summary_stats.tex
+INPUT tables\summary_stats.tex
 INPUT .\sections\overview.tex
 INPUT sections\overview.tex
 INPUT .\sections\overview.tex
@@ -1332,61 +1336,6 @@ INPUT .\sections\conclusion.tex
 INPUT sections\conclusion.tex
 INPUT .\sections\conclusion.tex
 INPUT sections\conclusion.tex
-INPUT .\tables\intentions_table.tex
-INPUT tables\intentions_table.tex
-INPUT .\tables\intentions_table.tex
-INPUT tables\intentions_table.tex
-INPUT .\tables\codebook_table.tex
-INPUT tables\codebook_table.tex
-INPUT .\tables\codebook_table.tex
-INPUT tables\codebook_table.tex
-INPUT .\tables\id_variables.tex
-INPUT tables\id_variables.tex
-INPUT .\tables\id_variables.tex
-INPUT tables\id_variables.tex
-INPUT .\tables\summary_stats.tex
-INPUT tables\summary_stats.tex
-INPUT .\tables\summary_stats.tex
-INPUT tables\summary_stats.tex
-INPUT .\tables\summary_stats2.tex
-INPUT tables\summary_stats2.tex
-INPUT .\tables\summary_stats2.tex
-INPUT tables\summary_stats2.tex
-INPUT .\images\\AP Participation Rate.png
-INPUT .\images\\AP Participation Rate.png
-INPUT images\\AP Participation Rate.png
-INPUT .\images\\AP Participation Rate.png
-INPUT .\images\\AP Participation Rate.png
-INPUT .\images\\AP Participation Rate.png
-INPUT .\images\\AP Participation Rate.png
-INPUT .\images\\AP Pass Rate.png
-INPUT .\images\\AP Pass Rate.png
-INPUT images\\AP Pass Rate.png
-INPUT .\images\\AP Pass Rate.png
-INPUT .\images\\AP Pass Rate.png
-INPUT .\images\\AP Pass Rate.png
-INPUT .\images\\AP Pass Rate.png
-INPUT .\images\\CTE Student Enrollment.png
-INPUT .\images\\CTE Student Enrollment.png
-INPUT images\\CTE Student Enrollment.png
-INPUT .\images\\CTE Student Enrollment.png
-INPUT .\images\\CTE Student Enrollment.png
-INPUT .\images\\CTE Student Enrollment.png
-INPUT .\images\\CTE Student Enrollment.png
-INPUT .\images\\EDS Students College Enrollment.png
-INPUT .\images\\EDS Students College Enrollment.png
-INPUT images\\EDS Students College Enrollment.png
-INPUT .\images\\EDS Students College Enrollment.png
-INPUT .\images\\EDS Students College Enrollment.png
-INPUT .\images\\EDS Students College Enrollment.png
-INPUT .\images\\EDS Students College Enrollment.png
-INPUT .\images\\Total Counselors.png
-INPUT .\images\\Total Counselors.png
-INPUT images\\Total Counselors.png
-INPUT .\images\\Total Counselors.png
-INPUT .\images\\Total Counselors.png
-INPUT .\images\\Total Counselors.png
-INPUT .\images\\Total Counselors.png
 INPUT Sprint3_Draft.aux
 INPUT .\Sprint3_Draft.out
 INPUT .\Sprint3_Draft.out

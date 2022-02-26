@@ -1,6 +1,40 @@
 \begin{threeparttable}
     \caption{Codebook} %% the caption, required by APA7 and it looks nice :D
-\label{tab:codebook} %% use this to refer to the table within the paper (I think a link will open up)
+\label{tab:codebook1} %% use this to refer to the table within the paper (I think a link will open up)
+    \begin{tabular}{ p{0.2\linewidth} p{0.115\linewidth} p{0.13\linewidth} p{0.49\linewidth}}     %% 5 columns, all centered. the tabular environment begins the actual table.    
+    \toprule %% A line across the top
+    Variable                        & \multicolumn{3}{c}{Information} \\ %% The titles of the columns. 
+
+                       \cmidrule(r){2-4} %% a line going across columns 2 - end
+                                    &   Years\tabfnm{a}    &    Type     &  Description \\ 
+\midrule
+agency\_code                         &   N/A            &  Text        &  Unique six digit school identifier code. All begin with `600' digits                                                                                                    \\ 
+school                               &   N/A            &  Text        &  Name of the school.                                         \\ 
+zip\_code                            &   N/A            &  Text        &  Zip code of the school.                                     \\ 
+year                                 &   2011--2021     &  Discrete    &  Year of data observation                                    \\ 
+2019\_med\_hh\_inc                   &   2019           &  Discrete    &  2019 Median Household Income by Zip Code             \\ 
+int\_pubsr                           &   2011--2020     &  Continuous  &  Percentage of high school graduates with intention to enroll in a public senior institution \\                                  
+int\_commcoll                        &   2011--2020     &  Continuous  &  Percentage of high school graduates with intention to enroll in a community or technical college                        \\ 
+int\_trdbusnrs                       &   2011--2020     &  Continuous  &  Percentage of high school graduates with intention to enter trade, business, or nursing              \\ 
+AP\_pass\_pct                        &   2014--2020     &  Continuous  &  Percentage of high school students that are enrolled in Advanced Placement classes              \\ 
+AP\_part\_pct                        &   2014--2020     &  Continuous  &  Percentage of Advanced Placement exams with a score of 3 or better              \\ 
+CTE\_cred\_pct                       &   2018--2020     &  Continuous  &  Percentage of high school students enrolled in Career and Technical Education courses              \\ 
+\midrule
+\end{tabular}
+\begin{tablenotes}[para,flushleft]
+    { 
+        \textit{Note.} Table continued on next page.\\
+        \small
+        \tabfnt{a} Year refers to end of school year. 2011 refers to the 2010--11 school year. 
+    
+     }
+\end{tablenotes}
+\end{threeparttable}
+\\
+\begin{threeparttable}
+    \renewcommand\thetable{1}
+    \caption{Codebook (continued)} %% the caption, required by APA7 and it looks nice :D
+\label{tab:codebook2} %% use this to refer to the table within the paper (I think a link will open up)
     \begin{tabular}{ p{0.2\linewidth} p{0.115\linewidth} p{0.13\linewidth} p{0.49\linewidth}}     %% 5 columns, all centered. the tabular environment begins the actual table.    
     \toprule %% A line across the top
     Variable                        & \multicolumn{3}{c}{Information} \\ %% The titles of the columns. 
@@ -8,26 +42,14 @@
                        \cmidrule(r){2-4} %% a line going across columns 2 - end
                                     &   Years    &    Type     &  Description \\ 
 \midrule
-agency\_code                         &   N/A            &         &                \\ 
-school                               &   N/A            &         &                \\ 
-zip\_code                            &   N/A            &         &                \\ 
-year                                 &   2011--2021      &         &                \\ 
-2019\_med\_hh\_inc                   &   2019           &         &                \\ 
-int\_pubsr                           &   2011--2020      &         &               \\                                  
-int\_commcoll                        &   2011--2020            &         &                \\ 
-int\_trdbusnrs                       &   2011--2020            &         &                \\ 
-AP\_pass\_pct                        &   2014--2020         &         &                \\ 
-AP\_part\_pct                        &   2014--2020            &         &                \\ 
-CTE\_cred\_pct                       &   2018--2020           &         &                \\ 
-CTE\_enroll\_pct                     &   2018--2020            &         &                \\ 
-enroll\_Disadvantaged                &   2011--2019            &         &                \\ 
+CTE\_enroll\_pct                     &   2018--2020     &  Continuous  &  Percentage of credentials earned by students enrolled in Career and Technical Education courses              \\ 
+enroll\_Disadvantaged                &   2011--2019     &  Continuous  &  Percentage of economically disadvantaged high school graduates enrolling in college             \\ 
 \midrule
 \end{tabular}
 \begin{tablenotes}[para,flushleft]
     {\small
-
-        \tabfnt{a}See Table \ref{tab:summarystats1} \& \ref{tab:summarystats2} for all subgroups.\\
-        \tabfnt{b}See Table \ref{tab:intentions} for all graduate intention definitions.
+        \tabfnt{a} Year refers to end of school year. 2011 refers to the 2010--11 school year. 
+    
      }
 \end{tablenotes}
 \end{threeparttable}

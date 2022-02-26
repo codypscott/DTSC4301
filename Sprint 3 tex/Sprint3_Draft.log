@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  25 FEB 2022 21:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  26 FEB 2022 02:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -938,11 +938,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (Sprint3_Draft.aux
-
-LaTeX Warning: Label `tab:codebook' multiply defined.
-
-)
+ (Sprint3_Draft.aux)
 \openout1 = `Sprint3_Draft.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
@@ -1133,159 +1129,71 @@ Overfull \hbox (5.58627pt too wide) in paragraph at lines 15--15
 []|\T1/lmr/m/n/12 2019_med_hh_inc| 
  []
 
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 28.
 
-Overfull \hbox (18.55087pt too wide) in paragraph at lines 23--23
+Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--33
+[]  
+ []
+
+
+Overfull \vbox (47.84691pt too high) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (18.55087pt too wide) in paragraph at lines 46--46
 []|\T1/lmr/m/n/12 enroll_Disadvantaged| 
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 29.
-) (sections/overview.tex)
-Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--79
+
+Underfull \hbox (badness 1728) in paragraph at lines 46--47
+[]|\T1/lmr/m/n/12 Percentage of eco-nom-i-cally dis-ad-van-taged
+ []
+
+)
+Overfull \hbox (17.47191pt too wide) in paragraph at lines 35--78
 [] 
  []
 
-(sections/Hypotheses.tex [2]) (sections/data.tex) (sections/analysis.tex) (sections/conclusion.tex)
-
-LaTeX Warning: Empty bibliography on input line 94.
-
-[3] (tables/intentions_table.tex) (tables/codebook_table.tex
-Overfull \hbox (5.58627pt too wide) in paragraph at lines 15--15
-[]|\T1/lmr/m/n/12 2019_med_hh_inc| 
+(tables/summary_stats.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\T1/lmr/m/n/12 Non-
  []
 
 
-Overfull \hbox (18.55087pt too wide) in paragraph at lines 23--23
-[]|\T1/lmr/m/n/12 enroll_Disadvantaged| 
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\T1/lmr/m/n/12 Missing
  []
 
-)
-Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--101
-[]  
+) (sections/overview.tex)
+Overfull \hbox (18.24887pt too wide) in paragraph at lines 2--81
+[] 
  []
 
-(tables/id_variables.tex [4
+[3] (sections/Hypotheses.tex) (sections/data.tex) (sections/analysis.tex) (sections/conclusion.tex)
 
-]
-Overfull \hbox (3.14948pt too wide) in paragraph at lines 12--12
-[]|\T1/lmr/m/n/12 String| 
- []
+LaTeX Warning: Empty bibliography on input line 96.
 
+[4] AED endfloat: Processing end Figures and Tables [5
 
-Overfull \hbox (3.14948pt too wide) in paragraph at lines 13--13
-[]|\T1/lmr/m/n/12 String| 
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 13--13
-[]|\T1/lmr/m/n/12 Assign me-dian house-
- []
-
-
-Overfull \hbox (3.14948pt too wide) in paragraph at lines 14--14
-[]|\T1/lmr/m/n/12 String| 
- []
-
-
-Overfull \hbox (3.14948pt too wide) in paragraph at lines 15--15
-[]|\T1/lmr/m/n/12 String| 
- []
-
-
-Overfull \hbox (7.71405pt too wide) in paragraph at lines 16--16
-[]|\T1/lmr/m/n/12 Integer| 
- []
-
-)
-Overfull \hbox (5.71657pt too wide) in paragraph at lines 2--103
-[]  
- []
-
-(tables/summary_stats.tex [5]
-Overfull \hbox (1.38605pt too wide) in paragraph at lines 9--10
-[]|\T1/lmr/m/n/12 Missing| 
- []
-
-) (tables/summary_stats2.tex [6]
-Overfull \hbox (1.38605pt too wide) in paragraph at lines 9--10
-[]|\T1/lmr/m/n/12 Missing| 
- []
-
-) [7] [8]
-<./images//AP Participation Rate.png, id=82, 1084.05pt x 361.35pt>
-File: ./images//AP Participation Rate.png Graphic file (type png)
-<use ./images//AP Participation Rate.png>
-Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 112.
-(pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
-
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 112--114
-[][]
- []
-
-<./images//AP Pass Rate.png, id=83, 1084.05pt x 361.35pt>
-File: ./images//AP Pass Rate.png Graphic file (type png)
-<use ./images//AP Pass Rate.png>
-Package pdftex.def Info: ./images//AP Pass Rate.png  used on input line 118.
-(pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
-
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 118--120
-[][]
- []
-
-<./images//CTE Student Enrollment.png, id=84, 1084.05pt x 361.35pt>
-File: ./images//CTE Student Enrollment.png Graphic file (type png)
-<use ./images//CTE Student Enrollment.png>
-Package pdftex.def Info: ./images//CTE Student Enrollment.png  used on input line 124.
-(pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
-
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 124--126
-[][]
- []
-
-<./images//EDS Students College Enrollment.png, id=85, 1084.05pt x 361.35pt>
-File: ./images//EDS Students College Enrollment.png Graphic file (type png)
-<use ./images//EDS Students College Enrollment.png>
-Package pdftex.def Info: ./images//EDS Students College Enrollment.png  used on input line 130.
-(pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
-
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 130--132
-[][]
- []
-
-<./images//Total Counselors.png, id=86, 1084.05pt x 361.35pt>
-File: ./images//Total Counselors.png Graphic file (type png)
-<use ./images//Total Counselors.png>
-Package pdftex.def Info: ./images//Total Counselors.png  used on input line 136.
-(pdftex.def)             Requested size: 483.69684pt x 161.23306pt.
-
-Overfull \hbox (13.94182pt too wide) in paragraph at lines 136--138
-[][]
- []
-
-AED endfloat: Processing end Figures and Tables [9
-
- <./images//AP Participation Rate.png> <./images//AP Pass Rate.png>] [10 <./images//CTE Student Enrollment.png> <./images//EDS Students College Enrollment.png>] [11 <./images//Total Counselors.png>] (Sprint3_Draft.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
+] (Sprint3_Draft.aux)
 Package rerunfilecheck Info: File `Sprint3_Draft.out' has not changed.
-(rerunfilecheck)             Checksum: 14D47070FA86A09EADAB3C245F8E066E;483.
+(rerunfilecheck)             Checksum: 9B8930BA645E2D7E1DA005871C8B1128;483.
 Package logreq Info: Writing requests to 'Sprint3_Draft.run.xml'.
 \openout1 = `Sprint3_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37034 strings out of 478584
- 738411 string characters out of 2844401
- 1601403 words of memory out of 3000000
- 54571 multiletter control sequences out of 15000+600000
+ 36949 strings out of 478584
+ 735889 string characters out of 2844401
+ 1589896 words of memory out of 3000000
+ 54517 multiletter control sequences out of 15000+600000
  515148 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,113p,812b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,15n,113p,812b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint3_Draft.pdf (11 pages, 209693 bytes).
+Output written on Sprint3_Draft.pdf (5 pages, 144476 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
