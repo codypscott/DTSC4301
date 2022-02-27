@@ -1,20 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'Sprint3_Draft.blg'
-[122] biber-MSWIN64:340> INFO - === 
-[164] Biber.pm:418> INFO - Reading 'Sprint3_Draft.bcf'
-[315] Biber.pm:972> INFO - Found 21 citekeys in bib section 0
-[334] Biber.pm:4383> INFO - Processing section 0
-[347] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[414] bibtex.pm:1713> INFO - LaTeX decoding ...
-[472] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
-[635] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[635] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[635] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[635] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[669] bbl.pm:654> INFO - Writing 'Sprint3_Draft.bbl' with encoding 'UTF-8'
-[683] bbl.pm:757> INFO - Output to Sprint3_Draft.bbl
-[684] Biber.pm:130> WARN - Duplicate entry key: 'ButlerJohnSibley1999RS&U' in file 'bibliography.bib', skipping ...
-[684] Biber.pm:130> WARN - legacy month field 'Jul' in entry 'opportunityinsights' is not an integer - this will probably not sort properly.
-[684] Biber.pm:130> WARN - legacy month field 'Nov' in entry 'IRS' is not an integer - this will probably not sort properly.
-[684] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\ricke\AppData\Local\Temp\biber_tmp_CxcN\f4d088b3f9f145b5c3058da33afd57d4_736.utf8, line 95, warning: undefined macro "2020-01-27"
-[684] Biber.pm:132> INFO - WARNINGS: 4
+[161] biber-MSWIN64:340> INFO - === 
+[201] Biber.pm:418> INFO - Reading 'Sprint3_Draft.bcf'
+[346] Biber.pm:972> INFO - Found 21 citekeys in bib section 0
+[365] Biber.pm:4383> INFO - Processing section 0
+[378] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[434] bibtex.pm:1713> INFO - LaTeX decoding ...
+[502] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[649] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[649] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[649] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[649] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[678] bbl.pm:654> INFO - Writing 'Sprint3_Draft.bbl' with encoding 'UTF-8'
+[690] bbl.pm:757> INFO - Output to Sprint3_Draft.bbl
+[691] Biber.pm:130> WARN - legacy month field 'Jul' in entry 'opportunityinsights' is not an integer - this will probably not sort properly.
+[691] Biber.pm:130> WARN - legacy month field 'Nov' in entry 'IRS' is not an integer - this will probably not sort properly.
+[691] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\ricke\AppData\Local\Temp\biber_tmp_Haza\f4d088b3f9f145b5c3058da33afd57d4_18968.utf8, line 95, warning: undefined macro "2020-01-27"
+[691] Biber.pm:132> INFO - WARNINGS: 3

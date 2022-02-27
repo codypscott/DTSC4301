@@ -2791,8 +2791,8 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">adams2017</bcf:citekey>
-    <bcf:citekey order="2">opportunityinsights</bcf:citekey>
+    <bcf:citekey order="1">opportunityinsights</bcf:citekey>
+    <bcf:citekey order="2">adams2017</bcf:citekey>
     <bcf:citekey order="3">opportunityinsights</bcf:citekey>
     <bcf:citekey order="4">opportunityinsights</bcf:citekey>
     <bcf:citekey order="4">chetty2014</bcf:citekey>
@@ -2847,8 +2847,8 @@
     <bcf:citekey order="52">browning</bcf:citekey>
     <bcf:citekey order="53">browning</bcf:citekey>
     <bcf:citekey order="54">IRS</bcf:citekey>
-    <bcf:citekey order="55">adams2017</bcf:citekey>
-    <bcf:citekey order="56">opportunityinsights</bcf:citekey>
+    <bcf:citekey order="55">opportunityinsights</bcf:citekey>
+    <bcf:citekey order="56">adams2017</bcf:citekey>
     <bcf:citekey order="57">chetty2014</bcf:citekey>
     <bcf:citekey order="58">LOO</bcf:citekey>
     <bcf:citekey order="59">tang2019high</bcf:citekey>
