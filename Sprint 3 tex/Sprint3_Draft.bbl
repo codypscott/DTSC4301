@@ -419,6 +419,40 @@
       \field{pages}{101}
       \range{pages}{1}
     \endentry
+    \entry{IRS}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=367a1976bb29592e0a5570f9e0bdc15b}{%
+           family={IRS},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{367a1976bb29592e0a5570f9e0bdc15b}
+      \strng{fullhash}{367a1976bb29592e0a5570f9e0bdc15b}
+      \strng{bibnamehash}{367a1976bb29592e0a5570f9e0bdc15b}
+      \strng{authorbibnamehash}{367a1976bb29592e0a5570f9e0bdc15b}
+      \strng{authornamehash}{367a1976bb29592e0a5570f9e0bdc15b}
+      \strng{authorfullhash}{367a1976bb29592e0a5570f9e0bdc15b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SOI Tax Stats}
+      \field{month}{11}
+      \field{title}{Policy solutions to the American Dream}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2020}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-state-data .org/
+      \endverb
+      \verb{url}
+      \verb https://https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-state-data%20.org/
+      \endverb
+    \endentry
     \entry{sprint1}{unpublished}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4ab8c84e0601774a9ca00abfa5fa88a8}{%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 04:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 08:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1184,10 +1184,10 @@ Overfull \hbox (3.63168pt too wide) in paragraph at lines 2--27
 [] 
  []
 
-[15] [16]) (sections/conclusion.tex [17] [18]) [19] [20
+[15] [16]) (sections/conclusion.tex [17] [18] [19]) [20] [21
 
-] [21]
-<./images//CooksDistance.png, id=234, 963.6pt x 722.7pt>
+] [22]
+<./images//CooksDistance.png, id=242, 963.6pt x 722.7pt>
 File: ./images//CooksDistance.png Graphic file (type png)
 <use ./images//CooksDistance.png>
 Package pdftex.def Info: ./images//CooksDistance.png  used on input line 103.
@@ -1197,10 +1197,10 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 103--105
 [][]
  []
 
-[22
+[23
 
  <./images//CooksDistance.png>]
-<./images//QQPlot.png, id=242, 963.6pt x 722.7pt>
+<./images//QQPlot.png, id=250, 963.6pt x 722.7pt>
 File: ./images//QQPlot.png Graphic file (type png)
 <use ./images//QQPlot.png>
 Package pdftex.def Info: ./images//QQPlot.png  used on input line 110.
@@ -1210,10 +1210,10 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 110--112
 [][]
  []
 
-[23
+[24
 
  <./images//QQPlot.png>]
-<./images//AP_part_pct_histogram.png, id=250, 1204.5pt x 648.4225pt>
+<./images//AP_part_pct_histogram.png, id=258, 1204.5pt x 648.4225pt>
 File: ./images//AP_part_pct_histogram.png Graphic file (type png)
 <use ./images//AP_part_pct_histogram.png>
 Package pdftex.def Info: ./images//AP_part_pct_histogram.png  used on input line 117.
@@ -1223,7 +1223,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 117--119
 [][]
  []
 
-<./images//AP_pass_pct_histogram.png, id=251, 1204.5pt x 648.4225pt>
+<./images//AP_pass_pct_histogram.png, id=259, 1204.5pt x 648.4225pt>
 File: ./images//AP_pass_pct_histogram.png Graphic file (type png)
 <use ./images//AP_pass_pct_histogram.png>
 Package pdftex.def Info: ./images//AP_pass_pct_histogram.png  used on input line 123.
@@ -1233,7 +1233,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 123--125
 [][]
  []
 
-<./images//CTE_cred_pct_histogram.png, id=252, 1204.5pt x 648.4225pt>
+<./images//CTE_cred_pct_histogram.png, id=260, 1204.5pt x 648.4225pt>
 File: ./images//CTE_cred_pct_histogram.png Graphic file (type png)
 <use ./images//CTE_cred_pct_histogram.png>
 Package pdftex.def Info: ./images//CTE_cred_pct_histogram.png  used on input line 129.
@@ -1243,7 +1243,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 129--131
 [][]
  []
 
-<./images//CTE_enroll_pct_histogram.png, id=253, 1204.5pt x 648.4225pt>
+<./images//CTE_enroll_pct_histogram.png, id=261, 1204.5pt x 648.4225pt>
 File: ./images//CTE_enroll_pct_histogram.png Graphic file (type png)
 <use ./images//CTE_enroll_pct_histogram.png>
 Package pdftex.def Info: ./images//CTE_enroll_pct_histogram.png  used on input line 135.
@@ -1253,7 +1253,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 135--137
 [][]
  []
 
-<./images//int_commcoll_histogram.png, id=254, 1204.5pt x 648.4225pt>
+<./images//int_commcoll_histogram.png, id=262, 1204.5pt x 648.4225pt>
 File: ./images//int_commcoll_histogram.png Graphic file (type png)
 <use ./images//int_commcoll_histogram.png>
 Package pdftex.def Info: ./images//int_commcoll_histogram.png  used on input line 141.
@@ -1263,7 +1263,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 141--143
 [][]
  []
 
-<./images//int_pubsr_histogram.png, id=255, 1204.5pt x 648.4225pt>
+<./images//int_pubsr_histogram.png, id=263, 1204.5pt x 648.4225pt>
 File: ./images//int_pubsr_histogram.png Graphic file (type png)
 <use ./images//int_pubsr_histogram.png>
 Package pdftex.def Info: ./images//int_pubsr_histogram.png  used on input line 147.
@@ -1273,7 +1273,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 147--149
 [][]
  []
 
-<./images//int_trdbusnrs_histogram.png, id=256, 1210.5225pt x 648.4225pt>
+<./images//int_trdbusnrs_histogram.png, id=264, 1210.5225pt x 648.4225pt>
 File: ./images//int_trdbusnrs_histogram.png Graphic file (type png)
 <use ./images//int_trdbusnrs_histogram.png>
 Package pdftex.def Info: ./images//int_trdbusnrs_histogram.png  used on input line 153.
@@ -1283,9 +1283,9 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 153--155
 [][]
  []
 
-AED endfloat: Processing end Figures and Tables [24
+AED endfloat: Processing end Figures and Tables [25
 
- <./images//AP_part_pct_histogram.png>] [25 <./images//AP_pass_pct_histogram.png>] [26 <./images//CTE_cred_pct_histogram.png>] [27 <./images//CTE_enroll_pct_histogram.png>] [28 <./images//int_commcoll_histogram.png>] [29 <./images//int_pubsr_histogram.png>] [30 <./images//int_trdbusnrs_histogram.png>] (Sprint3_Draft.aux)
+ <./images//AP_part_pct_histogram.png>] [26 <./images//AP_pass_pct_histogram.png>] [27 <./images//CTE_cred_pct_histogram.png>] [28 <./images//CTE_enroll_pct_histogram.png>] [29 <./images//int_commcoll_histogram.png>] [30 <./images//int_pubsr_histogram.png>] [31 <./images//int_trdbusnrs_histogram.png>] (Sprint3_Draft.aux)
 Package rerunfilecheck Info: File `Sprint3_Draft.out' has not changed.
 (rerunfilecheck)             Checksum: 0D0EACB0E63FB8E4A15F7B151ACBCF90;993.
 Package logreq Info: Writing requests to 'Sprint3_Draft.run.xml'.
@@ -1293,17 +1293,17 @@ Package logreq Info: Writing requests to 'Sprint3_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37505 strings out of 478584
- 749223 string characters out of 2844401
- 1589262 words of memory out of 3000000
- 54977 multiletter control sequences out of 15000+600000
+ 37515 strings out of 478584
+ 749439 string characters out of 2844401
+ 1589308 words of memory out of 3000000
+ 54984 multiletter control sequences out of 15000+600000
  518147 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,113p,2020b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint3_Draft.pdf (30 pages, 617881 bytes).
+Output written on Sprint3_Draft.pdf (31 pages, 620501 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
