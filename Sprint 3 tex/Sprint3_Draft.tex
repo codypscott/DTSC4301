@@ -5,7 +5,7 @@
 %%  12pt | font size 
 %%
 %% draftall if want draft water mark
-\documentclass[stu, 12pt, longtable]{apa7}
+\documentclass[stu, 12pt, floatsintext]{apa7}
 
 %%  
 %% package inserts filler text
@@ -24,6 +24,7 @@
 
 \usepackage[author={Team 1}]{pdfcomment}
 
+\usepackage{array} %% for centering custom columns in tables
 
 %%
 %% apa style bibliography
@@ -74,9 +75,6 @@
 \maketitle
 
 \section{Overview}
-\input{tables/codebook_table.tex}
-
-\input{tables/summary_stats.tex}
 \input{sections/overview.tex}
 
 \section{Hypotheses}
@@ -84,6 +82,11 @@
 
 \section{Data Description}
 \input{sections/data.tex}
+% \input{tables/correlation_table.tex}
+
+% \input{tables/codebook_table.tex}
+
+% \input{tables/summary_stats.tex}
 
 \section{Analysis}
 \input{sections/analysis.tex}

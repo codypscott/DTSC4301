@@ -1,0 +1,7 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+    \caption{Source: Chetty}
+    \includegraphics[width=17cm]{chetty_economic_mobility.png}
+    \label{fig1}
+\end{figure*}
