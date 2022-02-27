@@ -45,6 +45,22 @@ cor(post_H1_high_socio_data, use="pairwise.complete.obs")
 
 cor(post_H1_low_socio_data, use="pairwise.complete.obs")
 
+
+pre_H1_high_socio_model <- lm(enroll_Disadvantaged ~ int_commcoll + int_pubsr + AP_part_pct + AP_pass_pct,
+                   data = pre_H1_high_socio_data)
+
+summary(pre_H1_high_socio_model)
+
+
+
+
+
+
+
+
+
+
+
 ######### hypothesis 1 data #########
 
 ## pre 2016-2017 year
@@ -56,15 +72,27 @@ pre_H1_model <- lm(enroll_Disadvantaged ~ int_commcoll + int_pubsr + AP_part_pct
                    data = pre_H1_data)
 ## VIF of pre 2016-17 model
 imcdiag(pre_H1_model, method = "VIF", vif=5)
+
+summary(pre_H1_model)
+
+
+
+
 ## post 2016-2017 year
 post_H1_data <- post_2017_data[c('int_commcoll', 'int_pubsr', 'AP_part_pct', 'AP_pass_pct', 'enroll_Disadvantaged')]
 ## correlation matrix for post 2016-17 data
 cor(post_H1_data,use="pairwise.complete.obs")
 ## linear model for post 2016-17 data
-post_H1_model = lm(enroll_Disadvantaged ~ int_commcoll + int_pubsr + AP_part_pct + AP_pass_pct,
+post_H1_model = lm( enroll_Disadvantaged ~ int_commcoll + int_pubsr + AP_part_pct + AP_pass_pct,
                    data = post_H1_data)
 
 imcdiag(post_H1_model, method = "VIF", vif=5)
+
+summary(post_H1_model)
+
+
+
+
 ######### hypothesis 2 data #########
 ## pre 2016-2017 year
 pre_H2_data <-pre_2017_data[c('CTE_enroll_pct', 'CTE_cred_pct', 'int_trdbusnrs' )]
