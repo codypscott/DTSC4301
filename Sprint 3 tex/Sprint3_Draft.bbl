@@ -109,6 +109,40 @@
       \verb https://charlottenc.gov/HNS/CE/CommunityInfo/Pages/QOL.aspx
       \endverb
     \endentry
+    \entry{adams2017}{book}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=07d649055d142f177795e38116d32b98}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima Truslow},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8820c272ef5bdaa5eacddb09b231f094}{%
+           family={Schneiderman},
+           familyi={S\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{7b264a85fdbd6b9c69ee935e6b6e5050}
+      \strng{fullhash}{7b264a85fdbd6b9c69ee935e6b6e5050}
+      \strng{bibnamehash}{7b264a85fdbd6b9c69ee935e6b6e5050}
+      \strng{authorbibnamehash}{7b264a85fdbd6b9c69ee935e6b6e5050}
+      \strng{authornamehash}{7b264a85fdbd6b9c69ee935e6b6e5050}
+      \strng{authorfullhash}{7b264a85fdbd6b9c69ee935e6b6e5050}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The epic of America}
+      \field{year}{2017}
+    \endentry
     \entry{browning}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6e31531ff6fa77d443c15e1f769f7c79}{%
@@ -388,12 +422,12 @@
            given={Raquel\bibnamedelima L},
            giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=500a7edeb7d871ddaeba309432645029}{%
+        {{un=1,uniquepart=given,hash=500a7edeb7d871ddaeba309432645029}{%
            family={Adams},
            familyi={A\bibinitperiod},
            given={Toshiba\bibnamedelima L},
            giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{publisher}{1}{%
         {Negro Educational Review, Inc.}%
