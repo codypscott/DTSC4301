@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber Sprint3_Draft"] 1645952610 "Sprint3_Draft.bcf" "Sprint3_Draft.bbl" "Sprint3_Draft" 1645952716
-  "Sprint3_Draft.bcf" 1645952716 126861 8bcf7987604fe0008cbfa5a0bad8f00f "pdflatex"
+["biber Sprint3_Draft"] 1645952875 "Sprint3_Draft.bcf" "Sprint3_Draft.bbl" "Sprint3_Draft" 1645952894
+  "Sprint3_Draft.bcf" 1645952893 126861 8bcf7987604fe0008cbfa5a0bad8f00f "pdflatex"
   "bibliography.bib" 1645950681 13840 2489c274c0d2e5bf72c962575b48a721 ""
   (generated)
   "Sprint3_Draft.bbl"
   "Sprint3_Draft.blg"
-["pdflatex"] 1645952711 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 3 tex/Sprint3_Draft.tex" "Sprint3_Draft.pdf" "Sprint3_Draft" 1645952716
+["pdflatex"] 1645952888 "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 3 tex/Sprint3_Draft.tex" "Sprint3_Draft.pdf" "Sprint3_Draft" 1645952894
   "C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645945387 170558 d1e033204d51c81d74c56cf75410825b ""
   "C:/Users/ricke/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1645945399 10246592 7fd8c524b16cc3b9983750a7141cead0 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1254935040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -223,12 +223,12 @@
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623002090 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1602238298 20688 beaddf14d96104d4bf016523be5395c5 ""
   "C:/Users/ricke/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-savepos.sty" 1602238298 3641 a666775547275e0b0095db17b536180f ""
-  "Sprint3_Draft.aux" 1645952716 11395 7c3087ec8e6817cc381bdad26a17f0df "pdflatex"
-  "Sprint3_Draft.bbl" 1645952613 29861 3147bc9525ce999b8b09bdc62de476af "biber Sprint3_Draft"
-  "Sprint3_Draft.out" 1645952716 993 0d0eacb0e63fb8e4a15f7b151acbcf90 "pdflatex"
-  "Sprint3_Draft.run.xml" 1645952716 2492 7f9016d058942079dd98dba20085ed3f "pdflatex"
-  "Sprint3_Draft.tex" 1645952711 4389 655a39a079d974f765e573290d8e217a ""
-  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 3 tex/Sprint3_Draft.tex" 1645952711 4389 655a39a079d974f765e573290d8e217a ""
+  "Sprint3_Draft.aux" 1645952893 11395 7c3087ec8e6817cc381bdad26a17f0df "pdflatex"
+  "Sprint3_Draft.bbl" 1645952878 29861 3147bc9525ce999b8b09bdc62de476af "biber Sprint3_Draft"
+  "Sprint3_Draft.out" 1645952893 993 0d0eacb0e63fb8e4a15f7b151acbcf90 "pdflatex"
+  "Sprint3_Draft.run.xml" 1645952893 2492 7f9016d058942079dd98dba20085ed3f "pdflatex"
+  "Sprint3_Draft.tex" 1645952752 4389 655a39a079d974f765e573290d8e217a ""
+  "c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint 3 tex/Sprint3_Draft.tex" 1645952752 4389 655a39a079d974f765e573290d8e217a ""
   "images//AP_part_pct_histogram.png" 1645945979 29589 c26b49b4768a7deb4b221007f9c391a6 ""
   "images//AP_pass_pct_histogram.png" 1645945979 26260 3e67834e876aac6d5153525906f9c02d ""
   "images//CTE_cred_pct_histogram.png" 1645945979 25608 31aabef8eaa13206a45c312a96ca8b55 ""
@@ -246,9 +246,9 @@
   "sections/conclusion.tex" 1645951167 5633 ec38504c2a3afac1ffe158e63fb4e5dc ""
   "sections/data.tex" 1645952533 4492 084b71168dcc45c7bba36db65c720593 ""
   "sections/overview.tex" 1645947310 8934 ffec09c10f78d3ffe562a5b8fabec8ec ""
-  "tables/codebook_table.tex" 1645860557 4238 6198a844d44d00eefd5206a7d3d116c4 ""
-  "tables/correlation_table.tex" 1645944455 1268 38cab190d7b0626024a3aa22d303f5b6 ""
-  "tables/summary_stats.tex" 1645951368 1580 3051fb4204dad80f8b93f44dd2e1fa38 ""
+  "tables/codebook_table.tex" 1645952832 4239 2460dcabf3b406f79715a18147a1639b ""
+  "tables/correlation_table.tex" 1645952856 1268 38cab190d7b0626024a3aa22d303f5b6 ""
+  "tables/summary_stats.tex" 1645952867 1580 3051fb4204dad80f8b93f44dd2e1fa38 ""
   (generated)
   "Sprint3_Draft.aux"
   "Sprint3_Draft.bcf"

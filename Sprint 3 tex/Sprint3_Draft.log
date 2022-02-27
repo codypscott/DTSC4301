@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 04:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 04:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1145,7 +1145,7 @@ Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--33
  []
 
 [10]
-Overfull \hbox (18.55087pt too wide) in paragraph at lines 46--46
+Overfull \hbox (4.4588pt too wide) in paragraph at lines 46--46
 []|\T1/lmr/m/n/12 enroll_Disadvantaged| 
  []
 
@@ -1155,7 +1155,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 46--47
  []
 
 )
-Overfull \hbox (17.47191pt too wide) in paragraph at lines 35--23
+Overfull \hbox (31.56398pt too wide) in paragraph at lines 35--23
 [] 
  []
 
@@ -1301,7 +1301,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,15n,113p,2020b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint3_Draft.pdf (30 pages, 617876 bytes).
+Output written on Sprint3_Draft.pdf (30 pages, 617881 bytes).
 PDF statistics:
  347 PDF objects out of 1000 (max. 8388607)
  79 named destinations out of 1000 (max. 500000)
