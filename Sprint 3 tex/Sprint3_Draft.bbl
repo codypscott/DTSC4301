@@ -1,0 +1,670 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{NCDPI}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{journaltitle}{NC DPI}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2020}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dpi.nc.gov
+      \endverb
+      \verb{url}
+      \verb https://www.dpi.nc.gov
+      \endverb
+    \endentry
+    \entry{NCReportCards}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{journaltitle}{NC DPI}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dpi.nc.gov/data-reports/school-report-cards/school-report-card-resources-researchers
+      \endverb
+      \verb{url}
+      \verb https://www.dpi.nc.gov/data-reports/school-report-cards/school-report-card-resources-researchers
+      \endverb
+    \endentry
+    \entry{NCStats}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{journaltitle}{Page 1}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://apps.schools.nc.gov/ords/f?p=145%3A1%3A%3A%3ANO
+      \endverb
+      \verb{url}
+      \verb http://apps.schools.nc.gov/ords/f?p=145%3A1%3A%3A%3ANO
+      \endverb
+    \endentry
+    \entry{CCD}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{journaltitle}{NCES}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2020}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nces.ed.gov/ccd/online_documentation.asp
+      \endverb
+      \verb{url}
+      \verb https://nces.ed.gov/ccd/online_documentation.asp
+      \endverb
+    \endentry
+    \entry{quality}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{journaltitle}{Quality of Life Explorer}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2020}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://charlottenc.gov/HNS/CE/CommunityInfo/Pages/QOL.aspx
+      \endverb
+      \verb{url}
+      \verb https://charlottenc.gov/HNS/CE/CommunityInfo/Pages/QOL.aspx
+      \endverb
+    \endentry
+    \entry{browning}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6e31531ff6fa77d443c15e1f769f7c79}{%
+           family={Browning},
+           familyi={B\bibinitperiod},
+           given={Matthew\bibnamedelima H.E.M},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c73b8534859edf7a2f591e792835d9f3}{%
+           family={Rigolon},
+           familyi={R\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Inc}%
+      }
+      \strng{namehash}{8901411265d0a86dd1737acb795f2c7d}
+      \strng{fullhash}{8901411265d0a86dd1737acb795f2c7d}
+      \strng{bibnamehash}{8901411265d0a86dd1737acb795f2c7d}
+      \strng{authorbibnamehash}{8901411265d0a86dd1737acb795f2c7d}
+      \strng{authornamehash}{8901411265d0a86dd1737acb795f2c7d}
+      \strng{authorfullhash}{8901411265d0a86dd1737acb795f2c7d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Growing up in poverty is associated with poor health, and the American Dream of upward mobility is becoming an illusion for many low-income children. But nearby green space can support academic achievement, creativity, and emotional regulation, and these traits might help children rise out of poverty. To examine the relationship between recent incomes of children born into poverty in the ten largest U.S. cities and densities of residential green space during childhood. We calculate park proximity, park acreage, new park development, and NDVI greenness for 1980–1990 from Landsat and Trust for Public Land data. We obtain the 2014 income for children born between 1978 and 1982 into families in poverty from The Opportunity Atlas cohort, aggregated at the tract level (n = 5849). Conditional autoregressive (CAR) models of tracts show statistically significant associations between income rank and above-average levels of greenness but not between income rank and park measures, adjusting for individual and neighborhood confounders and spatial autocorrelation. We estimate that, over a 30-year career, children growing up in tracts with the most vegetative cover will earn cumulatively $28,000 more than children growing up in tracts with the least cover, on average. Tracts with lower than average levels of precipitation, higher disadvantage, higher population density, or higher annual temperatures do not show beneficial effects of green space. Greenness may be weakly associated with children rising out of poverty in wetter, cooler, less-dense, more advantaged census tracts. •Greenness is associated with children rising out of poverty in large U.S. cities.•This association is present in wetter, cooler, less-dense, more advantaged tracts.•Park proximity, acreage, and development are not associated with social mobility.}
+      \field{issn}{0013-9351}
+      \field{journaltitle}{Environmental research}
+      \field{title}{Could nature help children rise out of poverty? Green space and future earnings from a cohort in ten U.S. cities}
+      \field{volume}{176}
+      \field{year}{2019}
+      \field{pages}{108449\bibrangedash 108449}
+      \range{pages}{1}
+      \keyw{Child ; Children ; Cities ; Cohort Studies ; Environment ; Greenness ; Humans ; Income ; Parks ; Poverty ; Residence Characteristics ; Social mobility ; United States}
+    \endentry
+    \entry{castellano2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=65664e57c0f05e3752053f9ec620e29e}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={Marisa\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ab63add7d151b9b48c193c0b01e9839}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={George\bibnamedelima B},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ff9008e65112108c89ce40bdcb8e5de}{%
+           family={Sundell},
+           familyi={S\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=255ac3634af1091840d2b51533e5afff}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3cfea96ef79a96362bef624b23732b54}
+      \strng{fullhash}{1e2a6422e4377b97da136010072148a4}
+      \strng{bibnamehash}{1e2a6422e4377b97da136010072148a4}
+      \strng{authorbibnamehash}{1e2a6422e4377b97da136010072148a4}
+      \strng{authornamehash}{3cfea96ef79a96362bef624b23732b54}
+      \strng{authorfullhash}{1e2a6422e4377b97da136010072148a4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vocations and Learning}
+      \field{number}{1}
+      \field{title}{Preparing students for college and career in the United States: The effects of career-themed programs of study on high school performance}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{47\bibrangedash 70}
+      \range{pages}{24}
+    \endentry
+    \entry{castleman2014intensive}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a384d9b09ab5b50062d33d31b57dce96}{%
+           family={Castleman},
+           familyi={C\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cff3ac3b4d16dde2f682dce454449cff}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {HKS Working Paper No. RWP14-031}%
+      }
+      \strng{namehash}{6723292ae77dadc57ccee7612f163e5e}
+      \strng{fullhash}{6723292ae77dadc57ccee7612f163e5e}
+      \strng{bibnamehash}{6723292ae77dadc57ccee7612f163e5e}
+      \strng{authorbibnamehash}{6723292ae77dadc57ccee7612f163e5e}
+      \strng{authornamehash}{6723292ae77dadc57ccee7612f163e5e}
+      \strng{authorfullhash}{6723292ae77dadc57ccee7612f163e5e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intensive college counseling and the college enrollment choices of low income students}
+      \field{year}{2014}
+    \endentry
+    \entry{chetty2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7a853740afbc544905334cf607b3cd51}{%
+           family={Chetty},
+           familyi={C\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dddc1bd4014bf50f037b3b8772994dd}{%
+           family={Hendren},
+           familyi={H\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=363dcbd1a614bc00963eda898f3bd139}{%
+           family={Kline},
+           familyi={K\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f040f5aac2c176810fed8b44b9c401a4}{%
+           family={Saez},
+           familyi={S\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{fullhash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \strng{bibnamehash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \strng{authorbibnamehash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \strng{authornamehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{authorfullhash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{4}
+      \field{title}{Where is the land of opportunity? The geography of intergenerational mobility in the United States}
+      \field{volume}{129}
+      \field{year}{2014}
+      \field{pages}{1553\bibrangedash 1623}
+      \range{pages}{71}
+    \endentry
+    \entry{croizet1998}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9453c32afd05f9ba272422927add2ff4}{%
+           family={Croizet},
+           familyi={C\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24b83dc8e634555b49cba345de033aa3}{%
+           family={Claire},
+           familyi={C\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de8af1c9e2cc450a748f09111f435ca9}
+      \strng{fullhash}{de8af1c9e2cc450a748f09111f435ca9}
+      \strng{bibnamehash}{de8af1c9e2cc450a748f09111f435ca9}
+      \strng{authorbibnamehash}{de8af1c9e2cc450a748f09111f435ca9}
+      \strng{authornamehash}{de8af1c9e2cc450a748f09111f435ca9}
+      \strng{authorfullhash}{de8af1c9e2cc450a748f09111f435ca9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Students from poorer families perform worse on intellectual tasks than do other students. The authors tested the stereotype threat hypothesis as a possible explanation for this difference. Students from relatively poor backgrounds, such as members of other stereotyped groups, risk confirming a negative reputation of low intellectual ability. The authors predicted that, on a stereotype-relevant test, members of this group would experience apprehension about confirming their negative reputation and that this susceptibility to the stereotype would impair their performance. The study varied stereotype threat by manipulating the instructions accompanying the test that each participant completed. When described as a measure of intellectual ability, low socioeconomic status (SES) participants performed worse than high SES participants. However, when the test was presented as nondiagnostic of intellectual ability, low SES participants' performances did not suffer, contesting claims of SES differences in intellectual ability.}
+      \field{journaltitle}{Personality and Social Psychology Bulletin}
+      \field{number}{6}
+      \field{title}{Extending the Concept of Stereotype Threat to Social Class: The Intellectual Underperformance of Students from Low Socioeconomic Backgrounds}
+      \field{volume}{24}
+      \field{year}{1998}
+      \field{pages}{588\bibrangedash 594}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/0146167298246003
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/0146167298246003
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/0146167298246003
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/0146167298246003
+      \endverb
+    \endentry
+    \entry{deslonde2018high}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=30803f3e6cbcc85acf532644abdb0de7}{%
+           family={Deslonde},
+           familyi={D\bibinitperiod},
+           given={Vernell\bibnamedelima L},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54ec6ef20c9b2e1830ade0124c326267}{%
+           family={Becerra},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{de87ab334301f56faad739aa3f794153}
+      \strng{fullhash}{de87ab334301f56faad739aa3f794153}
+      \strng{bibnamehash}{de87ab334301f56faad739aa3f794153}
+      \strng{authorbibnamehash}{de87ab334301f56faad739aa3f794153}
+      \strng{authornamehash}{de87ab334301f56faad739aa3f794153}
+      \strng{authorfullhash}{de87ab334301f56faad739aa3f794153}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of School Counseling}
+      \field{number}{24}
+      \field{title}{High School Counselors' Influence on Low Socioeconomic Students' College Enrollment.}
+      \field{volume}{16}
+      \field{year}{2018}
+      \field{pages}{n24}
+      \range{pages}{-1}
+    \endentry
+    \entry{farmer2006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a702bdb28fc74b916ff86451e977e8b8}{%
+           family={Farmer-Hinton},
+           familyi={F\bibinithyphendelim H\bibinitperiod},
+           given={Raquel\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=500a7edeb7d871ddaeba309432645029}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Toshiba\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Negro Educational Review, Inc.}%
+      }
+      \strng{namehash}{4753eebe432dc399c88ee7ea44383433}
+      \strng{fullhash}{4753eebe432dc399c88ee7ea44383433}
+      \strng{bibnamehash}{4753eebe432dc399c88ee7ea44383433}
+      \strng{authorbibnamehash}{4753eebe432dc399c88ee7ea44383433}
+      \strng{authornamehash}{4753eebe432dc399c88ee7ea44383433}
+      \strng{authorfullhash}{4753eebe432dc399c88ee7ea44383433}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Negro Educational Review}
+      \field{number}{1/2}
+      \field{title}{Social capital and college preparation: Exploring the role of counselors in a college prep school for Black students}
+      \field{volume}{57}
+      \field{year}{2006}
+      \field{pages}{101}
+      \range{pages}{1}
+    \endentry
+    \entry{sprint1}{unpublished}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4ab8c84e0601774a9ca00abfa5fa88a8}{%
+           family={Khadka},
+           familyi={K\bibinitperiod},
+           given={Khem},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=221da0a25e7fd59b9224aac22c6c19e7}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Cody},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f18bcbb146344c5f12d218a5f171e4a6}{%
+           family={Hernandez},
+           familyi={H\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b47a3ab83302ccbdeed5e5626dff9aa}
+      \strng{fullhash}{bbcf5b86195394415a5bb0bedc360a6f}
+      \strng{bibnamehash}{bbcf5b86195394415a5bb0bedc360a6f}
+      \strng{authorbibnamehash}{bbcf5b86195394415a5bb0bedc360a6f}
+      \strng{authornamehash}{8b47a3ab83302ccbdeed5e5626dff9aa}
+      \strng{authorfullhash}{bbcf5b86195394415a5bb0bedc360a6f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{previous assignment for DTSC 4301}
+      \field{title}{Sprint 1}
+      \field{year}{2022}
+    \endentry
+    \entry{king1996}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f929b2c194499c8cc21e30a8e39a16e4}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Jacqueline\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{f929b2c194499c8cc21e30a8e39a16e4}
+      \strng{fullhash}{f929b2c194499c8cc21e30a8e39a16e4}
+      \strng{bibnamehash}{f929b2c194499c8cc21e30a8e39a16e4}
+      \strng{authorbibnamehash}{f929b2c194499c8cc21e30a8e39a16e4}
+      \strng{authornamehash}{f929b2c194499c8cc21e30a8e39a16e4}
+      \strng{authorfullhash}{f929b2c194499c8cc21e30a8e39a16e4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Decision To Go to College: Attitudes and Experiences Associated with College Attendance Among Low-Income Students.}
+      \field{year}{1996}
+    \endentry
+    \entry{lee1993}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6b8b721460d947510747df0424af8e3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Rita\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{f6b8b721460d947510747df0424af8e3}
+      \strng{fullhash}{f6b8b721460d947510747df0424af8e3}
+      \strng{bibnamehash}{f6b8b721460d947510747df0424af8e3}
+      \strng{authorbibnamehash}{f6b8b721460d947510747df0424af8e3}
+      \strng{authornamehash}{f6b8b721460d947510747df0424af8e3}
+      \strng{authorfullhash}{f6b8b721460d947510747df0424af8e3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Elementary School Guidance \& Counseling}
+      \field{number}{3}
+      \field{title}{Effects of classroom guidance on student achievement}
+      \field{volume}{27}
+      \field{year}{1993}
+      \field{pages}{163\bibrangedash 171}
+      \range{pages}{9}
+    \endentry
+    \entry{magnuson2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf37ff24238ab6cfaa61f0cc08e72e06}{%
+           family={Magnuson},
+           familyi={M\bibinitperiod},
+           given={Carolyn\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20db0587bd8abec98500fd5ff9de1e97}{%
+           family={Starr},
+           familyi={S\bibinitperiod},
+           given={Marion\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{d39e9fa8328e0a3dd7246504eeabb4da}
+      \strng{fullhash}{d39e9fa8328e0a3dd7246504eeabb4da}
+      \strng{bibnamehash}{d39e9fa8328e0a3dd7246504eeabb4da}
+      \strng{authorbibnamehash}{d39e9fa8328e0a3dd7246504eeabb4da}
+      \strng{authornamehash}{d39e9fa8328e0a3dd7246504eeabb4da}
+      \strng{authorfullhash}{d39e9fa8328e0a3dd7246504eeabb4da}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Career Development}
+      \field{number}{2}
+      \field{title}{How early is too early to begin life career planning? The importance of the elementary school years}
+      \field{volume}{27}
+      \field{year}{2000}
+      \field{pages}{89\bibrangedash 101}
+      \range{pages}{13}
+    \endentry
+    \entry{opportunityinsights}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d627593669726cd9a7f51c3d351070f8}{%
+           family={OpportunityInsights},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oppurtunity Insights}%
+      }
+      \strng{namehash}{d627593669726cd9a7f51c3d351070f8}
+      \strng{fullhash}{d627593669726cd9a7f51c3d351070f8}
+      \strng{bibnamehash}{d627593669726cd9a7f51c3d351070f8}
+      \strng{authorbibnamehash}{d627593669726cd9a7f51c3d351070f8}
+      \strng{authornamehash}{d627593669726cd9a7f51c3d351070f8}
+      \strng{authorfullhash}{d627593669726cd9a7f51c3d351070f8}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Opportunity Insights}
+      \field{month}{7}
+      \field{title}{Policy solutions to the American Dream}
+      \field{urlday}{26}
+      \field{urlmonth}{2}
+      \field{urlyear}{2020}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://opportunityinsights.org/
+      \endverb
+      \verb{url}
+      \verb https://opportunityinsights.org/
+      \endverb
+    \endentry
+    \entry{tang2019high}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=381848a9762ba894b04003f4f2ba8952}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Angela\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06a0eaf6ebf385376d64c22fd23b96ce}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Kok-Mun},
+           giveni={K\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{3c919f006cbbfd927170b63dc921b498}
+      \strng{fullhash}{3c919f006cbbfd927170b63dc921b498}
+      \strng{bibnamehash}{3c919f006cbbfd927170b63dc921b498}
+      \strng{authorbibnamehash}{3c919f006cbbfd927170b63dc921b498}
+      \strng{authornamehash}{3c919f006cbbfd927170b63dc921b498}
+      \strng{authorfullhash}{3c919f006cbbfd927170b63dc921b498}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Professional Counselor}
+      \field{number}{4}
+      \field{title}{High School Counselor Contacts as Predictors of College Enrollment.}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{347\bibrangedash 357}
+      \range{pages}{11}
+    \endentry
+    \entry{LOO}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=378abeb0505613e1d76b2fb4ceff6e22}{%
+           family={Task-Force},
+           familyi={T\bibinithyphendelim F\bibinitperiod},
+           given={Charlotte-Mecklenburg\bibnamedelima Opportunity},
+           giveni={C\bibinithyphendelim M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{fullhash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{bibnamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authorbibnamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authornamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authorfullhash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leading On Opportunity}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://s3.amazonaws.com/static.leadingonopportunity.org/downloads/LeadingOnOpportunity_Report-Compressed.pdf
+      \endverb
+      \verb{url}
+      \verb https://s3.amazonaws.com/static.leadingonopportunity.org/downloads/LeadingOnOpportunity_Report-Compressed.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

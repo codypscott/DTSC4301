@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  16 FEB 2022 09:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 02:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **"c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex"
 (c:/Users/ricke/OneDrive/Desktop/DTSC4301A/DTSC4301/Sprint2 tex/Sprint2_Draft.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-05> (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/apa7\apa7.cls
+L3 programming layer <2022-02-21> (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/apa7\apa7.cls
 Document Class: apa7 2022/01/03 v2.15 APA formatting (7th edition)
 (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -499,16 +499,17 @@ Package: threeparttable 2003/06/13  v 3.0
 \b@level@five@skip=\skip74
 \e@level@five@skip=\skip75
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+Package: caption 2022/02/20 v3.6 Customizing captions (AR)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen281
-\captionmargin@=\dimen282
-\captionwidth=\dimen283
-\caption@tempdima=\dimen284
-\caption@indent=\dimen285
-\caption@parindent=\dimen286
-\caption@hangindent=\dimen287
+Package: caption3 2022/01/07 v2.3 caption3 kernel (AR)
+\caption@tempdima=\dimen281
+\captionmargin=\dimen282
+\caption@leftmargin=\dimen283
+\caption@rightmargin=\dimen284
+\caption@width=\dimen285
+\caption@indent=\dimen286
+\caption@parindent=\dimen287
+\caption@hangindent=\dimen288
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count309
@@ -516,7 +517,7 @@ Package caption Info: Standard document class detected.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
-Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: threeparttable package is loaded.
 )
@@ -554,7 +555,7 @@ Package: endfloat 2019/04/15 v2.7 LaTeX2e package puts figures and tables at end
 \efloat@postfff=\write5
 \@ef@fffopen=\count316
 )) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-02-05 L3 programming layer (loader) 
+Package: expl3 2022-02-21 L3 programming layer (loader) 
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count317
@@ -567,9 +568,9 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_a_int=\count319
 \l__lipsum_b_int=\count320
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/01/26 3.70 The Babel package
+Package: babel 2022/02/13 3.71 The Babel package
 \babel@savecnt=\count321
-\U@D=\dimen288
+\U@D=\dimen289
 \l@unhyphenated=\language79
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
@@ -671,7 +672,7 @@ Package: soulpos 2021/10/15 v1.2 Fancy underlining
 \ulp@cnt=\count337
 \ulp@out=\write6
 \ulp@in=\read4
-\ulwidth=\dimen289
+\ulwidth=\dimen290
 )
 
 Package hyperref Warning: Option `pdftex' has already been used,
@@ -923,7 +924,7 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-02-05 L3 programming layer (loader) 
+(biblatex)             2022-02-21 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
@@ -997,13 +998,13 @@ LaTeX Font Info:    ... okay on input line 72.
 (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count476
-\scratchdimen=\dimen290
+\scratchdimen=\dimen291
 \scratchbox=\box73
 \nofMPsegments=\count477
 \nofMParguments=\count478
 \everyMPshowfont=\toks35
 \MPscratchCnt=\count479
-\MPscratchDim=\dimen291
+\MPscratchDim=\dimen292
 \MPnumerator=\count480
 \makeMPintoPDFobject=\count481
 \everyMPtoPDFconversion=\toks36
@@ -1024,6 +1025,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 72.
 LaTeX Info: Redefining \pageref on input line 72.
 LaTeX Info: Redefining \nameref on input line 72.
+ (Sprint2_Draft.out) (Sprint2_Draft.out)
 \@outlinefile=\write8
 \openout8 = `Sprint2_Draft.out'.
 
@@ -1043,9 +1045,9 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@buffer=\toks40
 \SOUL@token=\toks41
 \SOUL@spaceskip=\skip120
-\SOUL@ttwidth=\dimen292
-\SOUL@uldp=\dimen293
-\SOUL@ulht=\dimen294
+\SOUL@ttwidth=\dimen293
+\SOUL@uldp=\dimen294
+\SOUL@ulht=\dimen295
 ))
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
@@ -1087,27 +1089,105 @@ Package biblatex Info: Automatic encoding selection.
 \openout7 = `Sprint2_Draft.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Sprint2_Draft.bbl' not found.
+Package biblatex Info: ... file 'Sprint2_Draft.bbl' found.
+ (Sprint2_Draft.bbl
 
-No file Sprint2_Draft.bbl.
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                NCDPI
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                NCReportCards
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                NCStats
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                QualityofLife
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                castellano2017
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                castleman2014intensive
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                deslonde2018high
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                farmer2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                lee1993
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                magnuson2000
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                tang2019high
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                team1a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 72.
 Package biblatex Info: Reference segment=0 on input line 72.
-<./images//UNC_logo.png, id=6, 501.875pt x 501.875pt>
+<./images//UNC_logo.png, id=42, 501.875pt x 501.875pt>
 File: ./images//UNC_logo.png Graphic file (type png)
 <use ./images//UNC_logo.png>
 Package pdftex.def Info: ./images//UNC_logo.png  used on input line 74.
 (pdftex.def)             Requested size: 227.62204pt x 227.62596pt.
-[1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+ [1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 \openout6 = `Sprint2_Draft.upa'.
 
  <./images//UNC_logo.png>] (sections/overview.tex
-
-LaTeX Warning: Citation 'chetty2014' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'chetty2014' on page 2 undefined on input line 3.
-
 
 LaTeX Warning: Citation 'castleman2014intensive' on page 2 undefined on input line 10.
 
@@ -1190,60 +1270,40 @@ LaTeX Warning: Citation 'QualityofLife' on page 6 undefined on input line 22.
 
 LaTeX Warning: Citation 'magnuson2000' on page 6 undefined on input line 25.
 
-
-LaTeX Warning: Citation 'chetty2014' on page 6 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'LOO' on page 6 undefined on input line 27.
-
 [6]
 
 LaTeX Warning: Citation 'NCDPI' on page 7 undefined on input line 37.
-
-
-LaTeX Warning: Reference `tab:codebook' on page 7 undefined on input line 38.
-
-
-LaTeX Warning: Reference `tab:summarystats1' on page 7 undefined on input line 41.
-
-
-LaTeX Warning: Reference `tab:summarystats2' on page 7 undefined on input line 41.
-
-
-LaTeX Warning: Reference `tab:idvariables' on page 7 undefined on input line 41.
 
 ) (sections/analysis.tex) [7] (sections/conclusion.tex
 
 LaTeX Warning: Citation 'castleman2014intensive' on page 8 undefined on input line 2.
 
-) [8]
-
-LaTeX Warning: Empty bibliography on input line 93.
-
-[9] (tables/intentions_table.tex
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+) [8] [9]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 93.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 93.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 93.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 93.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-) (tables/codebook_table.tex
+(Font)              <6> on input line 93.
+ [10
+
+] (tables/intentions_table.tex) (tables/codebook_table.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 []|\T1/lmr/m/n/12 Report
  []
@@ -1255,21 +1315,12 @@ Overfull \hbox (5.58627pt too wide) in paragraph at lines 26--26
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 32.
-
-LaTeX Warning: Reference `tab:summarystats1' on page 10 undefined on input line 32.
-
-
-LaTeX Warning: Reference `tab:summarystats2' on page 10 undefined on input line 32.
-
-
-LaTeX Warning: Reference `tab:intentions' on page 10 undefined on input line 33.
-
 )
 Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--100
 []  
  []
 
-(tables/id_variables.tex [10
+(tables/id_variables.tex [11
 
 ]
 Overfull \hbox (3.14948pt too wide) in paragraph at lines 12--12
@@ -1306,18 +1357,18 @@ Overfull \hbox (5.71657pt too wide) in paragraph at lines 2--102
 []  
  []
 
-(tables/summary_stats.tex [11]
+(tables/summary_stats.tex [12]
 Overfull \hbox (1.38605pt too wide) in paragraph at lines 9--10
 []|\T1/lmr/m/n/12 Missing| 
  []
 
-) (tables/summary_stats2.tex [12]
+) (tables/summary_stats2.tex [13]
 Overfull \hbox (1.38605pt too wide) in paragraph at lines 9--10
 []|\T1/lmr/m/n/12 Missing| 
  []
 
-) [13] [14]
-<./images//AP Participation Rate.png, id=90, 1084.05pt x 361.35pt>
+) [14] [15]
+<./images//AP Participation Rate.png, id=136, 1084.05pt x 361.35pt>
 File: ./images//AP Participation Rate.png Graphic file (type png)
 <use ./images//AP Participation Rate.png>
 Package pdftex.def Info: ./images//AP Participation Rate.png  used on input line 111.
@@ -1327,7 +1378,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 111--113
 [][]
  []
 
-<./images//AP Pass Rate.png, id=91, 1084.05pt x 361.35pt>
+<./images//AP Pass Rate.png, id=137, 1084.05pt x 361.35pt>
 File: ./images//AP Pass Rate.png Graphic file (type png)
 <use ./images//AP Pass Rate.png>
 Package pdftex.def Info: ./images//AP Pass Rate.png  used on input line 117.
@@ -1337,7 +1388,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 117--119
 [][]
  []
 
-<./images//CTE Student Enrollment.png, id=92, 1084.05pt x 361.35pt>
+<./images//CTE Student Enrollment.png, id=138, 1084.05pt x 361.35pt>
 File: ./images//CTE Student Enrollment.png Graphic file (type png)
 <use ./images//CTE Student Enrollment.png>
 Package pdftex.def Info: ./images//CTE Student Enrollment.png  used on input line 123.
@@ -1347,7 +1398,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 123--125
 [][]
  []
 
-<./images//EDS Students College Enrollment.png, id=93, 1084.05pt x 361.35pt>
+<./images//EDS Students College Enrollment.png, id=139, 1084.05pt x 361.35pt>
 File: ./images//EDS Students College Enrollment.png Graphic file (type png)
 <use ./images//EDS Students College Enrollment.png>
 Package pdftex.def Info: ./images//EDS Students College Enrollment.png  used on input line 129.
@@ -1357,7 +1408,7 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 129--131
 [][]
  []
 
-<./images//Total Counselors.png, id=94, 1084.05pt x 361.35pt>
+<./images//Total Counselors.png, id=140, 1084.05pt x 361.35pt>
 File: ./images//Total Counselors.png Graphic file (type png)
 <use ./images//Total Counselors.png>
 Package pdftex.def Info: ./images//Total Counselors.png  used on input line 135.
@@ -1367,44 +1418,27 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 135--137
 [][]
  []
 
-AED endfloat: Processing end Figures and Tables [15
+AED endfloat: Processing end Figures and Tables [16
 
- <./images//AP Participation Rate.png> <./images//AP Pass Rate.png>] [16 <./images//CTE Student Enrollment.png> <./images//EDS Students College Enrollment.png>] [17 <./images//Total Counselors.png>] (Sprint2_Draft.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Sprint2_Draft.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Sprint2_Draft.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  4B8253748405316E8A5C37AA1D63FE98;992.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Sprint2_Draft
-(biblatex)                and rerun LaTeX afterwards.
-
+ <./images//AP Participation Rate.png> <./images//AP Pass Rate.png>] [17 <./images//CTE Student Enrollment.png> <./images//EDS Students College Enrollment.png>] [18 <./images//Total Counselors.png>] (Sprint2_Draft.aux)
+Package rerunfilecheck Info: File `Sprint2_Draft.out' has not changed.
+(rerunfilecheck)             Checksum: 4B8253748405316E8A5C37AA1D63FE98;992.
 Package logreq Info: Writing requests to 'Sprint2_Draft.run.xml'.
 \openout1 = `Sprint2_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37214 strings out of 478584
- 741679 string characters out of 2844401
- 1600605 words of memory out of 3000000
- 54749 multiletter control sequences out of 15000+600000
- 518143 words of font info for 61 fonts, out of 8000000 for 9000
+ 37344 strings out of 478584
+ 744259 string characters out of 2844401
+ 1603461 words of memory out of 3000000
+ 54868 multiletter control sequences out of 15000+600000
+ 515148 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,113p,811b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint2_Draft.pdf (17 pages, 249689 bytes).
+{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+Output written on Sprint2_Draft.pdf (18 pages, 236461 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 200 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 

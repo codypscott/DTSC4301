@@ -1,8 +1,19 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Sprint3_Draft.blg'
-[136] biber-MSWIN64:340> INFO - === 
-[176] Biber.pm:415> INFO - Reading 'Sprint3_Draft.bcf'
-[319] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.8, expected version 3.7.
-This means that your biber (2.16) and biblatex (3.17) versions are incompatible.
-See compat matrix in biblatex or biber PDF documentation.
-[319] Biber.pm:132> INFO - ERRORS: 1
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'Sprint3_Draft.blg'
+[134] biber-MSWIN64:340> INFO - === 
+[174] Biber.pm:418> INFO - Reading 'Sprint3_Draft.bcf'
+[335] Biber.pm:972> INFO - Found 19 citekeys in bib section 0
+[353] Biber.pm:4383> INFO - Processing section 0
+[366] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[434] bibtex.pm:1713> INFO - LaTeX decoding ...
+[494] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[640] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[640] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[640] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[640] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[674] bbl.pm:654> INFO - Writing 'Sprint3_Draft.bbl' with encoding 'UTF-8'
+[687] bbl.pm:757> INFO - Output to Sprint3_Draft.bbl
+[690] Biber.pm:130> WARN - Duplicate entry key: 'ButlerJohnSibley1999RS&U' in file 'bibliography.bib', skipping ...
+[691] Biber.pm:130> WARN - legacy month field 'Jul' in entry 'opportunityinsights' is not an integer - this will probably not sort properly.
+[691] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\ricke\AppData\Local\Temp\biber_tmp_JtFY\f4d088b3f9f145b5c3058da33afd57d4_20532.utf8, line 95, warning: undefined macro "2020-01-27"
+[691] Biber.pm:132> INFO - WARNINGS: 3

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 02:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.27)  27 FEB 2022 04:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -927,24 +927,24 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
  (Sprint3_Draft.aux)
 \openout1 = `Sprint3_Draft.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -999,7 +999,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 73.
+Package hyperref Info: Link coloring OFF on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
@@ -1007,9 +1007,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count478
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
  (Sprint3_Draft.out) (Sprint3_Draft.out)
 \@outlinefile=\write8
 \openout8 = `Sprint3_Draft.out'.
@@ -1020,7 +1020,7 @@ File: APA7american.txt 2020/12/02 v1.02 apa7 configuration for American English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package soulpos Info: Loading soulutf8 on input line 73.
+Package soulpos Info: Loading soulutf8 on input line 75.
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/soulutf8\soulutf8.sty
 Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
  (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
@@ -1077,22 +1077,19 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Sprint3_Draft.bbl' found.
  (Sprint3_Draft.bbl)
-Package biblatex Info: Reference section=0 on input line 73.
-Package biblatex Info: Reference segment=0 on input line 73.
-<./images//UNC_logo.png, id=26, 501.875pt x 501.875pt>
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+<./images//UNC_logo.png, id=42, 501.875pt x 501.875pt>
 File: ./images//UNC_logo.png Graphic file (type png)
 <use ./images//UNC_logo.png>
-Package pdftex.def Info: ./images//UNC_logo.png  used on input line 75.
+Package pdftex.def Info: ./images//UNC_logo.png  used on input line 77.
 (pdftex.def)             Requested size: 227.62204pt x 227.62596pt.
  [1{C:/Users/ricke/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 \openout6 = `Sprint3_Draft.upa'.
 
  <./images//UNC_logo.png>] (sections/overview.tex
-
-LaTeX Warning: Citation 'opportunityinsights' on page 2 undefined on input line 5.
-
-<./images//chetty_economic_mobility.png, id=36, 806.01125pt x 519.9425pt>
+<./images//chetty_economic_mobility.png, id=53, 806.01125pt x 519.9425pt>
 File: ./images//chetty_economic_mobility.png Graphic file (type png)
 <use ./images//chetty_economic_mobility.png>
 Package pdftex.def Info: ./images//chetty_economic_mobility.png  used on input line 6.
@@ -1102,51 +1099,211 @@ Overfull \hbox (13.94182pt too wide) in paragraph at lines 6--8
 [][]
  []
 
+[2 <./images//chetty_economic_mobility.png>] [3]
+<./images//school_income.png, id=85, 1415.2875pt x 638.385pt>
+File: ./images//school_income.png Graphic file (type png)
+<use ./images//school_income.png>
+Package pdftex.def Info: ./images//school_income.png  used on input line 47.
+(pdftex.def)             Requested size: 483.69647pt x 284.52364pt.
 
-LaTeX Warning: Citation 'opportunityinsights' on page 2 undefined on input line 17.
+Overfull \hbox (13.94145pt too wide) in paragraph at lines 47--49
+[][]
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 59.
+(C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 59.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 59.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 59.
+ (C:\Users\ricke\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 59.
+ [4]) [5 <./images//school_income.png>] (sections/Hypotheses.tex [6] [7] [8]) (sections/data.tex [9] (tables/codebook_table.tex
+Overfull \hbox (5.58627pt too wide) in paragraph at lines 15--15
+[]|\T1/lmr/m/n/12 2019_med_hh_inc| 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 28.
+
+Overfull \hbox (17.47191pt too wide) in paragraph at lines 2--33
+[]  
+ []
+
+[10]
+Overfull \hbox (18.55087pt too wide) in paragraph at lines 46--46
+[]|\T1/lmr/m/n/12 enroll_Disadvantaged| 
+ []
 
 
-LaTeX Warning: Citation 'opportunityinsights' on page 2 undefined on input line 19.
+Underfull \hbox (badness 1728) in paragraph at lines 46--47
+[]|\T1/lmr/m/n/12 Percentage of eco-nom-i-cally dis-ad-van-taged
+ []
+
+)
+Overfull \hbox (17.47191pt too wide) in paragraph at lines 35--23
+[] 
+ []
+
+[11] (tables/summary_stats.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\T1/lmr/m/n/12 Non-
+ []
 
 
-LaTeX Warning: Citation 'chetty2014' on page 2 undefined on input line 19.
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\T1/lmr/m/n/12 Missing
+ []
 
+)
+Overfull \hbox (18.24887pt too wide) in paragraph at lines 24--26
+[][] 
+ []
 
-LaTeX Warning: Citation 'chetty2014' on page 2 undefined on input line 21.
+[12]) [13] (sections/analysis.tex [14] (tables/correlation_table.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]|\T1/lmr/m/n/12 AP Pass-ing
+ []
 
-) [2 <./images//chetty_economic_mobility.png>] (sections/Hypotheses.tex) (sections/data.tex) (sections/analysis.tex) (sections/conclusion.tex)
+)
+Overfull \hbox (3.63168pt too wide) in paragraph at lines 2--27
+[] 
+ []
 
-LaTeX Warning: Empty bibliography on input line 99.
+[15] [16]) (sections/conclusion.tex [17] [18]) [19] [20
 
-[3] AED endfloat: Processing end Figures and Tables [4
+] [21]
+<./images//CooksDistance.png, id=234, 963.6pt x 722.7pt>
+File: ./images//CooksDistance.png Graphic file (type png)
+<use ./images//CooksDistance.png>
+Package pdftex.def Info: ./images//CooksDistance.png  used on input line 103.
+(pdftex.def)             Requested size: 483.69684pt x 362.77165pt.
 
-] (Sprint3_Draft.aux)
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 103--105
+[][]
+ []
 
-LaTeX Warning: There were undefined references.
+[22
 
+ <./images//CooksDistance.png>]
+<./images//QQPlot.png, id=242, 963.6pt x 722.7pt>
+File: ./images//QQPlot.png Graphic file (type png)
+<use ./images//QQPlot.png>
+Package pdftex.def Info: ./images//QQPlot.png  used on input line 110.
+(pdftex.def)             Requested size: 483.69684pt x 362.77165pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 110--112
+[][]
+ []
+
+[23
+
+ <./images//QQPlot.png>]
+<./images//AP_part_pct_histogram.png, id=250, 1204.5pt x 648.4225pt>
+File: ./images//AP_part_pct_histogram.png Graphic file (type png)
+<use ./images//AP_part_pct_histogram.png>
+Package pdftex.def Info: ./images//AP_part_pct_histogram.png  used on input line 117.
+(pdftex.def)             Requested size: 483.69684pt x 260.39339pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 117--119
+[][]
+ []
+
+<./images//AP_pass_pct_histogram.png, id=251, 1204.5pt x 648.4225pt>
+File: ./images//AP_pass_pct_histogram.png Graphic file (type png)
+<use ./images//AP_pass_pct_histogram.png>
+Package pdftex.def Info: ./images//AP_pass_pct_histogram.png  used on input line 123.
+(pdftex.def)             Requested size: 483.69684pt x 260.39339pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 123--125
+[][]
+ []
+
+<./images//CTE_cred_pct_histogram.png, id=252, 1204.5pt x 648.4225pt>
+File: ./images//CTE_cred_pct_histogram.png Graphic file (type png)
+<use ./images//CTE_cred_pct_histogram.png>
+Package pdftex.def Info: ./images//CTE_cred_pct_histogram.png  used on input line 129.
+(pdftex.def)             Requested size: 483.69684pt x 260.39339pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 129--131
+[][]
+ []
+
+<./images//CTE_enroll_pct_histogram.png, id=253, 1204.5pt x 648.4225pt>
+File: ./images//CTE_enroll_pct_histogram.png Graphic file (type png)
+<use ./images//CTE_enroll_pct_histogram.png>
+Package pdftex.def Info: ./images//CTE_enroll_pct_histogram.png  used on input line 135.
+(pdftex.def)             Requested size: 483.69684pt x 260.39339pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 135--137
+[][]
+ []
+
+<./images//int_commcoll_histogram.png, id=254, 1204.5pt x 648.4225pt>
+File: ./images//int_commcoll_histogram.png Graphic file (type png)
+<use ./images//int_commcoll_histogram.png>
+Package pdftex.def Info: ./images//int_commcoll_histogram.png  used on input line 141.
+(pdftex.def)             Requested size: 483.69684pt x 260.39339pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 141--143
+[][]
+ []
+
+<./images//int_pubsr_histogram.png, id=255, 1204.5pt x 648.4225pt>
+File: ./images//int_pubsr_histogram.png Graphic file (type png)
+<use ./images//int_pubsr_histogram.png>
+Package pdftex.def Info: ./images//int_pubsr_histogram.png  used on input line 147.
+(pdftex.def)             Requested size: 483.69684pt x 260.39339pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 147--149
+[][]
+ []
+
+<./images//int_trdbusnrs_histogram.png, id=256, 1210.5225pt x 648.4225pt>
+File: ./images//int_trdbusnrs_histogram.png Graphic file (type png)
+<use ./images//int_trdbusnrs_histogram.png>
+Package pdftex.def Info: ./images//int_trdbusnrs_histogram.png  used on input line 153.
+(pdftex.def)             Requested size: 483.69684pt x 259.09726pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 153--155
+[][]
+ []
+
+AED endfloat: Processing end Figures and Tables [24
+
+ <./images//AP_part_pct_histogram.png>] [25 <./images//AP_pass_pct_histogram.png>] [26 <./images//CTE_cred_pct_histogram.png>] [27 <./images//CTE_enroll_pct_histogram.png>] [28 <./images//int_commcoll_histogram.png>] [29 <./images//int_pubsr_histogram.png>] [30 <./images//int_trdbusnrs_histogram.png>] (Sprint3_Draft.aux)
 Package rerunfilecheck Info: File `Sprint3_Draft.out' has not changed.
-(rerunfilecheck)             Checksum: 14D47070FA86A09EADAB3C245F8E066E;483.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Sprint3_Draft
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 0D0EACB0E63FB8E4A15F7B151ACBCF90;993.
 Package logreq Info: Writing requests to 'Sprint3_Draft.run.xml'.
 \openout1 = `Sprint3_Draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36982 strings out of 478584
- 736372 string characters out of 2844401
- 1576231 words of memory out of 3000000
- 54595 multiletter control sequences out of 15000+600000
- 480129 words of font info for 33 fonts, out of 8000000 for 9000
+ 37505 strings out of 478584
+ 749223 string characters out of 2844401
+ 1589262 words of memory out of 3000000
+ 54977 multiletter control sequences out of 15000+600000
+ 518147 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,113p,812b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Sprint3_Draft.pdf (4 pages, 165300 bytes).
+ 99i,15n,113p,2020b,5352s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ricke/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+Output written on Sprint3_Draft.pdf (30 pages, 617876 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 

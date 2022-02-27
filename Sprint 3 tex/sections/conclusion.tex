@@ -1,11 +1,46 @@
-% The strategies and implementation tactics proposed by Opportunity Task Force appear in line with the scholarly literature. 
-% From increasing the number of guidance counselors to provide insight into academic and career options, to increasing the accessibility of AP courses to students from low socioeconomic backgrounds, the literature suggests that those mitigation measures in fact have shown positive effects on students \parencite[][]{castleman2014intensive}.
-% It is expected to see a positive correlation between the number of guidance counselors and college acceptance rates. 
-% Similarly, a positive relationship between counselors and the number of students obtaining CTE credentials is an expectation. 
-% With the implementation of a linear regression model to establish the relationship between these variables, it is anticipated to see a positive value for coefficient of the dependent variable. 
-% Other machine learning models are still under consideration, but the team expects to find results consistent with the hypothesis that have been presented in this paper. 
-% However, the details of those explorations are still underway and the team is actively looking for data that could continue to help establish those relationships. 
-% The next step for our team will be deciding the appropriate analysis methods and machine learning models for future prediction. 
-% Further research into the domain via scholarly resources is necessary to support future methods, models, and evaluation metrics that will be implemented.
-% The next sprint will divulge into the attributes of the results, the interpretation of analysis, and the determination of the chosen predictive model with effort to anticipate future markers for scholastic success.
-% This effort will be done to assist students in the pursuit of academic and occupational success, and alleviate hardship hereafter with regard to systemic obstructions in Upward Mobility.
+In both hypothesis 1 and hypothesis 2, the only concepts measuring social capital are the social capital that guidance counselors provide to students and median household income. This is neglecting the many other sources of social capital that could benefit students on their journey. 
+Higher socioeconomic areas have been associated with higher social capital. This lack of consideration on the effect of low social capital on academic success leaves a gap in the research that needs to be addressed. 
+Economic mobility has been associated with health, and health with access to parks or green spaces \parencite{browning}. 
+Considering socioeconomic status plays a role in the level of health, access to more green spaces can be beneficial to the overall health of low-socioeconomic students \parencite{browning}. 
+Improving health can improve cognitive function \parencite{browning}. 
+Healthy students are less likely to miss school and not fall behind on their work. 
+Access to green spaces can be a conceptualization for social capital, as recreation has been a recommended method to foster social capital (Degraaf \& Jordan, 2003).
+Schools having programs that are proactive in students' lives can also help improve social capital. 
+Access to more in-depth advising, college prep services, and internships can help build the social capital of a student. 
+By inspecting school programs, we can operationally define another source of social capital. 
+Available data will be explored to operationalize various sources of social capital for Project 2.
+The proxy for the economic status of the schools could be better defined. Some avenues the team is exploring to do this are: tax return data, poverty-to-income ratio, and eligibility of reduced lunch within the student population. 
+Tax return data is available at zip code, making it very easy to join with preexisting data. This data is publicly available from the Internal Revenue Service (IRS) and even includes information on income bracket or real estate taxes paid. 
+This can be a proxy for the economic status of the school zone. Some shortcomings to this are that one can live in a zip code and pay property taxes in another zip code. 
+The number of tax returns can be a good estimator of the number of households within a zip code. The poverty-to-income ratio is a dataset that has information on the poverty of each school. 
+The upside to this is that it is at school level, it has unique identifiers that are easily joined with the preexisting data, and provides a good look at the poverty level in each high school. 
+The drawbacks of this is that the data set only contains information from the 2015--16 school year and onward. 
+Eligibility for reduced lunch has often been linked to low income. This is a method that can help estimate the percentage of students in poverty, but there have been conflicting findings on if reduced lunch equates to poverty. 
+Further research is needed before this indicator can be used. 
+
+Similarly, the current geographic data for each school is by zip code. 
+School districts are not zoned by zip code, so this can skew the results for the socioeconomic status of each school. Neighborhood codes can be used, in conjunction with maps of the school zones to map out which neighborhoods belong to which school. 
+This process would be manually done, as there is no registry of addresses belonging to each high school. 
+Instead, this information is in the form of maps with little detail and no street names. 
+Cross-referencing these maps with the interactive Quality of Life Explorer, it would be possible to obtain all neighborhood codes belonging to each school. 
+The team is discussing the future of zip codes as the measure for school zones. 
+
+For hypothesis 1, AP participation and passing rate can be an issue in future analysis. 
+There are a variety of indicators to measure high school success, such as grade point average, graduation rate, and test scores. 
+Another indicator has been left out entirely, which is how many students are enrolled in college courses during high school. 
+This data was just recently discovered by the team and has not been incorporated into the hypothesis model, nor analysis. 
+Exposure to college courses and a head start on credits can be beneficial to high school students entering postsecondary education. 
+This was a concept that was worked out of hypothesis 1 due to data limitations and the team is eager to include this variable going forward. 
+This variable will be included in Project 2. 
+Other measures of academic performance, such as the ones listed above, will be investigated to replace or supplement AP passing and participation rates. 
+
+The future of Hypothesis 2 is largely determined by a CMS data request. Public data on the predictor variables is not available. 
+Currently, the team is reaching out to the research request manager at CMS. 
+Information on CTE and number of counselors are both being requested, and information on spending for staff training to better operationalize the life pathway and discrimination training of mentors. 
+If this data can be made available to the team, then hypothesis 2 will receive the same analytical methodology as hypothesis 1. 
+If not, hypothesis 2 will be altered in a way that is measurable with available information. 
+The data request manager will be emailed in the near future. 
+
+%will you do a more robust analysis with more data to look for causation and/or prediction?
+
+%will you expand on the results of the analysis to make recommendations to Charlotte to improve upward mobility?

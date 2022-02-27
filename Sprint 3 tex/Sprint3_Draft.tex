@@ -26,6 +26,8 @@
 
 \usepackage{array} %% for centering custom columns in tables
 
+% \usepackage{endfloat} %% one float per page
+
 %%
 %% apa style bibliography
 %% sort citations by name, year, title
@@ -82,11 +84,6 @@
 
 \section{Data Description}
 \input{sections/data.tex}
-% \input{tables/correlation_table.tex}
-
-% \input{tables/codebook_table.tex}
-
-% \input{tables/summary_stats.tex}
 
 \section{Analysis}
 \input{sections/analysis.tex}
@@ -99,47 +96,63 @@
 \printbibliography
 
 \appendix
-\section{}
-% \input{tables/intentions_table.tex}
-% \\
-% \input{tables/codebook_table.tex}
-% \\
-% \input{tables/id_variables.tex}
-% \\
-% \input{tables/summary_stats.tex}
 
+\section{Analysis Plots}
+\begin{figure}
+    \caption{Cooks Distance}
+    \includegraphics[width=17cm]{CooksDistance.png}
+    \label{fig12}
+\end{figure}
 
-% \section{}
-% \begin{figure}
-%     \caption{AP Participation Percent over Time}
-%     \includegraphics[width=17cm]{AP Participation Rate.png}
-%     \label{fig1}
-% \end{figure}
+\section{Analysis Plots}
+\begin{figure}
+    \caption{Q-Q Plot}
+    \includegraphics[width=17cm]{QQPlot.png}
+    \label{fig13}
+\end{figure}
 
-% \begin{figure}
-%     \caption{AP Pass Rate over Time}
-%     \includegraphics[width=17cm]{AP Pass Rate.png}
-%     \label{fig2}
-% \end{figure}
+\section{Variable Distributions}
+\begin{figure}
+     \caption{AP Participation Histogram}
+     \includegraphics[width=17cm]{AP_part_pct_histogram.png}
+     \label{fig5}
+\end{figure}
 
-% \begin{figure}
-%     \caption{CTE Student Enrollment over Time}
-%     \includegraphics[width=17cm]{CTE Student Enrollment.png}
-%     \label{fig3}
-% \end{figure}
+\begin{figure}
+    \caption{AP Passing Histogram}
+    \includegraphics[width=17cm]{AP_pass_pct_histogram.png}
+    \label{fig6}
+\end{figure}
 
-% \begin{figure}
-%     \caption{Economically Disadvantaged Students College Enrollment over Time}
-%     \includegraphics[width=17cm]{EDS Students College Enrollment.png}
-%     \label{fig4}
-% \end{figure}
+\begin{figure}
+    \caption{CTE Credentials Histogram}
+    \includegraphics[width=17cm]{CTE_cred_pct_histogram.png}
+    \label{fig7}
+\end{figure}
 
-% \begin{figure}
-%     \caption{Number of Counselors at District Level}
-%     \includegraphics[width=17cm]{Total Counselors.png}
-%     \label{fig5}
-% \end{figure}
+\begin{figure}
+    \caption{CTE Enrollment Histogram}
+    \includegraphics[width=17cm]{CTE_enroll_pct_histogram.png}
+    \label{fig8}
+\end{figure}
 
+\begin{figure}
+    \caption{Community College Intentions Histogram}
+    \includegraphics[width=17cm]{int_commcoll_histogram.png}
+    \label{fig9}
+\end{figure}
+
+\begin{figure}
+    \caption{Public Senior Institutions Intentions Histogram}
+    \includegraphics[width=17cm]{int_pubsr_histogram.png}
+    \label{fig10}
+\end{figure}
+
+\begin{figure}
+    \caption{Trade/Business/Nursing Intentions Histogram}
+    \includegraphics[width=17cm]{int_trdbusnrs_histogram.png}
+    \label{fig11}
+\end{figure}
 
 
 %% ends the document body

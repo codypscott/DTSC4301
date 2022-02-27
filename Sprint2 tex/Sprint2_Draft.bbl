@@ -1,0 +1,119 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{chetty2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7a853740afbc544905334cf607b3cd51}{%
+           family={Chetty},
+           familyi={C\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dddc1bd4014bf50f037b3b8772994dd}{%
+           family={Hendren},
+           familyi={H\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=363dcbd1a614bc00963eda898f3bd139}{%
+           family={Kline},
+           familyi={K\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f040f5aac2c176810fed8b44b9c401a4}{%
+           family={Saez},
+           familyi={S\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{fullhash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \strng{bibnamehash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \strng{authorbibnamehash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \strng{authornamehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{authorfullhash}{b58bec813ce5ad0b088d6d3f8e6fc2d3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{4}
+      \field{title}{Where is the land of opportunity? The geography of intergenerational mobility in the United States}
+      \field{volume}{129}
+      \field{year}{2014}
+      \field{pages}{1553\bibrangedash 1623}
+      \range{pages}{71}
+    \endentry
+    \entry{LOO}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=378abeb0505613e1d76b2fb4ceff6e22}{%
+           family={Task-Force},
+           familyi={T\bibinithyphendelim F\bibinitperiod},
+           given={Charlotte-Mecklenburg\bibnamedelima Opportunity},
+           giveni={C\bibinithyphendelim M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{fullhash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{bibnamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authorbibnamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authornamehash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \strng{authorfullhash}{378abeb0505613e1d76b2fb4ceff6e22}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leading On Opportunity}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://s3.amazonaws.com/static.leadingonopportunity.org/downloads/LeadingOnOpportunity_Report-Compressed.pdf
+      \endverb
+      \verb{url}
+      \verb https://s3.amazonaws.com/static.leadingonopportunity.org/downloads/LeadingOnOpportunity_Report-Compressed.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{NCDPI}
+  \missing{NCReportCards}
+  \missing{NCStats}
+  \missing{QualityofLife}
+  \missing{castellano2017}
+  \missing{castleman2014intensive}
+  \missing{deslonde2018high}
+  \missing{farmer2006}
+  \missing{lee1993}
+  \missing{magnuson2000}
+  \missing{tang2019high}
+  \missing{team1a}
+\endrefsection
+\endinput
+

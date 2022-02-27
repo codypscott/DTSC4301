@@ -1,11 +1,54 @@
-% There are a few potential analysis methods that could be implemented to help validate our hypotheses. The Chi-Squared Test can be used to help test the relationship between predictor and target variables. The evaluation metric, p-value based on degrees of freedom, can provide a statistically significant (or not significant) answer whether a predictor variable is related to the targets. 
-% Regression analysis is perfect for continuous variables, of which the majority of the variables being studied are. The few discrete variables that exist (such as number of counselors) can be divided into the student population, or another population statistic, to create a continuous variable. 
-% Regression allows for evaluation metrics such as the root mean squared error, correlation coefficients, and mean absolute error. 
-% It can be implemented with machine learning models or multivariate equations. 
-% Random Forest models are generally strong and simple to put into practice and can perform regression. Correlation can be helpful in determining the direction of a relationship between variables. 
-% The team is still looking into final analysis techniques. 
-% Regression and the Chi-Squared are some of the methods that seem to fit with the type of data and problem we are approaching. 
-% More machine learning models are being reviewed for fit with the research question and variables that operationalize it.
-% Regression analysis is a definite tool to utilize, but as to how it will be implemented remains a question. 
-% The hypotheses suggest a relationship between variables. 
-% Correlation coefficients can be an important tool in determining the validity of a hypothesis.
+\subsection{Methodology}
+The available data was filtered to group schools based on the median family income. 
+For the year 2021, the median family income for the Charlotte region, according to the US census bureau, is \$62,817. 
+As a loose grouping of schools, the schools where the median income was more than \$62,817 were classified as high socioeconomic groups and the schools where the median income was less than \$62,817 were grouped as low socioeconomic groups. 
+The data was further filtered  creating datasets for before and after 2017 for each socioeconomic group. 
+
+\subsection{Hypothesis 1}
+
+In order to test hypothesis 1 which asserts that increasing the  numbers of mentors will eventually lead to higher college enrollment for low socioeconomic students, intention for enrolling in community college, intention for enrolling in senior institutions, AP participation rate, AP passing rate, and enrollment of disadvantaged students were considered for analysis and building model. 
+Enrollment of disadvantaged students is considered as a response variable and the other variables are considered predictors. 
+The correlation between the variables for both socioeconomic groups before and after  2017 were calculated. 
+The correlation matrix showed that students from higher socioeconomic status, both AP participation and AP passing rate have negative correlation with intentions of enrolling in community college whereas the same variables 
+have positive correlation with the intention of enrolling in senior public institutions. This indicates that the students from higher socioeconomic backgrounds who participated in AP courses are more likely to enroll in senior public institutions. 
+For low socioeconomic student group, the enrollment variable and AP participation rate and AP passing rate have a higher correlation coefficient  for data after 2017. 
+However, higher socioeconomic status students, AP and community college enrollment intentions are negatively or insignificantly positively correlated indicating that students from higher socioeconomic groups are less likely to intend to go to community college. 
+For this group the correlation of AP with intention to enroll in senior public institutions is higher indicating that this group of students are more likely to intend to enroll in senior public institutions. 
+A linear regression model was constructed using enrollment of disadvantaged as dependent variable and the rest of the variable as predictors. 
+The model was tested for any multicollinearity among the predictor variables, the VIF test showed no indication of presence of multicollinearity. 
+However, the parameter estimates associated with AP participation rate, AP passing rate, and community college intentions were statistically insignificant. 
+Also log transformation on dependent variable indicated better linearity. 
+So a final model was created, dropping the insignificant predictors and performing log transformation on the dependent variable. The model was statistically significant with improved adjusted R-square and lower standard error. 
+The model passed normality and constant variance assumptions.
+
+Correlation coefficients between the predictors and the response variable in the data before and after 2017 is shown in table \ref{tab:correlationtable}.
+
+\input{tables/correlation_table.tex}
+
+The correlation coefficients among the dependent and independent variables before 2017 are all negative indicating the predictors were not positively influencing the enrollment of disadvantaged students. 
+However, the correlation coefficient among the same variables after 2017 are all positive indicating that these predictors are starting to positively influence the response variable, enrollment of disadvantaged students.
+
+The model for data after 2017 also shows no presence of multicollinearity. 
+However, the summary of the model shows that none of the predictors are  significant in explaining the variability in the response variable. 
+This is an issue our team is going to look into at depth in the next project. 
+
+\subsection{Hypothesis 2}
+
+Hypothesis 2 currently has no data on CTE enrollment and credentials earned before 2017. K-Nearest Neighbors (KNN) was discussed as a method for filling in this missing data, however, it is getting trained on only data post-2017. 
+This is after the creation of LOO, which would be training data before the recommendations on data made after the recommendations. A KNN model was decided against due to this reason, as the current objective is to compare pre-2017 with post-2017 data. 
+This missing data presents a problem for testing hypothesis 2. Plans for dealing with this issue are addressed later in this paper. 
+
+
+\subsection{Theoretical Analysis}
+
+% Link your findings from the analysis back to your theoretical expectations at a conceptual level, as described in your hypothesis graph. 
+
+
+% Link Findings to theoretical expectations
+%  What are the implications of your findings for how readers should think about the economic mobility problem?  
+
+
+% Return back to the challenge for this project – did you address the challenge of understanding what has happened since the Task Force Report? 
+
+
+% What problems or issues arose in the study that you think are important to consider?

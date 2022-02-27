@@ -1,8 +1,28 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Sprint2_Draft.blg'
-[128] biber-MSWIN64:340> INFO - === 
-[165] Biber.pm:415> INFO - Reading 'Sprint2_Draft.bcf'
-[305] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.8, expected version 3.7.
-This means that your biber (2.16) and biblatex (3.17) versions are incompatible.
-See compat matrix in biblatex or biber PDF documentation.
-[305] Biber.pm:132> INFO - ERRORS: 1
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'Sprint2_Draft.blg'
+[133] biber-MSWIN64:340> INFO - === 
+[170] Biber.pm:418> INFO - Reading 'Sprint2_Draft.bcf'
+[316] Biber.pm:972> INFO - Found 14 citekeys in bib section 0
+[335] Biber.pm:4383> INFO - Processing section 0
+[349] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[412] bibtex.pm:1713> INFO - LaTeX decoding ...
+[421] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[477] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[477] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[477] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[477] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[485] bbl.pm:654> INFO - Writing 'Sprint2_Draft.bbl' with encoding 'UTF-8'
+[487] bbl.pm:757> INFO - Output to Sprint2_Draft.bbl
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'castleman2014intensive' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'lee1993' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'deslonde2018high' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'tang2019high' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'farmer2006' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'magnuson2000' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'castellano2017' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'NCDPI' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'NCReportCards' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'NCStats' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'team1a' (section 0)
+[488] Biber.pm:130> WARN - I didn't find a database entry for 'QualityofLife' (section 0)
+[488] Biber.pm:132> INFO - WARNINGS: 12
